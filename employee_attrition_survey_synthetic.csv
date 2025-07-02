@@ -1,0 +1,1001 @@
+﻿Q1_LikelihoodToStay,Q2_Age,Q3_Gender,Q4_Education,Q5_JobLevel,Q6_Department,Q7_TenureYears,Q8_SalaryBand,Q9_WeeklyHours,Q10_WorkArrangement,Q11_CommuteMin,Q12_JobSatisfaction,Q13_WorkLifeBalance,Q14_CareerGrowthSat,Q15_ManagerRelationship,Q16_CultureAlignment,Q17_ReasonsLeave,Q18_MotivatorsStay,Q19_TrainingHours,Q20_Recommend,Q21_SwitchFor15Raise,Q22_RetentionInitiatives
+2,37,Female,Bachelor’s,Entry,Engineering,3.3,75–120k,57,On-site,39,5,4,3,2,2,"Limited growth, Other, Commute","Competitive pay, Other",22,Yes,Maybe,"Salary review, Career roadmap, Flexible hours"
+4,40,Male,Bachelor’s,Mid,Sales,0.7,<75k,65,On-site,34,4,1,2,5,5,"Low pay, Workload stress","Purposeful work, Benefits, Flexible work",13,No,Yes,"Flexible hours, Salary review"
+4,29,Male,Bachelor’s,Entry,IT Support,12.6,75–120k,46,Hybrid,6,2,5,4,5,5,Culture misfit,"Growth path, Purposeful work, Competitive pay",27,No,Yes,"Wellness programs, Career roadmap, Flexible hours"
+4,25,Male,Master’s,Mid,Engineering,0.7,<75k,49,Hybrid,40,4,2,3,2,5,Manager conflict,Purposeful work,4,Yes,Yes,"Remote option, Other"
+3,25,Female,Bachelor’s,Lead,Sales,1.1,180–250k,47,Hybrid,48,4,4,3,1,2,Workload stress,"Recognition, Flexible work, Other",20,No,Yes,"Mentorship, Wellness programs, Remote option"
+4,41,Male,Bachelor’s,Senior,Engineering,3.7,120–180k,49,Fully Remote,0,5,2,5,4,5,Lack of flexibility,"Team culture, Growth path",31,No,No,"Wellness programs, Flexible hours, Other"
+4,31,Male,Bachelor’s,Senior,IT Support,3.7,75–120k,43,On-site,35,3,4,4,3,5,Manager conflict,"Other, Team culture, Benefits",18,No,No,"Wellness programs, Flexible hours"
+5,20,Male,Bachelor’s,Entry,Marketing,2.0,120–180k,45,On-site,29,5,3,4,4,3,Workload stress,"Flexible work, Purposeful work, Team culture",8,Yes,Maybe,"Career roadmap, Other"
+3,22,Female,Bachelor’s,Entry,Finance,1.4,<75k,40,Hybrid,30,3,4,2,4,3,"Commute, Lack of flexibility, Low pay","Purposeful work, Flexible work",16,No,No,"Career roadmap, Other, Flexible hours"
+4,26,Male,Doctorate,Lead,Engineering,7.8,180–250k,49,On-site,33,3,3,4,5,5,"Manager conflict, Workload stress, Culture misfit",Other,27,No,No,Wellness programs
+4,35,Male,Master’s,Senior,Engineering,4.6,75–120k,39,Hybrid,42,3,4,3,3,4,"Manager conflict, Low pay",Growth path,33,Yes,Maybe,Remote option
+3,41,Male,Diploma,Mid,Engineering,7.0,120–180k,43,Hybrid,26,2,4,3,1,4,"Benefits, Manager conflict, Commute","Recognition, Team culture, Other",47,Yes,Yes,"Other, Salary review"
+4,39,Male,Doctorate,Mid,Other,1.7,75–120k,32,On-site,38,4,4,2,4,5,"Manager conflict, Low pay, Culture misfit","Competitive pay, Recognition, Other",20,No,Yes,Mentorship
+4,34,Female,Master’s,Senior,Product,7.1,180–250k,40,Fully Remote,0,4,4,4,4,4,"Culture misfit, Manager conflict, Benefits","Purposeful work, Recognition",22,Yes,Yes,"Childcare support, Mentorship"
+3,27,Male,Diploma,Mid,Sales,3.0,75–120k,41,On-site,43,4,4,3,4,2,Low pay,"Benefits, Growth path",20,Yes,Maybe,"Remote option, Mentorship"
+4,44,Non-binary,Bachelor’s,Mid,Finance,6.8,75–120k,38,On-site,49,2,3,4,4,4,"Limited growth, Low pay, Lack of flexibility","Competitive pay, Growth path, Purposeful work",23,Yes,Maybe,"Other, Flexible hours"
+2,21,Male,Master’s,Entry,Engineering,2.4,<75k,48,On-site,115,2,4,4,2,3,"Culture misfit, Commute","Other, Manager support",36,Yes,Maybe,Salary review
+4,32,Female,Bachelor’s,Lead,Marketing,2.4,75–120k,43,Hybrid,30,5,4,3,4,4,"Workload stress, Low pay, Commute",Flexible work,26,Yes,Maybe,Childcare support
+4,36,Male,Bachelor’s,Senior,Engineering,2.1,120–180k,47,Hybrid,21,5,4,5,3,2,"Limited growth, Benefits, Lack of flexibility","Other, Benefits, Flexible work",27,No,No,Career roadmap
+4,20,Female,Bachelor’s,Lead,IT Support,1.1,180–250k,41,Fully Remote,0,4,5,3,5,3,"Limited growth, Low pay","Growth path, Other",22,Yes,Yes,Wellness programs
+4,32,Non-binary,Bachelor’s,Senior,Product,1.4,180–250k,35,Hybrid,21,4,3,5,3,2,"Commute, Low pay, Lack of flexibility","Team culture, Growth path, Manager support",19,No,Yes,"Remote option, Other, Childcare support"
+5,44,Male,Diploma,Senior,Engineering,5.6,75–120k,51,Fully Remote,0,3,3,5,5,5,"Commute, Culture misfit, Workload stress",Growth path,13,No,Yes,Salary review
+4,36,Male,Doctorate,Entry,Sales,10.2,<75k,47,Hybrid,20,4,5,3,3,5,"Other, Benefits","Competitive pay, Growth path, Other",22,Yes,Yes,Salary review
+3,37,Male,Bachelor’s,Senior,Sales,3.8,120–180k,44,Hybrid,41,3,2,4,3,4,"Lack of flexibility, Low pay","Recognition, Other",0,Yes,No,"Childcare support, Career roadmap, Wellness programs"
+3,26,Female,Master’s,Lead,HR,5.4,180–250k,54,Fully Remote,0,2,4,3,5,5,Benefits,Flexible work,15,Yes,No,"Mentorship, Remote option"
+4,26,Male,Diploma,Lead,Finance,10.4,>250k,47,On-site,17,5,4,3,4,4,"Manager conflict, Other","Benefits, Team culture",18,No,Maybe,Salary review
+3,28,Male,Master’s,Mid,IT Support,14.1,75–120k,59,On-site,47,3,1,1,3,4,"Lack of flexibility, Benefits","Other, Benefits, Competitive pay",28,No,Maybe,Career roadmap
+3,32,Male,Bachelor’s,Senior,Product,7.5,75–120k,47,Fully Remote,0,4,3,4,5,4,"Benefits, Limited growth","Recognition, Team culture",31,Yes,Yes,"Mentorship, Remote option, Other"
+3,36,Male,Bachelor’s,Lead,Sales,1.5,120–180k,40,On-site,20,2,2,4,3,3,Commute,"Team culture, Purposeful work, Flexible work",39,Yes,Yes,Mentorship
+3,38,Male,Master’s,Lead,Engineering,8.7,>250k,39,On-site,36,3,4,4,3,4,"Commute, Benefits, Other",Team culture,28,Yes,No,"Wellness programs, Mentorship, Childcare support"
+4,58,Male,Bachelor’s,Mid,Engineering,8.2,75–120k,39,On-site,17,5,4,4,4,4,"Workload stress, Limited growth, Other","Benefits, Growth path, Purposeful work",20,Yes,Maybe,"Mentorship, Childcare support"
+2,30,Male,Bachelor’s,Mid,Marketing,10.8,75–120k,45,On-site,31,2,2,3,2,2,Culture misfit,"Recognition, Purposeful work",11,Yes,No,"Salary review, Childcare support, Other"
+4,34,Male,Other,Entry,Product,1.7,75–120k,40,On-site,39,4,5,4,4,3,"Low pay, Manager conflict",Manager support,13,Yes,Yes,"Wellness programs, Childcare support, Mentorship"
+4,36,Male,Bachelor’s,Senior,Engineering,3.5,75–120k,35,On-site,22,4,4,4,4,3,"Culture misfit, Workload stress, Lack of flexibility","Manager support, Team culture",27,No,Yes,"Other, Wellness programs"
+3,34,Male,Diploma,Senior,Sales,3.3,75–120k,45,On-site,34,4,4,3,5,3,"Lack of flexibility, Limited growth",Flexible work,15,Yes,No,"Mentorship, Salary review, Other"
+3,25,Male,Bachelor’s,Senior,Sales,4.7,120–180k,43,Fully Remote,0,4,2,5,4,3,Benefits,"Competitive pay, Purposeful work",23,No,Maybe,"Childcare support, Other"
+3,41,Female,Bachelor’s,Mid,Engineering,3.9,<75k,57,Fully Remote,0,3,4,2,5,2,"Other, Manager conflict, Culture misfit",Team culture,24,Yes,Maybe,"Childcare support, Wellness programs"
+3,37,Male,Master’s,Senior,Marketing,5.1,120–180k,60,On-site,32,3,2,5,2,4,Benefits,"Competitive pay, Growth path, Benefits",28,No,Maybe,Salary review
+4,34,Female,Doctorate,Mid,Marketing,4.4,75–120k,48,Hybrid,49,5,5,4,2,5,"Commute, Benefits","Growth path, Manager support",14,Yes,No,"Mentorship, Wellness programs"
+3,42,Male,Bachelor’s,Entry,Engineering,1.4,120–180k,31,On-site,45,4,3,4,2,2,Manager conflict,Flexible work,11,Yes,Maybe,Mentorship
+3,32,Male,Bachelor’s,Senior,Engineering,1.4,75–120k,49,On-site,60,2,4,3,5,3,"Limited growth, Workload stress, Culture misfit",Competitive pay,20,Yes,Yes,"Childcare support, Wellness programs"
+4,29,Male,Diploma,Senior,Sales,0.1,120–180k,53,On-site,33,5,3,3,4,3,"Commute, Limited growth, Benefits","Competitive pay, Benefits, Team culture",17,Yes,Yes,"Wellness programs, Salary review, Mentorship"
+4,27,Female,Diploma,Mid,Engineering,4.0,120–180k,43,On-site,27,4,5,5,3,4,"Workload stress, Benefits",Other,16,Yes,Yes,"Other, Mentorship, Childcare support"
+4,31,Male,Diploma,Mid,Engineering,4.7,120–180k,34,Fully Remote,0,3,3,3,4,3,Limited growth,"Manager support, Recognition",7,Yes,Maybe,"Childcare support, Remote option, Salary review"
+3,20,Female,Master’s,Entry,IT Support,2.3,75–120k,42,On-site,46,3,4,4,3,2,"Lack of flexibility, Commute","Team culture, Competitive pay, Other",7,Yes,Yes,"Childcare support, Mentorship, Career roadmap"
+3,35,Male,Bachelor’s,Senior,Finance,1.4,<75k,47,Hybrid,41,4,2,5,3,3,Limited growth,"Recognition, Purposeful work",13,Yes,Yes,"Wellness programs, Mentorship, Career roadmap"
+3,31,Female,Bachelor’s,Mid,Engineering,4.3,120–180k,49,On-site,8,4,5,4,3,1,"Culture misfit, Commute, Workload stress","Recognition, Growth path",26,Yes,Yes,"Remote option, Flexible hours, Childcare support"
+4,54,Male,Master’s,Entry,Engineering,3.4,<75k,39,On-site,51,5,4,4,3,4,"Commute, Limited growth, Benefits",Team culture,12,Yes,No,Remote option
+4,23,Male,Master’s,Senior,Finance,3.0,180–250k,41,On-site,37,3,5,5,1,4,Culture misfit,Competitive pay,28,Yes,Yes,"Wellness programs, Flexible hours"
+3,25,Female,Other,Lead,Sales,7.9,>250k,52,On-site,23,4,3,2,2,4,Benefits,"Growth path, Competitive pay",32,No,Yes,"Flexible hours, Other"
+4,37,Female,Bachelor’s,Senior,IT Support,0.4,75–120k,50,Hybrid,30,5,3,4,3,4,Other,"Manager support, Other",29,Yes,No,"Career roadmap, Other"
+3,30,Male,Master’s,Mid,Engineering,10.1,75–120k,36,On-site,20,1,5,3,3,4,Manager conflict,"Growth path, Flexible work",29,Yes,No,Salary review
+2,52,Male,Other,Mid,IT Support,2.0,120–180k,32,On-site,30,3,2,4,3,2,"Commute, Culture misfit",Recognition,16,No,No,"Mentorship, Other, Salary review"
+4,27,Female,Bachelor’s,Mid,Sales,5.3,75–120k,40,Fully Remote,0,5,5,5,4,4,Limited growth,Flexible work,16,Yes,Yes,"Career roadmap, Mentorship, Salary review"
+4,23,Male,Master’s,Mid,Engineering,6.2,120–180k,36,On-site,60,5,3,4,4,3,"Culture misfit, Other, Low pay","Competitive pay, Purposeful work, Benefits",14,Yes,No,Mentorship
+4,42,Female,Master’s,Senior,Finance,7.9,180–250k,54,On-site,25,4,2,5,5,4,"Commute, Low pay, Benefits",Manager support,11,Yes,Yes,"Remote option, Career roadmap"
+5,22,Prefer not to say,Bachelor’s,Mid,Marketing,10.3,120–180k,46,Hybrid,28,4,5,2,5,4,"Lack of flexibility, Other","Growth path, Flexible work, Manager support",22,Yes,Yes,"Childcare support, Other, Career roadmap"
+3,25,Male,Bachelor’s,Mid,Marketing,2.2,<75k,48,On-site,28,4,4,3,3,5,"Other, Low pay","Other, Manager support, Recognition",0,Yes,Maybe,"Other, Wellness programs, Mentorship"
+3,32,Female,Master’s,Mid,Engineering,8.2,180–250k,55,On-site,37,3,4,3,3,5,"Culture misfit, Limited growth",Recognition,19,Yes,Maybe,Childcare support
+5,36,Male,Diploma,Senior,Product,3.4,75–120k,53,Fully Remote,0,4,4,5,4,4,"Limited growth, Workload stress","Team culture, Other",21,Yes,No,"Mentorship, Other"
+2,25,Male,Master’s,Mid,Engineering,3.5,<75k,32,Hybrid,36,3,4,1,2,3,Limited growth,"Purposeful work, Benefits",44,Yes,Yes,Career roadmap
+3,40,Female,Diploma,Mid,Engineering,5.1,>250k,44,Hybrid,16,4,4,1,3,4,Culture misfit,"Manager support, Benefits, Flexible work",17,Yes,Yes,"Wellness programs, Childcare support"
+4,32,Male,Bachelor’s,Senior,Finance,1.9,75–120k,47,Hybrid,20,1,5,2,4,4,"Low pay, Lack of flexibility","Manager support, Purposeful work, Recognition",23,No,No,"Remote option, Mentorship, Salary review"
+3,42,Male,Master’s,Mid,Finance,2.3,120–180k,58,On-site,32,2,2,2,5,3,"Limited growth, Culture misfit",Flexible work,25,Yes,Maybe,Flexible hours
+4,57,Female,Bachelor’s,Management,Other,3.4,120–180k,40,On-site,32,3,4,5,4,4,"Limited growth, Lack of flexibility, Benefits","Other, Purposeful work, Flexible work",1,No,Maybe,"Salary review, Career roadmap"
+4,35,Male,Master’s,Mid,IT Support,7.8,75–120k,50,Fully Remote,0,3,4,4,4,2,Limited growth,"Growth path, Other",4,Yes,Maybe,Salary review
+4,31,Male,Bachelor’s,Lead,Product,0.2,120–180k,46,On-site,14,4,2,5,4,3,Other,"Flexible work, Other",31,Yes,Yes,"Mentorship, Other"
+4,23,Male,Master’s,Mid,Engineering,10.3,<75k,51,On-site,40,4,5,5,4,5,"Low pay, Culture misfit","Other, Flexible work",32,No,Yes,"Career roadmap, Wellness programs, Mentorship"
+4,29,Male,Bachelor’s,Lead,Engineering,3.3,120–180k,36,Hybrid,40,4,4,4,4,2,"Limited growth, Manager conflict","Benefits, Team culture",23,Yes,Yes,"Childcare support, Remote option, Salary review"
+3,25,Male,Master’s,Management,Engineering,2.1,120–180k,60,Hybrid,29,4,4,4,1,5,"Culture misfit, Commute, Benefits",Benefits,40,Yes,Maybe,"Remote option, Wellness programs"
+4,39,Female,Bachelor’s,Senior,Engineering,7.6,120–180k,42,Hybrid,27,3,4,5,4,4,Lack of flexibility,"Flexible work, Growth path, Other",29,Yes,Maybe,Remote option
+4,35,Male,Diploma,Mid,Product,10.9,75–120k,38,On-site,14,2,4,4,4,4,"Workload stress, Commute","Team culture, Benefits",13,Yes,Maybe,Remote option
+3,43,Male,Diploma,Mid,Product,10.0,120–180k,30,Hybrid,37,5,1,2,1,4,"Other, Lack of flexibility",Purposeful work,28,Yes,No,"Wellness programs, Other"
+3,33,Male,Doctorate,Mid,Engineering,0.6,75–120k,44,Fully Remote,0,4,3,4,4,3,"Lack of flexibility, Limited growth, Other",Manager support,10,No,Yes,"Wellness programs, Career roadmap, Flexible hours"
+4,26,Male,Master’s,Entry,Sales,5.6,120–180k,56,Hybrid,29,1,3,5,4,5,"Benefits, Limited growth, Culture misfit",Competitive pay,17,Yes,Yes,Mentorship
+3,22,Female,Doctorate,Mid,Engineering,11.9,75–120k,42,Hybrid,44,2,4,4,4,2,"Other, Benefits, Commute","Flexible work, Purposeful work, Benefits",26,Yes,Yes,"Career roadmap, Salary review"
+3,43,Male,Bachelor’s,Mid,Sales,11.1,>250k,48,On-site,20,3,4,4,5,2,"Limited growth, Lack of flexibility","Benefits, Competitive pay, Recognition",23,No,Maybe,"Flexible hours, Wellness programs"
+4,30,Male,Master’s,Entry,Engineering,3.1,<75k,45,On-site,20,5,3,4,5,4,"Manager conflict, Workload stress","Recognition, Growth path, Purposeful work",0,Yes,Yes,Mentorship
+4,39,Female,Bachelor’s,Entry,Sales,5.6,<75k,37,On-site,145,3,4,4,5,3,Workload stress,"Team culture, Flexible work, Competitive pay",16,Yes,Maybe,Wellness programs
+4,40,Female,Bachelor’s,Senior,Engineering,2.3,180–250k,47,Hybrid,20,2,5,4,3,3,Workload stress,"Purposeful work, Growth path, Benefits",6,Yes,Maybe,"Flexible hours, Mentorship"
+3,53,Female,Bachelor’s,Management,IT Support,3.9,>250k,44,Fully Remote,0,5,4,3,2,3,"Other, Commute, Manager conflict","Competitive pay, Other, Recognition",25,Yes,Yes,Other
+2,34,Female,Bachelor’s,Lead,IT Support,4.2,180–250k,39,Hybrid,36,3,2,3,2,1,Limited growth,Team culture,25,Yes,Maybe,"Wellness programs, Mentorship, Career roadmap"
+4,34,Male,Bachelor’s,Senior,Engineering,0.3,180–250k,43,On-site,47,5,2,4,5,3,"Limited growth, Manager conflict, Culture misfit","Recognition, Purposeful work",13,Yes,Maybe,"Flexible hours, Remote option"
+3,34,Prefer not to say,Master’s,Senior,Engineering,1.9,120–180k,36,Fully Remote,0,3,2,3,3,5,Culture misfit,Growth path,17,Yes,Maybe,Wellness programs
+4,20,Male,Bachelor’s,Senior,Engineering,0.8,75–120k,46,Fully Remote,0,5,5,4,2,4,"Other, Lack of flexibility, Culture misfit",Purposeful work,31,Yes,Yes,"Salary review, Remote option"
+4,24,Male,Master’s,Mid,Product,3.5,75–120k,47,Fully Remote,0,4,3,4,3,3,Workload stress,"Manager support, Recognition, Purposeful work",22,No,No,"Flexible hours, Childcare support"
+2,29,Female,Master’s,Senior,Marketing,3.8,180–250k,38,Hybrid,27,2,4,2,2,1,"Other, Low pay, Commute","Team culture, Competitive pay, Growth path",20,No,No,"Wellness programs, Salary review"
+3,44,Male,Bachelor’s,Senior,Marketing,2.5,180–250k,41,Hybrid,41,4,3,3,2,4,"Low pay, Limited growth, Lack of flexibility","Recognition, Purposeful work, Other",12,Yes,No,"Wellness programs, Childcare support"
+2,51,Male,Other,Senior,Engineering,3.8,180–250k,47,Fully Remote,0,4,2,3,5,3,Workload stress,"Competitive pay, Growth path, Flexible work",9,Yes,Maybe,"Other, Mentorship, Remote option"
+5,38,Male,Bachelor’s,Entry,IT Support,4.1,<75k,47,Fully Remote,0,5,3,4,4,5,Commute,"Manager support, Team culture, Competitive pay",22,No,Maybe,Salary review
+4,43,Male,Bachelor’s,Management,IT Support,5.0,180–250k,39,Hybrid,35,4,4,4,3,4,"Lack of flexibility, Limited growth",Manager support,27,Yes,Maybe,"Mentorship, Career roadmap"
+3,41,Female,Bachelor’s,Mid,Engineering,6.8,<75k,37,On-site,23,4,4,4,2,3,"Low pay, Benefits, Other","Growth path, Benefits",25,Yes,No,"Childcare support, Remote option, Salary review"
+4,34,Female,Diploma,Senior,Engineering,3.3,75–120k,48,On-site,20,4,5,4,3,3,"Lack of flexibility, Limited growth","Growth path, Recognition",0,Yes,Maybe,Childcare support
+4,29,Male,Bachelor’s,Mid,Marketing,4.1,75–120k,39,Hybrid,42,3,5,4,2,2,Other,"Growth path, Recognition, Purposeful work",25,No,Yes,"Remote option, Flexible hours, Salary review"
+4,41,Female,Bachelor’s,Mid,Engineering,1.9,75–120k,30,Hybrid,32,3,4,4,2,3,"Limited growth, Workload stress, Benefits","Manager support, Other, Purposeful work",25,Yes,No,"Wellness programs, Childcare support, Other"
+4,20,Male,Bachelor’s,Mid,Engineering,2.3,75–120k,51,Fully Remote,0,3,3,5,5,2,"Commute, Other, Culture misfit",Benefits,18,Yes,Maybe,"Salary review, Other"
+2,33,Male,Master’s,Senior,Engineering,12.1,75–120k,51,Fully Remote,0,2,2,3,3,3,Other,"Manager support, Competitive pay",32,No,No,"Mentorship, Remote option, Career roadmap"
+3,26,Female,Bachelor’s,Senior,Engineering,2.3,>250k,44,On-site,5,3,5,1,4,5,"Limited growth, Workload stress",Recognition,28,No,Maybe,"Remote option, Other, Childcare support"
+3,29,Female,Other,Mid,Marketing,4.6,180–250k,34,Hybrid,20,2,3,3,5,4,Lack of flexibility,Benefits,16,Yes,Maybe,"Career roadmap, Wellness programs"
+3,35,Female,Bachelor’s,Entry,Sales,1.0,75–120k,44,Hybrid,5,4,4,2,4,5,Workload stress,"Team culture, Purposeful work",9,No,Maybe,Career roadmap
+3,27,Male,Bachelor’s,Senior,Sales,4.7,180–250k,42,On-site,33,4,1,2,4,5,"Other, Limited growth, Lack of flexibility","Purposeful work, Benefits, Competitive pay",19,Yes,Maybe,Wellness programs
+4,33,Female,Master’s,Mid,HR,0.4,75–120k,46,Hybrid,24,5,4,2,4,4,Commute,Other,32,No,Yes,"Salary review, Wellness programs, Remote option"
+4,30,Male,Master’s,Senior,Engineering,14.1,180–250k,36,Fully Remote,0,4,5,3,5,4,Workload stress,Flexible work,9,Yes,No,"Mentorship, Other"
+3,24,Male,Bachelor’s,Mid,HR,2.9,<75k,38,Fully Remote,0,5,4,4,3,4,Other,Team culture,25,No,No,Wellness programs
+4,29,Male,Master’s,Mid,Engineering,6.8,75–120k,49,On-site,22,4,4,4,3,5,"Other, Benefits",Recognition,0,Yes,Maybe,"Salary review, Wellness programs"
+3,35,Male,Master’s,Mid,Marketing,2.6,75–120k,49,Hybrid,31,3,3,1,3,4,"Limited growth, Commute, Low pay",Team culture,39,Yes,No,"Flexible hours, Other"
+3,37,Female,Master’s,Mid,IT Support,6.1,75–120k,60,On-site,31,3,5,2,3,1,"Other, Lack of flexibility",Purposeful work,31,Yes,Maybe,Wellness programs
+2,37,Female,Bachelor’s,Lead,HR,7.1,>250k,40,On-site,34,2,3,1,4,3,Low pay,"Manager support, Flexible work",38,Yes,Maybe,"Salary review, Other, Childcare support"
+4,25,Female,Diploma,Lead,IT Support,7.4,120–180k,58,On-site,38,1,3,5,5,4,"Benefits, Limited growth, Other","Recognition, Team culture",13,Yes,Yes,"Other, Salary review, Childcare support"
+4,43,Male,Diploma,Lead,Marketing,6.0,120–180k,66,On-site,36,5,2,4,4,4,"Manager conflict, Workload stress, Culture misfit","Competitive pay, Benefits",33,Yes,Maybe,"Flexible hours, Career roadmap, Remote option"
+2,21,Male,Bachelor’s,Mid,Marketing,4.1,75–120k,49,Hybrid,28,3,4,1,2,3,"Low pay, Benefits, Culture misfit","Competitive pay, Purposeful work",18,Yes,No,Wellness programs
+4,20,Male,Bachelor’s,Mid,Engineering,3.1,75–120k,45,On-site,26,5,4,4,3,5,"Lack of flexibility, Workload stress, Low pay","Other, Benefits",12,Yes,Maybe,"Other, Wellness programs, Mentorship"
+4,27,Male,Bachelor’s,Mid,IT Support,3.5,75–120k,33,On-site,7,5,4,4,3,5,"Low pay, Commute",Competitive pay,21,No,Maybe,"Career roadmap, Other"
+3,31,Male,Bachelor’s,Entry,Product,1.6,<75k,43,Fully Remote,0,4,4,3,4,1,Manager conflict,"Benefits, Competitive pay",13,Yes,Maybe,Wellness programs
+3,40,Female,Master’s,Entry,IT Support,3.8,<75k,39,On-site,28,4,1,2,4,3,"Workload stress, Culture misfit","Manager support, Benefits, Purposeful work",1,No,Maybe,"Childcare support, Salary review, Mentorship"
+3,37,Female,Bachelor’s,Senior,Engineering,7.6,180–250k,39,Fully Remote,0,5,5,3,3,4,"Limited growth, Other","Team culture, Other",33,No,Maybe,Other
+4,26,Male,Bachelor’s,Entry,IT Support,10.2,<75k,45,Hybrid,28,3,2,3,3,4,"Commute, Low pay",Purposeful work,3,No,Yes,"Remote option, Salary review, Flexible hours"
+3,33,Female,Bachelor’s,Mid,Engineering,4.6,180–250k,41,On-site,28,3,2,1,4,4,Lack of flexibility,"Purposeful work, Competitive pay",25,Yes,Yes,"Wellness programs, Mentorship"
+4,33,Female,Bachelor’s,Senior,Other,4.4,>250k,32,On-site,12,4,2,4,4,4,"Commute, Manager conflict, Low pay",Flexible work,17,Yes,Yes,"Flexible hours, Remote option, Childcare support"
+5,27,Male,Bachelor’s,Mid,Other,2.1,75–120k,36,On-site,32,4,4,3,5,5,"Manager conflict, Limited growth",Growth path,31,No,Maybe,"Flexible hours, Childcare support"
+3,30,Male,Bachelor’s,Mid,Engineering,1.0,180–250k,47,Fully Remote,0,2,4,2,4,3,"Limited growth, Commute","Flexible work, Other",37,Yes,No,Mentorship
+5,33,Male,Master’s,Mid,Product,1.6,75–120k,39,Hybrid,62,5,5,3,5,4,"Lack of flexibility, Culture misfit, Benefits","Flexible work, Growth path, Competitive pay",17,No,Maybe,"Other, Career roadmap, Mentorship"
+3,32,Female,Diploma,Lead,Product,4.3,180–250k,53,Hybrid,41,2,3,3,5,3,"Limited growth, Culture misfit, Manager conflict","Other, Benefits, Growth path",29,No,Yes,"Remote option, Childcare support, Flexible hours"
+3,38,Male,Master’s,Senior,Marketing,6.3,180–250k,38,On-site,32,2,3,3,2,3,Commute,Flexible work,21,No,No,"Career roadmap, Childcare support"
+3,20,Male,Bachelor’s,Senior,HR,4.4,75–120k,32,On-site,20,3,5,5,3,5,"Commute, Limited growth, Other","Flexible work, Other, Growth path",17,No,Yes,"Wellness programs, Childcare support, Career roadmap"
+4,34,Female,Bachelor’s,Senior,Engineering,3.7,120–180k,62,Hybrid,14,2,3,3,4,5,"Commute, Manager conflict, Benefits","Purposeful work, Competitive pay, Recognition",22,Yes,Maybe,"Career roadmap, Mentorship, Flexible hours"
+2,37,Male,Bachelor’s,Mid,Engineering,2.3,<75k,38,On-site,43,4,1,3,4,2,Workload stress,"Purposeful work, Manager support",28,Yes,Yes,Wellness programs
+4,31,Male,Master’s,Mid,Finance,1.8,75–120k,43,Fully Remote,0,2,4,4,3,4,"Benefits, Workload stress","Other, Growth path",27,Yes,Maybe,"Other, Flexible hours"
+4,43,Non-binary,Master’s,Management,HR,2.1,>250k,42,On-site,34,4,3,4,3,3,"Manager conflict, Workload stress","Benefits, Recognition",18,Yes,Maybe,"Other, Mentorship, Remote option"
+3,31,Female,Bachelor’s,Senior,Sales,2.9,120–180k,47,On-site,34,4,3,4,3,4,Manager conflict,"Benefits, Competitive pay, Manager support",10,Yes,Yes,"Other, Remote option, Career roadmap"
+4,62,Male,Diploma,Entry,Sales,6.4,<75k,40,On-site,27,3,4,4,1,4,"Lack of flexibility, Low pay","Competitive pay, Recognition",0,Yes,No,"Other, Childcare support"
+3,35,Male,Master’s,Senior,Sales,3.0,<75k,46,On-site,31,3,3,1,3,4,Limited growth,"Benefits, Other",35,Yes,No,Mentorship
+3,35,Female,Bachelor’s,Mid,Engineering,3.4,75–120k,31,On-site,36,2,3,3,2,2,"Lack of flexibility, Culture misfit, Commute","Flexible work, Other",20,Yes,Maybe,Childcare support
+2,45,Male,Master’s,Senior,Product,1.1,>250k,51,On-site,41,4,2,2,1,4,"Other, Culture misfit, Lack of flexibility","Team culture, Manager support, Purposeful work",19,Yes,Maybe,Childcare support
+4,35,Male,Master’s,Entry,Engineering,3.1,<75k,55,On-site,27,3,1,5,5,4,Culture misfit,"Recognition, Competitive pay",7,Yes,No,"Childcare support, Flexible hours, Wellness programs"
+4,36,Male,Bachelor’s,Mid,Engineering,4.2,120–180k,45,Fully Remote,0,5,5,4,5,4,Low pay,"Benefits, Purposeful work",19,Yes,Maybe,"Other, Childcare support"
+3,39,Female,Bachelor’s,Mid,HR,1.0,<75k,34,On-site,37,5,4,2,3,1,"Lack of flexibility, Culture misfit, Commute","Benefits, Flexible work",40,Yes,Yes,"Wellness programs, Other, Childcare support"
+3,27,Female,Other,Entry,HR,0.7,<75k,46,Fully Remote,0,4,3,4,3,4,"Manager conflict, Other","Other, Team culture",21,No,Maybe,"Career roadmap, Wellness programs"
+5,39,Male,Doctorate,Entry,Sales,2.6,<75k,50,On-site,36,4,3,3,5,5,"Commute, Other, Low pay","Other, Purposeful work, Recognition",46,No,No,Career roadmap
+3,30,Male,Bachelor’s,Mid,Sales,2.2,75–120k,36,On-site,5,5,5,3,4,4,"Commute, Culture misfit, Limited growth",Other,21,Yes,Maybe,"Remote option, Salary review"
+3,36,Male,Diploma,Entry,HR,2.0,<75k,45,On-site,17,1,4,5,3,4,"Manager conflict, Other, Low pay",Purposeful work,12,Yes,Maybe,"Remote option, Salary review, Career roadmap"
+4,43,Male,Bachelor’s,Senior,Finance,2.4,180–250k,35,Fully Remote,0,4,3,4,4,2,"Culture misfit, Manager conflict","Benefits, Team culture",38,No,Yes,Mentorship
+5,37,Non-binary,Diploma,Mid,Marketing,9.8,120–180k,41,Hybrid,33,4,3,5,5,4,Benefits,Competitive pay,16,Yes,No,"Remote option, Wellness programs"
+4,42,Female,Bachelor’s,Senior,Engineering,7.2,120–180k,53,Hybrid,127,5,4,3,2,4,"Limited growth, Lack of flexibility, Workload stress","Other, Manager support",12,Yes,Yes,"Other, Remote option, Flexible hours"
+3,21,Female,Master’s,Mid,Other,2.7,75–120k,50,On-site,35,5,4,3,2,5,"Workload stress, Low pay, Lack of flexibility","Team culture, Recognition",15,No,Yes,"Childcare support, Career roadmap"
+3,37,Female,Bachelor’s,Senior,Sales,6.7,>250k,45,On-site,22,3,3,4,3,4,"Lack of flexibility, Manager conflict",Team culture,13,Yes,No,"Wellness programs, Remote option"
+3,29,Female,Bachelor’s,Entry,Product,9.7,<75k,54,On-site,25,3,3,3,5,2,Low pay,"Growth path, Manager support, Flexible work",22,Yes,Maybe,"Career roadmap, Wellness programs, Salary review"
+4,26,Female,Master’s,Mid,Engineering,0.7,75–120k,39,On-site,41,5,4,2,2,5,Culture misfit,Manager support,7,Yes,Yes,"Other, Childcare support"
+4,27,Female,Bachelor’s,Mid,Engineering,8.6,75–120k,53,On-site,42,5,2,2,5,4,"Limited growth, Culture misfit, Commute","Benefits, Growth path, Team culture",22,No,No,"Mentorship, Career roadmap, Childcare support"
+3,23,Female,Master’s,Mid,Engineering,0.7,180–250k,49,On-site,25,4,5,2,1,3,Culture misfit,Other,24,Yes,Yes,Childcare support
+3,35,Male,Bachelor’s,Mid,HR,3.7,120–180k,44,On-site,23,2,5,4,1,3,"Low pay, Benefits, Workload stress",Recognition,22,Yes,Yes,"Flexible hours, Career roadmap"
+5,27,Male,Bachelor’s,Senior,Marketing,2.2,180–250k,46,Fully Remote,0,5,5,4,3,4,"Low pay, Commute","Flexible work, Other",28,No,Maybe,"Childcare support, Remote option, Mentorship"
+3,32,Female,Bachelor’s,Mid,Engineering,2.1,120–180k,53,On-site,37,4,3,4,3,3,"Other, Workload stress, Lack of flexibility","Growth path, Flexible work",25,Yes,Yes,Mentorship
+2,29,Male,Diploma,Mid,Sales,6.9,75–120k,41,Hybrid,47,3,2,2,2,2,"Other, Benefits, Commute","Recognition, Other",27,Yes,No,Flexible hours
+4,28,Male,Bachelor’s,Mid,Sales,4.8,75–120k,53,Hybrid,24,3,5,5,3,3,Manager conflict,Growth path,27,Yes,No,"Salary review, Flexible hours, Wellness programs"
+3,32,Male,Bachelor’s,Entry,IT Support,1.6,75–120k,48,On-site,37,4,2,4,2,4,Workload stress,"Team culture, Recognition, Purposeful work",15,Yes,Yes,"Wellness programs, Flexible hours, Remote option"
+3,34,Male,Diploma,Entry,Engineering,11.9,<75k,38,On-site,26,4,4,3,2,3,"Low pay, Workload stress","Purposeful work, Manager support, Competitive pay",12,No,No,"Childcare support, Other, Career roadmap"
+3,42,Male,Bachelor’s,Mid,Marketing,14.3,<75k,30,Fully Remote,0,4,4,2,4,2,"Workload stress, Culture misfit",Recognition,20,No,Yes,"Salary review, Career roadmap"
+3,27,Male,Bachelor’s,Lead,Engineering,0.1,180–250k,47,On-site,61,4,4,3,1,4,"Manager conflict, Lack of flexibility","Growth path, Manager support, Purposeful work",8,Yes,Maybe,Salary review
+4,37,Female,Bachelor’s,Mid,Finance,0.9,120–180k,43,On-site,27,5,5,3,2,5,Other,Manager support,13,No,Maybe,"Salary review, Flexible hours"
+4,34,Male,Bachelor’s,Entry,Product,2.8,<75k,55,On-site,22,3,2,3,4,4,"Manager conflict, Other","Recognition, Benefits",8,Yes,Maybe,"Wellness programs, Remote option, Childcare support"
+4,24,Male,Diploma,Senior,HR,1.9,120–180k,45,Hybrid,39,4,2,4,4,4,"Culture misfit, Lack of flexibility, Limited growth","Benefits, Purposeful work",26,No,Yes,"Remote option, Salary review, Other"
+3,33,Female,Doctorate,Senior,Sales,6.6,120–180k,47,On-site,51,3,3,3,3,3,Lack of flexibility,Purposeful work,17,Yes,Maybe,"Wellness programs, Remote option, Mentorship"
+2,41,Male,Diploma,Senior,Product,5.4,120–180k,53,Hybrid,31,4,3,3,2,4,"Workload stress, Other","Other, Manager support, Growth path",19,Yes,Yes,"Salary review, Career roadmap, Other"
+4,38,Female,Master’s,Senior,HR,1.5,<75k,56,On-site,34,1,3,3,5,5,Benefits,Recognition,4,Yes,Yes,Other
+2,36,Male,Bachelor’s,Entry,Engineering,6.5,180–250k,49,On-site,28,2,1,3,4,4,"Culture misfit, Low pay",Other,14,Yes,Yes,"Career roadmap, Other, Remote option"
+3,39,Male,Master’s,Senior,HR,8.0,180–250k,61,Hybrid,31,4,2,4,3,3,Limited growth,Other,20,Yes,Maybe,"Career roadmap, Childcare support, Remote option"
+3,20,Male,Other,Management,Marketing,5.9,120–180k,52,On-site,44,3,5,2,4,4,"Manager conflict, Other, Workload stress","Growth path, Competitive pay, Manager support",31,Yes,Maybe,"Salary review, Wellness programs"
+5,63,Male,Bachelor’s,Mid,Engineering,2.6,120–180k,59,On-site,48,5,4,5,4,4,"Limited growth, Low pay",Recognition,28,Yes,Maybe,"Other, Remote option, Salary review"
+4,24,Male,Doctorate,Mid,Sales,2.4,75–120k,43,On-site,41,5,4,3,5,5,"Low pay, Workload stress, Benefits","Competitive pay, Recognition",22,No,Yes,"Childcare support, Salary review, Remote option"
+4,41,Female,Other,Entry,IT Support,4.6,75–120k,45,On-site,23,5,5,5,5,2,"Lack of flexibility, Benefits, Culture misfit","Flexible work, Growth path, Team culture",18,Yes,Maybe,Childcare support
+3,21,Male,Bachelor’s,Entry,Engineering,3.5,75–120k,48,On-site,17,2,3,3,4,2,"Benefits, Lack of flexibility, Low pay","Team culture, Manager support, Recognition",12,Yes,Yes,"Childcare support, Flexible hours"
+3,36,Male,Master’s,Entry,Engineering,0.4,75–120k,43,On-site,32,2,4,3,4,2,Limited growth,Team culture,46,No,Maybe,"Remote option, Wellness programs, Mentorship"
+2,29,Male,Bachelor’s,Mid,HR,12.5,120–180k,80,On-site,44,5,4,3,2,4,"Limited growth, Workload stress",Flexible work,21,Yes,Maybe,"Childcare support, Salary review, Other"
+4,22,Female,Bachelor’s,Lead,Product,2.3,120–180k,30,On-site,52,4,4,3,4,3,"Low pay, Commute","Purposeful work, Growth path",36,Yes,Maybe,Remote option
+4,25,Male,Bachelor’s,Mid,Engineering,2.2,180–250k,51,Hybrid,25,4,3,2,4,5,Limited growth,Purposeful work,10,Yes,No,Wellness programs
+3,26,Male,Bachelor’s,Lead,Engineering,4.6,180–250k,48,On-site,5,2,4,5,1,3,Culture misfit,Flexible work,14,No,Yes,"Childcare support, Other"
+4,32,Male,Bachelor’s,Senior,Engineering,2.3,75–120k,56,On-site,22,4,3,5,4,4,"Workload stress, Commute, Other","Recognition, Manager support, Flexible work",8,Yes,Yes,"Career roadmap, Wellness programs"
+3,29,Male,Master’s,Entry,Engineering,0.7,75–120k,42,On-site,11,2,3,5,3,4,"Commute, Benefits","Growth path, Recognition",27,Yes,Yes,"Salary review, Wellness programs, Mentorship"
+4,40,Female,Bachelor’s,Lead,Product,4.0,120–180k,55,On-site,36,3,4,4,3,5,Benefits,"Manager support, Flexible work, Benefits",21,Yes,No,Childcare support
+4,38,Male,Bachelor’s,Management,Engineering,7.6,>250k,53,On-site,22,3,3,3,5,5,"Other, Benefits","Competitive pay, Benefits, Manager support",17,Yes,Yes,"Flexible hours, Salary review, Other"
+4,32,Male,Diploma,Entry,Sales,3.9,<75k,30,Hybrid,39,4,5,5,4,2,"Benefits, Lack of flexibility, Other","Growth path, Competitive pay",28,Yes,Yes,"Mentorship, Other, Remote option"
+3,25,Male,Bachelor’s,Lead,IT Support,2.9,120–180k,49,On-site,23,3,5,2,4,4,"Low pay, Culture misfit",Team culture,9,No,Yes,Remote option
+3,33,Male,Bachelor’s,Entry,Engineering,7.2,75–120k,45,Hybrid,52,5,3,3,1,5,"Culture misfit, Limited growth","Manager support, Benefits",28,Yes,No,"Flexible hours, Salary review, Remote option"
+3,26,Male,Bachelor’s,Management,Engineering,4.1,75–120k,39,Hybrid,18,2,4,3,5,5,Other,Other,20,Yes,No,"Mentorship, Childcare support"
+4,27,Male,Diploma,Senior,Sales,5.6,120–180k,34,On-site,35,4,3,3,5,3,Manager conflict,"Purposeful work, Other",154,Yes,Yes,"Flexible hours, Career roadmap, Salary review"
+3,27,Male,Master’s,Mid,Product,5.3,75–120k,48,On-site,32,4,1,4,3,2,Commute,"Manager support, Benefits, Team culture",24,Yes,Maybe,Wellness programs
+3,37,Female,Diploma,Mid,Engineering,5.8,<75k,46,On-site,5,5,5,4,3,3,"Limited growth, Workload stress","Growth path, Recognition",31,Yes,Yes,"Remote option, Career roadmap, Mentorship"
+4,20,Female,Master’s,Entry,Product,2.6,<75k,42,On-site,11,4,4,5,3,5,"Other, Workload stress, Commute",Manager support,23,Yes,No,"Salary review, Childcare support"
+4,39,Female,Bachelor’s,Senior,Sales,23.2,75–120k,59,Fully Remote,0,4,4,3,3,5,"Other, Culture misfit","Manager support, Purposeful work",26,Yes,Maybe,Flexible hours
+4,20,Male,Bachelor’s,Entry,Engineering,4.1,120–180k,44,Hybrid,35,3,4,5,5,3,Other,"Flexible work, Manager support",12,No,No,"Flexible hours, Career roadmap"
+3,34,Female,Master’s,Entry,IT Support,2.7,75–120k,39,Hybrid,17,3,2,2,3,4,Culture misfit,"Recognition, Purposeful work, Competitive pay",11,Yes,Yes,Career roadmap
+2,42,Male,Bachelor’s,Entry,Finance,2.6,120–180k,40,On-site,7,1,4,1,4,3,Culture misfit,Recognition,33,No,Yes,"Wellness programs, Childcare support, Other"
+3,45,Non-binary,Bachelor’s,Mid,HR,5.3,75–120k,42,On-site,44,5,3,3,5,5,Low pay,"Benefits, Team culture, Manager support",17,Yes,Yes,"Career roadmap, Remote option, Other"
+3,29,Female,Diploma,Mid,HR,3.6,75–120k,39,On-site,15,4,5,4,2,2,Workload stress,"Competitive pay, Team culture",21,Yes,Yes,Mentorship
+4,20,Female,Diploma,Entry,Product,1.5,<75k,49,Fully Remote,0,5,3,3,3,3,"Benefits, Culture misfit, Limited growth","Team culture, Purposeful work, Recognition",29,Yes,Maybe,Childcare support
+3,30,Male,Master’s,Mid,Marketing,8.5,<75k,49,Hybrid,43,5,3,4,4,3,"Lack of flexibility, Low pay","Growth path, Manager support, Benefits",1,Yes,Maybe,Childcare support
+4,31,Female,Master’s,Senior,Sales,5.2,<75k,37,Hybrid,21,3,5,2,2,5,"Lack of flexibility, Workload stress","Manager support, Benefits, Other",29,Yes,Yes,"Other, Salary review, Childcare support"
+3,41,Female,Master’s,Mid,Product,11.5,120–180k,50,On-site,17,4,4,3,2,2,"Manager conflict, Workload stress","Team culture, Flexible work, Purposeful work",30,Yes,Yes,"Wellness programs, Remote option, Salary review"
+4,27,Male,Doctorate,Mid,Sales,8.9,<75k,36,Hybrid,52,2,3,4,5,2,"Manager conflict, Benefits","Growth path, Other, Competitive pay",21,Yes,Maybe,"Mentorship, Career roadmap, Wellness programs"
+4,27,Male,Bachelor’s,Mid,IT Support,16.4,120–180k,46,Hybrid,7,5,4,4,4,5,"Workload stress, Culture misfit",Recognition,11,No,Maybe,Flexible hours
+3,43,Male,Master’s,Mid,Marketing,11.8,75–120k,38,On-site,33,4,4,2,1,4,Workload stress,Other,7,Yes,Yes,Other
+2,43,Non-binary,Bachelor’s,Mid,Engineering,4.1,75–120k,32,On-site,48,2,3,2,2,5,"Culture misfit, Manager conflict, Low pay",Flexible work,34,Yes,No,"Wellness programs, Mentorship"
+5,29,Male,Bachelor’s,Senior,Marketing,7.7,75–120k,37,Hybrid,33,4,4,4,5,4,"Commute, Low pay, Benefits","Team culture, Recognition, Other",27,Yes,Yes,"Career roadmap, Wellness programs"
+3,50,Female,Bachelor’s,Entry,Other,1.4,<75k,53,On-site,57,2,2,4,4,3,Manager conflict,"Growth path, Competitive pay",31,No,Yes,Childcare support
+3,49,Male,Bachelor’s,Senior,IT Support,3.6,120–180k,38,Hybrid,46,4,2,4,4,3,"Limited growth, Low pay","Growth path, Competitive pay, Flexible work",16,No,No,"Career roadmap, Wellness programs"
+3,25,Female,Bachelor’s,Senior,Sales,8.8,>250k,40,Hybrid,25,5,3,2,3,4,"Other, Workload stress, Culture misfit",Team culture,24,No,No,Wellness programs
+4,20,Male,Bachelor’s,Lead,Product,2.0,180–250k,60,On-site,20,5,4,4,5,2,Commute,"Purposeful work, Recognition, Competitive pay",44,No,Maybe,Other
+3,20,Male,Bachelor’s,Entry,HR,1.4,<75k,62,Fully Remote,0,4,2,5,4,2,"Workload stress, Limited growth, Low pay","Flexible work, Competitive pay, Growth path",31,Yes,Maybe,"Career roadmap, Flexible hours, Remote option"
+4,40,Male,Bachelor’s,Entry,Product,1.8,75–120k,46,Hybrid,57,5,4,3,5,2,Lack of flexibility,"Team culture, Growth path",15,No,No,"Flexible hours, Mentorship, Childcare support"
+3,20,Male,Doctorate,Senior,Sales,2.0,120–180k,41,On-site,31,5,3,3,3,1,Commute,Growth path,14,Yes,No,Salary review
+4,43,Male,Master’s,Mid,Finance,8.9,75–120k,49,Fully Remote,0,4,4,3,4,4,Workload stress,Other,34,No,Maybe,"Childcare support, Flexible hours, Remote option"
+5,39,Male,Bachelor’s,Entry,Engineering,1.2,<75k,43,Hybrid,23,4,3,5,2,4,"Lack of flexibility, Limited growth, Commute","Competitive pay, Flexible work, Growth path",36,No,No,"Flexible hours, Mentorship"
+3,38,Male,Diploma,Entry,Engineering,3.9,75–120k,41,On-site,39,2,2,2,4,3,"Low pay, Lack of flexibility",Team culture,23,Yes,Yes,"Mentorship, Other, Remote option"
+3,41,Male,Diploma,Senior,Marketing,0.3,120–180k,42,On-site,29,2,2,5,4,4,"Manager conflict, Workload stress, Low pay","Competitive pay, Recognition",10,Yes,Yes,"Salary review, Remote option, Other"
+4,38,Male,Bachelor’s,Lead,Engineering,7.8,120–180k,49,Fully Remote,0,3,3,3,5,2,"Limited growth, Manager conflict","Recognition, Purposeful work, Other",16,No,No,Career roadmap
+3,26,Male,Bachelor’s,Senior,Finance,1.7,120–180k,48,On-site,31,2,4,3,2,2,"Lack of flexibility, Culture misfit, Other",Growth path,20,Yes,No,"Flexible hours, Career roadmap"
+4,24,Male,Bachelor’s,Mid,Sales,1.1,75–120k,47,Hybrid,38,1,3,4,4,3,"Lack of flexibility, Benefits","Benefits, Other, Recognition",11,Yes,Maybe,Remote option
+3,36,Female,Bachelor’s,Mid,Engineering,2.3,75–120k,32,On-site,29,3,4,1,4,5,"Lack of flexibility, Benefits",Other,17,No,Yes,"Career roadmap, Mentorship"
+4,33,Female,Bachelor’s,Mid,Sales,3.6,120–180k,45,Hybrid,32,5,3,4,5,4,"Low pay, Manager conflict, Benefits","Flexible work, Growth path",29,No,Yes,"Salary review, Wellness programs"
+3,28,Male,Bachelor’s,Mid,Sales,13.1,<75k,35,On-site,12,3,3,5,1,4,"Other, Manager conflict",Manager support,20,No,Maybe,Salary review
+4,41,Male,Master’s,Senior,IT Support,6.0,75–120k,42,Fully Remote,0,3,3,2,5,4,Benefits,"Growth path, Team culture",8,Yes,No,Mentorship
+4,27,Male,Bachelor’s,Management,Marketing,8.0,180–250k,50,Hybrid,38,5,3,2,4,4,"Limited growth, Low pay","Competitive pay, Flexible work",6,Yes,Maybe,"Childcare support, Mentorship, Salary review"
+4,28,Female,Master’s,Mid,Product,0.5,<75k,45,On-site,30,4,5,5,2,5,"Commute, Culture misfit",Competitive pay,4,Yes,Yes,"Career roadmap, Mentorship, Childcare support"
+5,26,Male,Bachelor’s,Senior,IT Support,3.6,180–250k,48,On-site,36,4,5,4,3,4,"Manager conflict, Other","Other, Competitive pay, Recognition",21,Yes,Yes,"Other, Remote option, Career roadmap"
+5,41,Female,Bachelor’s,Management,Engineering,2.1,>250k,51,On-site,24,4,4,4,3,5,Low pay,"Competitive pay, Manager support",17,No,No,Remote option
+4,25,Female,Bachelor’s,Entry,HR,2.6,75–120k,55,Fully Remote,0,4,2,5,4,4,"Low pay, Manager conflict, Commute","Benefits, Flexible work",18,Yes,Maybe,"Wellness programs, Career roadmap, Salary review"
+2,38,Male,Bachelor’s,Lead,Engineering,3.9,120–180k,46,On-site,28,4,3,2,1,4,Culture misfit,"Team culture, Flexible work, Recognition",23,Yes,No,"Mentorship, Salary review, Career roadmap"
+3,23,Male,Bachelor’s,Mid,IT Support,24.9,>250k,63,On-site,32,4,2,3,4,2,"Workload stress, Lack of flexibility",Competitive pay,14,No,No,Flexible hours
+3,48,Male,Bachelor’s,Senior,Sales,7.1,120–180k,31,Fully Remote,0,3,2,3,3,3,"Benefits, Limited growth","Team culture, Benefits",24,Yes,Yes,"Other, Wellness programs"
+2,36,Male,Bachelor’s,Mid,Engineering,4.2,120–180k,40,On-site,33,5,3,2,2,1,"Lack of flexibility, Manager conflict, Other","Flexible work, Purposeful work, Other",32,Yes,Yes,Salary review
+4,49,Male,Master’s,Lead,Engineering,2.1,180–250k,44,Fully Remote,0,4,3,4,5,5,"Low pay, Workload stress, Commute","Recognition, Growth path",22,Yes,Yes,"Flexible hours, Other, Remote option"
+3,44,Male,Bachelor’s,Mid,Finance,7.6,75–120k,41,On-site,32,3,3,3,5,5,"Lack of flexibility, Culture misfit, Low pay","Recognition, Other",6,Yes,Maybe,Salary review
+3,31,Non-binary,Diploma,Mid,Engineering,1.5,<75k,41,Hybrid,32,2,5,3,5,2,"Culture misfit, Benefits","Other, Purposeful work",33,Yes,No,"Mentorship, Flexible hours, Other"
+3,31,Female,Doctorate,Lead,Finance,3.2,120–180k,46,On-site,41,2,4,2,3,4,Limited growth,"Flexible work, Purposeful work",0,Yes,No,Wellness programs
+3,44,Male,Bachelor’s,Entry,Product,2.3,120–180k,44,Fully Remote,0,3,1,2,3,5,Benefits,"Flexible work, Purposeful work, Growth path",24,Yes,Yes,Childcare support
+3,33,Female,Bachelor’s,Senior,Engineering,4.2,>250k,54,On-site,35,3,3,4,3,2,"Commute, Manager conflict",Competitive pay,32,Yes,Maybe,"Remote option, Salary review"
+4,31,Male,Bachelor’s,Senior,Marketing,2.7,120–180k,41,On-site,36,5,2,2,5,3,"Culture misfit, Manager conflict, Low pay",Recognition,8,Yes,Yes,Other
+4,22,Male,Diploma,Entry,Engineering,5.8,120–180k,44,On-site,27,3,5,2,5,3,"Commute, Limited growth, Lack of flexibility","Purposeful work, Flexible work, Manager support",23,Yes,No,"Salary review, Remote option"
+3,46,Male,Bachelor’s,Lead,Engineering,16.9,180–250k,48,Hybrid,28,4,5,1,3,4,Limited growth,Benefits,27,Yes,No,"Mentorship, Career roadmap, Salary review"
+4,20,Non-binary,Bachelor’s,Mid,Product,1.6,75–120k,50,On-site,36,3,5,3,4,5,"Manager conflict, Culture misfit","Growth path, Purposeful work",33,No,No,"Remote option, Salary review, Mentorship"
+2,31,Male,Bachelor’s,Senior,Sales,8.1,120–180k,35,Hybrid,35,4,3,3,4,4,Low pay,"Growth path, Purposeful work",11,No,No,Career roadmap
+4,48,Male,Bachelor’s,Entry,Engineering,4.4,<75k,52,Hybrid,35,2,4,4,4,4,"Benefits, Lack of flexibility, Other","Other, Manager support",20,Yes,Yes,"Childcare support, Salary review, Mentorship"
+3,29,Female,Bachelor’s,Mid,Finance,4.3,75–120k,54,On-site,28,5,2,4,5,2,Limited growth,"Growth path, Team culture, Purposeful work",7,Yes,Maybe,"Career roadmap, Mentorship"
+3,51,Male,Bachelor’s,Entry,Engineering,5.7,75–120k,39,Fully Remote,0,4,5,4,3,2,Commute,"Flexible work, Purposeful work",38,No,Maybe,"Mentorship, Salary review"
+5,28,Male,Bachelor’s,Senior,Engineering,10.1,180–250k,33,Fully Remote,0,4,4,2,4,4,Lack of flexibility,"Team culture, Other",17,No,Maybe,"Flexible hours, Childcare support, Other"
+4,35,Male,Master’s,Entry,Engineering,0.3,75–120k,31,Hybrid,24,3,5,5,4,3,"Benefits, Limited growth",Manager support,0,No,No,"Other, Childcare support, Career roadmap"
+3,34,Female,Bachelor’s,Entry,Other,2.9,75–120k,44,On-site,10,2,2,5,3,2,"Other, Benefits",Other,35,Yes,Yes,Mentorship
+3,26,Male,Diploma,Senior,Engineering,4.3,120–180k,41,On-site,38,1,3,4,4,3,"Manager conflict, Commute, Workload stress","Other, Purposeful work",13,Yes,Maybe,Mentorship
+3,35,Non-binary,Other,Lead,Marketing,2.8,120–180k,39,On-site,55,4,3,3,5,2,"Other, Lack of flexibility, Workload stress",Team culture,28,Yes,Maybe,"Salary review, Mentorship"
+4,21,Male,Master’s,Mid,Sales,4.7,<75k,44,Hybrid,34,2,4,5,4,2,Manager conflict,"Recognition, Team culture, Benefits",34,Yes,Maybe,"Salary review, Mentorship, Flexible hours"
+3,36,Female,Bachelor’s,Entry,Engineering,6.8,120–180k,79,On-site,43,2,3,4,3,4,"Commute, Benefits","Benefits, Manager support",19,Yes,Maybe,"Childcare support, Career roadmap, Salary review"
+4,66,Male,Master’s,Mid,Sales,2.8,<75k,55,Fully Remote,0,2,4,5,3,5,"Commute, Limited growth","Growth path, Benefits",17,Yes,Yes,"Career roadmap, Wellness programs"
+4,37,Male,Doctorate,Mid,Engineering,7.7,75–120k,51,Hybrid,28,3,3,3,5,4,Low pay,"Purposeful work, Benefits, Manager support",20,Yes,Maybe,"Career roadmap, Remote option"
+3,35,Female,Bachelor’s,Lead,Engineering,8.3,180–250k,38,On-site,19,2,3,4,2,3,"Manager conflict, Lack of flexibility, Culture misfit","Recognition, Manager support, Benefits",27,Yes,Maybe,Remote option
+4,28,Female,Bachelor’s,Mid,Marketing,11.6,75–120k,39,On-site,42,1,3,5,3,4,"Workload stress, Lack of flexibility, Culture misfit",Recognition,32,No,No,"Childcare support, Other"
+3,47,Female,Master’s,Mid,Sales,5.0,<75k,44,Fully Remote,0,4,2,4,3,5,"Limited growth, Culture misfit",Growth path,25,Yes,Maybe,Childcare support
+4,20,Male,Master’s,Mid,Engineering,4.0,75–120k,43,On-site,48,2,3,5,3,5,Lack of flexibility,"Manager support, Flexible work",6,No,No,Other
+3,48,Prefer not to say,Diploma,Entry,HR,2.7,<75k,41,On-site,34,4,3,1,4,1,"Commute, Manager conflict",Flexible work,23,No,Maybe,Remote option
+3,20,Male,Master’s,Lead,Engineering,18.9,>250k,45,On-site,36,3,5,2,4,3,"Low pay, Other","Recognition, Benefits, Competitive pay",13,No,No,"Mentorship, Salary review, Wellness programs"
+3,64,Male,Bachelor’s,Mid,Sales,2.1,75–120k,42,Fully Remote,0,5,3,4,5,1,"Workload stress, Limited growth","Other, Team culture",14,No,No,"Career roadmap, Mentorship"
+5,34,Male,Bachelor’s,Senior,HR,13.6,75–120k,63,Fully Remote,0,5,2,4,3,4,"Workload stress, Lack of flexibility, Manager conflict","Recognition, Flexible work",21,No,No,"Salary review, Flexible hours"
+4,21,Female,Bachelor’s,Mid,Engineering,9.5,120–180k,56,Hybrid,29,3,4,3,3,4,"Workload stress, Limited growth, Other","Competitive pay, Purposeful work, Benefits",21,Yes,Maybe,Salary review
+3,34,Female,Bachelor’s,Mid,IT Support,5.3,120–180k,74,On-site,27,3,4,3,5,5,"Limited growth, Commute","Flexible work, Recognition",12,Yes,No,"Childcare support, Wellness programs"
+3,33,Male,Bachelor’s,Senior,Engineering,5.4,75–120k,43,On-site,23,3,4,3,2,3,"Limited growth, Other","Growth path, Other",19,Yes,Maybe,"Mentorship, Remote option"
+3,36,Male,Master’s,Senior,Marketing,3.8,180–250k,46,Hybrid,22,3,5,1,5,4,Culture misfit,"Recognition, Competitive pay",15,Yes,No,Other
+4,43,Male,Bachelor’s,Mid,Engineering,0.7,75–120k,37,On-site,38,3,5,5,5,3,Commute,"Recognition, Manager support, Flexible work",18,Yes,Yes,Salary review
+4,46,Female,Master’s,Mid,Marketing,3.8,<75k,31,Hybrid,19,4,3,5,3,3,Limited growth,Competitive pay,29,Yes,No,Wellness programs
+3,39,Female,Doctorate,Entry,HR,1.2,<75k,30,Hybrid,26,5,4,4,4,2,Lack of flexibility,"Flexible work, Growth path",19,No,Yes,"Childcare support, Wellness programs"
+4,34,Male,Bachelor’s,Mid,Engineering,0.9,120–180k,40,Hybrid,33,5,4,2,4,5,Workload stress,"Competitive pay, Flexible work, Other",38,Yes,Maybe,"Other, Flexible hours, Career roadmap"
+3,29,Female,Diploma,Mid,Engineering,3.8,<75k,52,On-site,37,2,2,5,4,4,"Workload stress, Culture misfit, Manager conflict",Purposeful work,22,Yes,No,"Wellness programs, Salary review, Other"
+4,37,Male,Bachelor’s,Entry,Engineering,8.1,<75k,49,Hybrid,28,5,4,2,4,3,Lack of flexibility,"Other, Growth path, Recognition",6,Yes,No,"Childcare support, Flexible hours"
+4,26,Female,Diploma,Senior,HR,1.5,>250k,48,Hybrid,42,2,4,5,5,3,"Workload stress, Culture misfit, Benefits","Flexible work, Growth path",18,Yes,No,"Career roadmap, Salary review"
+3,31,Male,Bachelor’s,Mid,IT Support,12.6,75–120k,39,Fully Remote,0,3,4,3,4,4,Limited growth,"Manager support, Other",20,Yes,Maybe,"Flexible hours, Mentorship"
+4,24,Male,Master’s,Entry,Sales,0.5,75–120k,30,Fully Remote,0,3,3,5,5,3,Other,"Competitive pay, Growth path, Purposeful work",6,Yes,Yes,"Mentorship, Wellness programs"
+3,32,Male,Bachelor’s,Entry,HR,8.5,<75k,41,On-site,24,4,5,1,1,4,Culture misfit,"Other, Manager support",14,Yes,Yes,"Flexible hours, Salary review"
+5,21,Male,Master’s,Senior,Sales,6.1,180–250k,40,On-site,16,2,4,5,5,4,"Other, Lack of flexibility","Growth path, Competitive pay, Other",23,No,Maybe,"Childcare support, Salary review, Remote option"
+3,39,Female,Diploma,Senior,IT Support,7.5,120–180k,46,On-site,29,4,2,4,2,3,"Manager conflict, Lack of flexibility",Purposeful work,28,Yes,Yes,"Flexible hours, Childcare support, Mentorship"
+3,37,Male,Doctorate,Entry,Marketing,2.2,<75k,51,Hybrid,50,3,3,3,5,3,Other,"Competitive pay, Purposeful work, Manager support",10,No,Maybe,Remote option
+3,36,Male,Master’s,Entry,Marketing,3.1,<75k,44,Fully Remote,0,4,3,2,3,2,"Lack of flexibility, Benefits, Manager conflict","Recognition, Team culture, Other",24,No,Yes,"Remote option, Flexible hours"
+4,26,Female,Bachelor’s,Entry,Marketing,2.4,<75k,53,Hybrid,42,3,1,4,5,4,"Other, Lack of flexibility, Culture misfit","Other, Recognition, Growth path",34,No,No,"Wellness programs, Other, Flexible hours"
+4,43,Non-binary,Other,Senior,Engineering,3.1,>250k,46,On-site,17,3,3,4,5,5,"Lack of flexibility, Limited growth, Benefits","Other, Manager support",39,No,Yes,"Childcare support, Wellness programs, Other"
+3,38,Male,Diploma,Mid,IT Support,9.7,120–180k,51,On-site,47,2,5,3,4,3,Other,Competitive pay,5,Yes,Maybe,Mentorship
+3,37,Female,Other,Mid,Engineering,4.4,75–120k,45,Hybrid,22,3,5,3,2,3,Low pay,"Team culture, Recognition, Purposeful work",17,Yes,No,"Flexible hours, Career roadmap"
+3,48,Male,Other,Senior,Engineering,4.3,120–180k,37,Fully Remote,0,3,4,4,2,3,"Other, Benefits, Limited growth","Team culture, Competitive pay, Recognition",13,No,Maybe,"Wellness programs, Career roadmap, Salary review"
+2,35,Male,Master’s,Mid,Finance,3.7,120–180k,58,Hybrid,12,3,1,2,1,5,"Manager conflict, Lack of flexibility","Other, Recognition, Purposeful work",12,Yes,Maybe,"Remote option, Wellness programs"
+3,34,Male,Other,Lead,IT Support,0.3,180–250k,45,On-site,26,4,1,3,4,3,Benefits,"Other, Team culture",11,Yes,No,"Salary review, Remote option"
+4,23,Male,Bachelor’s,Senior,Product,5.1,180–250k,40,On-site,53,3,4,3,5,4,"Low pay, Commute, Manager conflict","Other, Benefits, Competitive pay",47,Yes,No,Remote option
+3,32,Female,Bachelor’s,Mid,Engineering,9.7,75–120k,43,Fully Remote,0,4,4,4,2,3,"Other, Benefits, Low pay","Recognition, Other",26,Yes,Yes,"Mentorship, Childcare support"
+4,50,Female,Bachelor’s,Entry,Product,4.3,<75k,48,On-site,37,2,5,2,4,3,"Low pay, Limited growth, Lack of flexibility","Manager support, Recognition",3,Yes,Maybe,"Mentorship, Salary review, Wellness programs"
+3,42,Female,Master’s,Entry,Engineering,10.2,<75k,39,On-site,22,3,1,5,5,3,"Other, Commute",Other,3,Yes,Yes,"Other, Mentorship, Salary review"
+4,36,Male,Master’s,Senior,Engineering,0.7,180–250k,52,Fully Remote,0,3,5,3,4,4,Limited growth,Other,24,Yes,Yes,Mentorship
+3,37,Male,Other,Entry,Engineering,4.9,<75k,50,Hybrid,31,5,1,4,4,4,"Benefits, Limited growth, Lack of flexibility","Flexible work, Competitive pay, Recognition",22,Yes,Maybe,Salary review
+4,33,Male,Bachelor’s,Entry,IT Support,10.9,<75k,45,On-site,36,4,3,5,5,5,"Benefits, Other","Purposeful work, Other",0,Yes,No,Salary review
+3,35,Male,Diploma,Mid,IT Support,1.3,<75k,43,Fully Remote,0,2,4,2,4,3,"Low pay, Limited growth, Workload stress","Growth path, Team culture, Purposeful work",15,Yes,No,"Other, Mentorship"
+3,23,Male,Master’s,Lead,Engineering,4.5,180–250k,53,On-site,42,2,4,5,5,4,Benefits,"Team culture, Flexible work, Manager support",27,No,No,"Wellness programs, Salary review, Career roadmap"
+3,40,Female,Bachelor’s,Mid,Sales,4.6,75–120k,47,On-site,11,4,4,3,2,3,"Other, Limited growth","Recognition, Benefits",24,No,No,"Remote option, Flexible hours, Childcare support"
+3,29,Male,Bachelor’s,Entry,Engineering,14.8,<75k,59,Fully Remote,0,3,2,3,4,4,Low pay,"Manager support, Growth path, Flexible work",26,Yes,Yes,Other
+3,45,Male,Bachelor’s,Mid,HR,2.5,120–180k,47,On-site,27,4,3,5,2,2,"Limited growth, Manager conflict","Manager support, Other",11,Yes,Yes,"Remote option, Career roadmap, Childcare support"
+4,39,Male,Bachelor’s,Senior,Marketing,3.1,120–180k,41,On-site,106,1,5,5,4,4,Benefits,"Benefits, Flexible work",11,Yes,Yes,"Other, Mentorship"
+4,44,Male,Diploma,Entry,Engineering,2.0,120–180k,54,On-site,36,3,2,5,4,2,"Limited growth, Commute, Benefits",Other,0,No,Maybe,"Flexible hours, Wellness programs, Salary review"
+3,34,Male,Diploma,Entry,Engineering,5.9,75–120k,39,Fully Remote,0,2,3,3,3,3,"Benefits, Manager conflict, Low pay","Team culture, Manager support, Benefits",24,Yes,Maybe,Career roadmap
+3,33,Male,Bachelor’s,Entry,Marketing,23.1,<75k,55,On-site,40,3,2,5,1,5,Manager conflict,"Flexible work, Other, Recognition",3,Yes,No,"Remote option, Wellness programs, Childcare support"
+4,30,Male,Master’s,Senior,Finance,4.2,75–120k,48,Fully Remote,0,3,2,4,3,5,"Manager conflict, Limited growth","Benefits, Recognition",13,Yes,No,"Childcare support, Mentorship"
+3,27,Male,Diploma,Mid,Engineering,1.1,75–120k,50,On-site,37,3,3,2,4,4,Other,"Team culture, Other, Manager support",15,Yes,Yes,"Childcare support, Remote option, Career roadmap"
+5,26,Prefer not to say,Master’s,Mid,Sales,4.7,75–120k,41,Fully Remote,0,4,4,5,5,5,"Manager conflict, Benefits","Benefits, Manager support",8,No,Yes,Remote option
+4,36,Female,Bachelor’s,Entry,Finance,2.5,<75k,46,On-site,29,4,4,4,5,3,Workload stress,Benefits,17,No,Yes,"Mentorship, Other, Remote option"
+3,35,Non-binary,Master’s,Mid,Other,2.9,75–120k,40,Fully Remote,0,2,4,4,4,3,Workload stress,"Purposeful work, Competitive pay, Growth path",30,Yes,Yes,Remote option
+4,35,Female,Master’s,Mid,Sales,8.9,75–120k,44,On-site,36,3,5,3,5,5,"Workload stress, Benefits","Competitive pay, Team culture, Other",13,Yes,Maybe,"Other, Flexible hours"
+4,42,Male,Bachelor’s,Senior,Product,2.0,120–180k,48,Fully Remote,0,3,4,4,3,3,"Workload stress, Commute, Limited growth","Benefits, Manager support, Team culture",0,Yes,No,"Remote option, Salary review"
+4,47,Female,Diploma,Senior,Sales,0.3,75–120k,50,Fully Remote,0,3,4,2,1,4,"Benefits, Workload stress, Commute",Flexible work,27,Yes,Yes,Flexible hours
+3,28,Male,Bachelor’s,Mid,Engineering,5.5,120–180k,42,On-site,44,3,5,4,4,1,Benefits,"Purposeful work, Benefits, Other",14,Yes,Maybe,Other
+3,20,Female,Master’s,Entry,Sales,14.0,<75k,63,On-site,15,2,2,5,4,3,"Limited growth, Benefits, Other","Manager support, Recognition",27,Yes,No,"Childcare support, Remote option, Flexible hours"
+3,61,Male,Diploma,Mid,Sales,7.1,75–120k,38,Hybrid,132,2,3,4,4,5,Lack of flexibility,"Benefits, Growth path",19,Yes,Yes,"Career roadmap, Childcare support"
+3,42,Female,Master’s,Mid,IT Support,3.1,120–180k,35,Hybrid,16,5,1,3,5,3,"Manager conflict, Benefits","Other, Manager support, Growth path",16,Yes,Maybe,"Career roadmap, Other"
+5,35,Male,Other,Mid,Engineering,4.4,75–120k,38,Hybrid,40,4,5,5,4,4,"Limited growth, Manager conflict, Culture misfit","Flexible work, Growth path, Manager support",37,No,Yes,"Salary review, Flexible hours, Mentorship"
+4,34,Male,Diploma,Senior,Engineering,20.4,>250k,39,Hybrid,29,5,5,3,3,5,"Benefits, Limited growth, Low pay","Recognition, Benefits",24,Yes,Maybe,"Childcare support, Career roadmap"
+4,33,Male,Master’s,Lead,Engineering,2.7,75–120k,38,Fully Remote,0,4,4,5,4,5,Workload stress,"Manager support, Other, Competitive pay",20,Yes,Maybe,"Career roadmap, Flexible hours, Salary review"
+3,40,Male,Bachelor’s,Entry,Sales,16.3,<75k,42,On-site,28,3,4,4,3,3,"Low pay, Lack of flexibility, Limited growth","Competitive pay, Flexible work, Other",25,No,Yes,"Childcare support, Mentorship"
+4,33,Male,Master’s,Mid,Engineering,2.9,120–180k,44,Hybrid,25,4,5,4,4,3,Other,"Other, Benefits",21,No,No,Mentorship
+3,29,Male,Master’s,Entry,Engineering,2.5,<75k,76,Fully Remote,0,5,1,2,3,4,"Other, Limited growth","Growth path, Team culture, Flexible work",18,No,Maybe,"Career roadmap, Wellness programs"
+3,38,Non-binary,Bachelor’s,Mid,Engineering,2.3,75–120k,43,On-site,16,4,4,1,4,4,"Culture misfit, Other","Competitive pay, Manager support, Other",14,Yes,No,Mentorship
+3,26,Male,Bachelor’s,Mid,Marketing,2.2,75–120k,57,On-site,6,2,4,2,4,5,"Commute, Manager conflict, Workload stress",Purposeful work,12,No,Maybe,Remote option
+4,31,Female,Bachelor’s,Mid,Engineering,4.4,120–180k,30,On-site,24,5,4,3,2,3,"Manager conflict, Culture misfit, Lack of flexibility",Recognition,21,No,Maybe,Mentorship
+1,20,Female,Bachelor’s,Entry,Engineering,8.8,120–180k,51,Hybrid,25,3,1,2,4,2,Limited growth,Manager support,20,No,Maybe,"Salary review, Childcare support, Mentorship"
+4,32,Male,Bachelor’s,Senior,Engineering,1.5,180–250k,59,On-site,36,2,3,4,4,3,"Commute, Culture misfit, Limited growth","Team culture, Purposeful work, Growth path",21,Yes,Yes,"Childcare support, Mentorship, Career roadmap"
+3,46,Female,Bachelor’s,Lead,Engineering,2.8,>250k,47,Fully Remote,0,2,5,3,2,3,Culture misfit,Other,26,Yes,Maybe,Mentorship
+3,24,Male,Bachelor’s,Mid,Product,8.9,120–180k,38,On-site,22,2,3,5,3,2,Other,"Recognition, Team culture",24,Yes,Yes,"Remote option, Mentorship"
+4,41,Male,Bachelor’s,Mid,Marketing,5.5,120–180k,41,On-site,12,4,2,4,3,4,"Commute, Culture misfit",Flexible work,7,Yes,No,Career roadmap
+3,37,Female,Bachelor’s,Senior,Engineering,10.8,120–180k,48,On-site,54,5,2,3,4,5,"Workload stress, Culture misfit, Benefits",Flexible work,25,Yes,No,"Wellness programs, Childcare support, Mentorship"
+4,32,Male,Bachelor’s,Mid,HR,13.0,75–120k,33,On-site,11,5,3,2,4,5,"Workload stress, Low pay, Limited growth","Manager support, Growth path",17,Yes,Yes,"Wellness programs, Career roadmap"
+4,35,Male,Other,Senior,Engineering,5.3,75–120k,31,On-site,44,4,5,3,3,2,"Manager conflict, Workload stress","Benefits, Other",18,Yes,Yes,"Other, Salary review, Mentorship"
+3,28,Female,Other,Mid,IT Support,1.8,120–180k,42,On-site,9,4,4,5,2,3,"Lack of flexibility, Benefits, Other","Purposeful work, Growth path, Competitive pay",14,Yes,Maybe,"Career roadmap, Wellness programs"
+3,34,Female,Master’s,Lead,Finance,4.2,120–180k,54,On-site,25,3,5,3,2,4,"Other, Culture misfit","Flexible work, Other",0,Yes,Yes,Career roadmap
+5,31,Male,Bachelor’s,Senior,HR,0.4,180–250k,38,On-site,16,3,5,5,4,4,Limited growth,Manager support,19,Yes,Maybe,"Flexible hours, Salary review"
+3,29,Male,Bachelor’s,Senior,Product,6.9,75–120k,45,On-site,17,5,5,2,2,2,"Manager conflict, Other","Team culture, Manager support, Benefits",23,Yes,No,Salary review
+3,23,Male,Bachelor’s,Entry,Engineering,8.1,120–180k,33,Hybrid,7,3,2,4,5,4,"Other, Commute","Manager support, Flexible work, Benefits",23,Yes,Yes,"Childcare support, Career roadmap"
+3,43,Female,Bachelor’s,Entry,Engineering,1.8,<75k,52,On-site,38,5,3,3,2,4,Limited growth,"Team culture, Benefits",19,Yes,Maybe,Salary review
+4,20,Female,Master’s,Entry,Engineering,0.8,<75k,41,Hybrid,38,5,4,3,5,3,"Low pay, Culture misfit, Benefits","Team culture, Competitive pay",13,No,Yes,"Mentorship, Childcare support, Salary review"
+2,29,Male,Doctorate,Senior,Product,4.7,<75k,33,On-site,46,4,3,2,3,2,Workload stress,"Purposeful work, Other, Growth path",30,Yes,No,Career roadmap
+3,31,Female,Bachelor’s,Mid,Finance,5.0,75–120k,51,Hybrid,25,5,1,4,4,3,Workload stress,Team culture,14,Yes,Yes,"Career roadmap, Wellness programs"
+3,42,Male,Master’s,Senior,Other,6.4,120–180k,72,On-site,15,2,3,2,3,4,Workload stress,Team culture,35,No,No,"Salary review, Flexible hours, Other"
+4,35,Female,Master’s,Senior,Engineering,0.9,120–180k,43,Fully Remote,0,4,4,5,3,4,"Culture misfit, Lack of flexibility","Competitive pay, Benefits",18,No,Yes,Salary review
+3,30,Female,Bachelor’s,Mid,Sales,2.0,75–120k,38,On-site,43,3,2,3,4,4,"Benefits, Low pay",Recognition,20,No,No,Salary review
+4,54,Male,Other,Mid,Engineering,1.1,75–120k,52,On-site,23,3,4,4,4,3,Culture misfit,"Team culture, Benefits",27,No,Maybe,"Flexible hours, Remote option, Mentorship"
+5,28,Male,Bachelor’s,Mid,IT Support,6.5,75–120k,45,On-site,22,5,5,5,4,4,Limited growth,Purposeful work,27,Yes,No,"Flexible hours, Mentorship"
+4,26,Male,Bachelor’s,Entry,Engineering,15.7,<75k,30,On-site,52,4,4,3,4,3,"Workload stress, Lack of flexibility",Recognition,30,Yes,Maybe,"Wellness programs, Childcare support, Other"
+3,46,Male,Diploma,Entry,IT Support,1.8,<75k,48,Fully Remote,0,1,3,5,1,3,"Limited growth, Workload stress, Manager conflict",Benefits,21,No,Yes,"Other, Wellness programs"
+4,37,Male,Master’s,Lead,Product,2.8,180–250k,46,Hybrid,25,5,2,4,5,3,Culture misfit,"Manager support, Team culture, Other",12,Yes,Yes,Wellness programs
+3,37,Male,Bachelor’s,Senior,Engineering,3.2,180–250k,47,Hybrid,41,2,5,2,4,3,"Workload stress, Limited growth, Commute",Manager support,21,Yes,No,"Other, Salary review"
+4,31,Female,Master’s,Entry,Other,0.8,<75k,45,On-site,45,3,4,4,3,4,"Lack of flexibility, Manager conflict, Workload stress","Growth path, Purposeful work, Other",30,Yes,Yes,"Remote option, Career roadmap, Other"
+3,32,Male,Bachelor’s,Mid,IT Support,8.3,120–180k,44,Fully Remote,0,4,3,4,3,3,"Limited growth, Low pay, Benefits",Flexible work,10,Yes,No,"Mentorship, Salary review"
+3,39,Female,Bachelor’s,Mid,Sales,8.5,75–120k,61,On-site,32,2,3,5,5,3,"Commute, Low pay, Workload stress",Growth path,33,No,Yes,"Other, Childcare support, Salary review"
+4,34,Female,Bachelor’s,Mid,Product,8.9,<75k,41,On-site,15,4,4,4,5,5,"Lack of flexibility, Low pay","Team culture, Competitive pay, Benefits",20,Yes,No,Flexible hours
+4,30,Male,Master’s,Management,IT Support,3.2,75–120k,44,Hybrid,25,4,5,4,3,5,"Manager conflict, Workload stress, Commute","Other, Purposeful work, Benefits",0,Yes,No,"Other, Wellness programs"
+3,25,Male,Diploma,Senior,IT Support,5.0,>250k,41,On-site,26,4,2,1,4,3,"Other, Lack of flexibility","Flexible work, Manager support, Other",26,Yes,Yes,"Wellness programs, Mentorship"
+3,25,Male,Master’s,Entry,Engineering,2.8,<75k,30,Fully Remote,0,4,1,3,5,3,"Manager conflict, Other, Culture misfit","Team culture, Benefits, Recognition",22,Yes,Maybe,"Salary review, Remote option, Career roadmap"
+3,28,Male,Bachelor’s,Mid,Sales,4.0,75–120k,41,On-site,105,4,2,5,2,4,Lack of flexibility,Team culture,33,Yes,Yes,"Remote option, Salary review, Childcare support"
+4,20,Female,Diploma,Lead,Finance,2.3,180–250k,30,On-site,33,2,5,1,4,3,Manager conflict,"Team culture, Growth path",4,Yes,Maybe,Flexible hours
+5,39,Male,Bachelor’s,Mid,IT Support,1.7,75–120k,35,On-site,21,3,4,4,5,3,"Limited growth, Commute, Low pay","Purposeful work, Growth path, Other",18,No,Maybe,"Childcare support, Mentorship"
+3,31,Male,Master’s,Lead,Engineering,0.6,180–250k,34,Hybrid,32,5,5,2,5,4,"Low pay, Benefits, Other","Other, Competitive pay",39,Yes,No,"Mentorship, Flexible hours"
+3,20,Male,Bachelor’s,Entry,IT Support,2.7,75–120k,46,On-site,19,2,4,3,4,2,"Other, Limited growth, Culture misfit","Team culture, Purposeful work",7,Yes,No,"Salary review, Career roadmap"
+4,48,Male,Diploma,Management,Engineering,5.8,>250k,30,On-site,33,2,5,4,3,2,Workload stress,"Other, Recognition",26,Yes,Maybe,Mentorship
+3,24,Female,Other,Entry,Sales,2.2,<75k,50,On-site,23,4,3,2,2,4,"Limited growth, Other, Lack of flexibility","Purposeful work, Benefits",26,Yes,Maybe,"Salary review, Childcare support, Remote option"
+2,26,Male,Bachelor’s,Mid,Marketing,2.7,75–120k,30,On-site,28,3,3,2,4,2,"Workload stress, Culture misfit, Low pay",Recognition,22,Yes,Yes,"Flexible hours, Salary review, Wellness programs"
+3,43,Female,Bachelor’s,Mid,Marketing,4.0,75–120k,36,Hybrid,12,3,3,4,3,5,"Low pay, Lack of flexibility","Growth path, Team culture, Recognition",36,Yes,Maybe,"Mentorship, Flexible hours, Career roadmap"
+3,21,Female,Master’s,Senior,Engineering,3.8,120–180k,53,Hybrid,6,2,3,4,3,4,Low pay,"Other, Competitive pay",13,Yes,Maybe,Career roadmap
+3,37,Female,Bachelor’s,Mid,Engineering,8.0,<75k,83,Fully Remote,0,3,3,4,5,2,"Commute, Lack of flexibility, Benefits",Competitive pay,21,No,No,"Mentorship, Other"
+3,20,Female,Doctorate,Senior,Other,1.6,75–120k,54,On-site,34,3,4,2,3,4,"Other, Limited growth, Culture misfit",Other,36,Yes,Maybe,"Salary review, Other, Flexible hours"
+3,44,Male,Bachelor’s,Mid,Engineering,12.2,75–120k,54,Hybrid,30,4,3,3,3,2,Lack of flexibility,"Benefits, Other, Manager support",21,No,No,"Career roadmap, Childcare support, Salary review"
+4,28,Female,Master’s,Lead,Product,6.7,180–250k,38,On-site,55,4,4,5,4,4,Other,"Recognition, Flexible work",23,Yes,Maybe,Flexible hours
+4,33,Male,Bachelor’s,Senior,Engineering,2.6,120–180k,48,Hybrid,32,4,3,1,2,4,"Manager conflict, Benefits, Limited growth","Flexible work, Purposeful work, Other",11,Yes,Maybe,"Remote option, Flexible hours, Wellness programs"
+3,27,Male,Master’s,Senior,IT Support,3.8,>250k,37,Hybrid,36,5,3,4,2,4,"Other, Workload stress","Flexible work, Other",8,Yes,Yes,"Flexible hours, Other, Remote option"
+5,22,Male,Bachelor’s,Senior,Other,2.2,180–250k,35,Hybrid,32,4,4,5,3,5,"Benefits, Commute","Team culture, Flexible work",19,Yes,Maybe,Salary review
+4,31,Male,Bachelor’s,Entry,Engineering,4.0,<75k,31,On-site,24,4,4,3,3,4,Manager conflict,Competitive pay,28,Yes,Maybe,"Remote option, Career roadmap"
+5,31,Female,Diploma,Senior,HR,14.1,120–180k,51,Hybrid,13,5,3,4,4,5,"Culture misfit, Other",Flexible work,37,Yes,Maybe,Career roadmap
+4,34,Female,Bachelor’s,Entry,HR,6.3,<75k,51,On-site,24,5,3,4,5,4,Limited growth,Manager support,37,Yes,Yes,"Other, Flexible hours"
+4,39,Male,Diploma,Entry,Sales,9.1,<75k,34,On-site,22,2,5,3,5,3,"Lack of flexibility, Benefits, Commute","Other, Competitive pay, Team culture",20,Yes,No,Mentorship
+3,32,Female,Bachelor’s,Mid,Engineering,1.6,120–180k,46,Fully Remote,0,3,4,2,4,2,"Benefits, Low pay, Limited growth","Manager support, Purposeful work",12,No,Maybe,"Other, Flexible hours"
+5,20,Male,Bachelor’s,Senior,Engineering,1.5,75–120k,48,On-site,39,3,5,5,2,4,Culture misfit,"Manager support, Growth path, Benefits",11,Yes,Yes,"Remote option, Mentorship, Childcare support"
+3,27,Female,Bachelor’s,Mid,Product,4.7,120–180k,40,On-site,15,1,3,5,5,4,Culture misfit,Team culture,7,Yes,Maybe,"Remote option, Wellness programs, Childcare support"
+3,32,Female,Diploma,Mid,Sales,2.7,120–180k,33,On-site,20,1,2,5,3,2,"Benefits, Workload stress, Manager conflict","Purposeful work, Competitive pay, Other",11,Yes,Yes,"Remote option, Flexible hours, Childcare support"
+4,37,Male,Diploma,Mid,Engineering,3.2,75–120k,37,On-site,6,3,3,4,4,5,"Commute, Workload stress",Flexible work,28,Yes,No,"Salary review, Mentorship"
+4,20,Male,Bachelor’s,Mid,Engineering,15.5,75–120k,37,Fully Remote,0,4,3,2,4,5,"Culture misfit, Manager conflict, Limited growth","Manager support, Other, Recognition",31,Yes,Maybe,Mentorship
+2,42,Female,Bachelor’s,Mid,Product,1.3,75–120k,42,On-site,25,2,1,4,3,5,Low pay,Flexible work,14,Yes,Maybe,Salary review
+3,34,Male,Master’s,Mid,Marketing,7.5,<75k,62,Fully Remote,0,2,4,3,3,3,Low pay,Purposeful work,1,Yes,Maybe,"Remote option, Mentorship"
+4,24,Female,Bachelor’s,Mid,Finance,3.4,120–180k,60,Hybrid,21,5,1,5,2,4,"Lack of flexibility, Benefits",Purposeful work,11,Yes,Maybe,"Remote option, Salary review"
+3,33,Male,Bachelor’s,Entry,Engineering,6.6,<75k,36,On-site,45,2,2,5,3,5,"Manager conflict, Low pay, Culture misfit","Other, Growth path, Recognition",29,Yes,No,"Career roadmap, Mentorship, Other"
+3,37,Female,Master’s,Mid,Engineering,2.2,75–120k,42,On-site,5,4,5,2,3,2,Culture misfit,"Manager support, Other, Purposeful work",15,Yes,Maybe,"Career roadmap, Flexible hours, Salary review"
+3,35,Male,Other,Entry,Marketing,13.9,<75k,47,On-site,25,2,4,4,1,3,Benefits,"Competitive pay, Benefits",27,No,Yes,Salary review
+4,32,Prefer not to say,Bachelor’s,Entry,IT Support,1.1,75–120k,45,Hybrid,18,3,4,3,3,4,"Other, Lack of flexibility",Growth path,26,Yes,No,"Salary review, Childcare support, Flexible hours"
+4,32,Female,Master’s,Mid,Engineering,1.9,75–120k,42,On-site,41,2,5,4,3,4,"Low pay, Workload stress","Flexible work, Manager support",31,Yes,Yes,"Other, Childcare support"
+4,34,Female,Bachelor’s,Senior,Engineering,8.1,120–180k,50,On-site,29,5,5,3,3,3,"Lack of flexibility, Low pay, Limited growth","Benefits, Other, Competitive pay",29,Yes,No,Wellness programs
+4,21,Female,Bachelor’s,Senior,Engineering,4.2,120–180k,43,Fully Remote,0,3,5,5,3,1,"Benefits, Workload stress, Commute",Team culture,15,Yes,Yes,Career roadmap
+3,32,Non-binary,Master’s,Senior,Product,3.2,75–120k,67,Hybrid,17,3,4,2,5,1,"Manager conflict, Commute",Growth path,0,Yes,Maybe,Flexible hours
+3,20,Male,Master’s,Senior,Finance,13.0,120–180k,30,On-site,44,3,2,3,2,4,Lack of flexibility,"Other, Team culture",23,Yes,Maybe,Remote option
+4,32,Male,Other,Mid,IT Support,8.1,<75k,61,Fully Remote,0,5,2,1,5,4,"Limited growth, Low pay, Workload stress",Growth path,5,No,Yes,Career roadmap
+3,33,Female,Bachelor’s,Mid,Other,1.4,120–180k,58,On-site,31,3,3,2,4,3,Manager conflict,"Team culture, Benefits",7,Yes,Yes,"Remote option, Flexible hours"
+3,38,Female,Bachelor’s,Management,Product,2.5,>250k,46,Hybrid,22,4,4,3,5,1,Other,"Other, Benefits",16,No,Yes,"Mentorship, Flexible hours"
+3,38,Male,Bachelor’s,Senior,Engineering,5.7,120–180k,38,Hybrid,22,3,3,2,4,3,Low pay,"Competitive pay, Growth path",0,Yes,Yes,"Remote option, Wellness programs"
+4,38,Male,Bachelor’s,Senior,Engineering,6.6,75–120k,37,On-site,24,5,4,3,5,3,"Lack of flexibility, Commute, Workload stress",Other,14,No,Yes,"Remote option, Salary review"
+2,24,Male,Master’s,Mid,Sales,6.0,120–180k,43,On-site,19,2,4,1,4,3,"Culture misfit, Other, Limited growth",Flexible work,15,Yes,Maybe,"Childcare support, Flexible hours"
+4,38,Male,Master’s,Lead,Engineering,6.2,120–180k,30,Hybrid,12,4,4,4,2,4,"Culture misfit, Low pay",Manager support,21,Yes,Maybe,Career roadmap
+3,43,Male,Master’s,Senior,Engineering,0.5,75–120k,37,Hybrid,42,3,5,4,4,2,"Limited growth, Lack of flexibility, Commute","Growth path, Team culture, Manager support",17,Yes,Yes,Mentorship
+3,45,Female,Master’s,Mid,Engineering,4.1,120–180k,39,Hybrid,7,1,3,5,5,3,"Benefits, Other, Commute","Other, Recognition",5,Yes,Maybe,"Other, Salary review, Career roadmap"
+3,43,Male,Diploma,Mid,Other,2.5,120–180k,46,Fully Remote,0,4,4,1,5,4,"Workload stress, Commute","Growth path, Other",28,Yes,Yes,"Wellness programs, Mentorship"
+3,29,Male,Bachelor’s,Mid,Engineering,1.4,120–180k,32,Fully Remote,0,4,5,4,2,4,Low pay,Flexible work,11,Yes,Yes,"Other, Flexible hours, Childcare support"
+4,33,Female,Bachelor’s,Lead,IT Support,11.4,>250k,43,On-site,27,5,4,4,4,5,"Benefits, Lack of flexibility",Competitive pay,34,Yes,Maybe,Career roadmap
+3,23,Non-binary,Master’s,Senior,Engineering,14.7,<75k,41,Fully Remote,0,4,2,3,3,4,Other,"Growth path, Team culture",17,Yes,Yes,"Childcare support, Wellness programs, Remote option"
+2,42,Female,Bachelor’s,Senior,Marketing,0.1,75–120k,30,Hybrid,15,4,3,2,3,4,Culture misfit,Recognition,25,No,Yes,"Childcare support, Flexible hours"
+4,41,Male,Bachelor’s,Management,Engineering,5.1,120–180k,38,Fully Remote,0,4,4,4,4,3,Limited growth,"Competitive pay, Flexible work, Benefits",22,Yes,No,Flexible hours
+3,38,Female,Bachelor’s,Mid,Sales,3.9,75–120k,32,Fully Remote,0,3,4,2,1,4,"Benefits, Workload stress, Manager conflict","Purposeful work, Manager support, Recognition",35,Yes,Yes,"Salary review, Career roadmap, Mentorship"
+4,21,Male,Diploma,Entry,Engineering,5.2,180–250k,38,On-site,25,4,2,5,5,3,"Lack of flexibility, Low pay, Culture misfit","Manager support, Benefits, Competitive pay",16,No,Maybe,Remote option
+4,21,Male,Master’s,Mid,Engineering,2.2,75–120k,50,On-site,43,4,3,5,2,4,"Culture misfit, Limited growth","Growth path, Recognition, Manager support",24,Yes,Yes,"Flexible hours, Wellness programs, Childcare support"
+3,40,Prefer not to say,Bachelor’s,Mid,Sales,2.1,<75k,39,On-site,18,2,5,4,2,4,"Low pay, Culture misfit, Manager conflict","Manager support, Benefits, Recognition",23,No,Yes,"Career roadmap, Flexible hours"
+4,35,Female,Master’s,Senior,Engineering,3.4,75–120k,48,On-site,24,4,5,2,5,5,"Commute, Low pay, Lack of flexibility","Flexible work, Competitive pay",7,Yes,Yes,"Salary review, Remote option, Mentorship"
+4,20,Male,Other,Entry,HR,1.9,<75k,43,On-site,35,4,4,4,3,3,Commute,"Team culture, Competitive pay",31,Yes,Maybe,"Remote option, Wellness programs, Mentorship"
+4,24,Male,Bachelor’s,Entry,Product,2.9,75–120k,50,On-site,32,4,4,4,3,2,Other,Benefits,19,No,No,"Remote option, Childcare support, Mentorship"
+4,47,Female,Master’s,Mid,Sales,6.9,75–120k,38,Fully Remote,0,2,4,3,3,4,"Culture misfit, Workload stress, Limited growth","Benefits, Competitive pay, Other",17,No,Yes,Remote option
+3,37,Female,Bachelor’s,Lead,Marketing,3.5,>250k,53,Fully Remote,0,3,3,3,3,3,"Manager conflict, Benefits, Lack of flexibility","Purposeful work, Manager support, Flexible work",26,No,Yes,Career roadmap
+4,26,Male,Diploma,Mid,HR,5.5,75–120k,30,Fully Remote,0,4,4,4,5,1,"Low pay, Limited growth, Commute","Benefits, Purposeful work, Team culture",0,No,Maybe,"Career roadmap, Remote option"
+4,37,Male,Bachelor’s,Mid,Sales,1.5,120–180k,59,On-site,5,4,2,4,5,3,"Manager conflict, Other, Commute","Flexible work, Benefits",8,Yes,No,Salary review
+4,34,Male,Bachelor’s,Mid,IT Support,7.5,75–120k,35,On-site,10,5,5,4,4,4,"Commute, Other, Limited growth",Competitive pay,13,Yes,No,"Mentorship, Career roadmap, Wellness programs"
+2,29,Male,Bachelor’s,Mid,Product,4.5,<75k,41,On-site,35,3,3,4,3,2,"Workload stress, Limited growth","Flexible work, Team culture, Other",5,No,No,"Other, Remote option, Mentorship"
+2,22,Male,Bachelor’s,Mid,Sales,1.6,120–180k,49,Fully Remote,0,2,4,3,2,3,"Workload stress, Limited growth","Competitive pay, Purposeful work",24,No,Maybe,"Career roadmap, Flexible hours"
+5,30,Female,Bachelor’s,Mid,Engineering,5.2,75–120k,42,Hybrid,14,3,1,4,4,5,Culture misfit,Flexible work,12,Yes,Maybe,"Flexible hours, Mentorship, Wellness programs"
+5,25,Male,Bachelor’s,Senior,Sales,1.8,180–250k,40,Hybrid,40,3,5,5,4,4,"Low pay, Culture misfit",Competitive pay,19,Yes,Yes,"Remote option, Wellness programs"
+4,27,Male,Master’s,Senior,Product,6.3,120–180k,86,Hybrid,23,3,2,3,5,3,"Limited growth, Manager conflict",Purposeful work,36,No,Maybe,"Flexible hours, Career roadmap"
+3,28,Male,Bachelor’s,Entry,Engineering,3.4,<75k,35,On-site,35,2,5,5,3,3,Limited growth,"Other, Benefits",19,Yes,Yes,"Mentorship, Flexible hours"
+3,36,Female,Bachelor’s,Senior,Finance,14.0,120–180k,40,On-site,21,4,3,5,2,5,"Limited growth, Lack of flexibility","Growth path, Manager support",27,Yes,Yes,Salary review
+3,42,Male,Bachelor’s,Mid,HR,1.0,120–180k,48,On-site,21,3,2,4,2,4,"Commute, Culture misfit, Other","Competitive pay, Other",12,Yes,Maybe,"Salary review, Mentorship, Other"
+3,31,Female,Diploma,Entry,Engineering,8.4,75–120k,55,Hybrid,14,4,3,4,3,2,"Workload stress, Manager conflict, Low pay",Flexible work,30,Yes,Yes,"Salary review, Flexible hours, Wellness programs"
+4,22,Male,Bachelor’s,Senior,Sales,2.0,<75k,66,Fully Remote,0,1,3,5,3,5,"Limited growth, Culture misfit","Flexible work, Growth path, Purposeful work",20,Yes,Yes,"Mentorship, Salary review, Flexible hours"
+5,34,Female,Bachelor’s,Entry,IT Support,2.4,<75k,44,On-site,52,4,5,5,4,1,"Limited growth, Workload stress","Recognition, Competitive pay",31,Yes,Maybe,Career roadmap
+4,20,Female,Bachelor’s,Lead,Engineering,2.9,120–180k,39,Hybrid,24,3,5,4,4,4,"Manager conflict, Low pay",Growth path,19,Yes,Yes,"Remote option, Salary review"
+4,30,Female,Other,Mid,Engineering,2.5,<75k,73,Fully Remote,0,3,4,4,4,4,"Commute, Benefits, Lack of flexibility","Flexible work, Recognition",34,Yes,Maybe,"Childcare support, Flexible hours"
+3,36,Female,Master’s,Lead,Engineering,3.8,180–250k,55,On-site,30,4,4,1,4,5,"Limited growth, Commute","Purposeful work, Competitive pay",23,Yes,Maybe,"Flexible hours, Career roadmap, Remote option"
+4,33,Male,Bachelor’s,Senior,Marketing,4.5,75–120k,43,On-site,40,4,3,5,5,3,"Manager conflict, Commute, Low pay",Growth path,23,Yes,No,"Other, Flexible hours"
+4,37,Male,Master’s,Entry,Sales,0.7,<75k,52,Hybrid,34,5,3,4,4,1,Benefits,"Benefits, Manager support",39,No,Maybe,"Remote option, Flexible hours, Salary review"
+4,37,Male,Bachelor’s,Mid,Engineering,11.0,75–120k,30,Hybrid,37,4,3,4,4,4,"Lack of flexibility, Benefits, Limited growth","Benefits, Recognition, Purposeful work",17,Yes,Maybe,Childcare support
+5,38,Female,Bachelor’s,Mid,Engineering,3.2,75–120k,46,On-site,7,5,2,5,5,4,"Low pay, Benefits",Recognition,15,Yes,Maybe,"Wellness programs, Flexible hours"
+4,23,Male,Bachelor’s,Mid,Engineering,1.4,<75k,34,Fully Remote,0,4,3,4,3,4,"Manager conflict, Lack of flexibility",Competitive pay,28,Yes,Yes,Flexible hours
+3,26,Male,Master’s,Mid,HR,1.7,75–120k,50,Fully Remote,0,3,4,1,3,4,"Manager conflict, Commute","Flexible work, Other, Team culture",20,No,No,Childcare support
+4,29,Male,Bachelor’s,Management,IT Support,3.8,180–250k,48,On-site,36,4,4,3,4,1,"Commute, Low pay","Purposeful work, Recognition, Growth path",15,Yes,Maybe,"Remote option, Career roadmap, Salary review"
+3,44,Female,Master’s,Senior,Engineering,1.9,120–180k,54,On-site,20,2,3,5,3,4,"Low pay, Benefits, Commute","Manager support, Growth path",12,Yes,Maybe,"Salary review, Wellness programs, Childcare support"
+3,34,Female,Bachelor’s,Entry,IT Support,12.9,<75k,39,Hybrid,42,2,3,2,5,3,Low pay,"Team culture, Flexible work",22,No,Maybe,"Salary review, Mentorship, Childcare support"
+5,20,Male,Bachelor’s,Senior,Other,14.3,120–180k,41,Fully Remote,0,3,4,4,5,3,"Culture misfit, Low pay","Growth path, Purposeful work, Benefits",21,Yes,Yes,"Career roadmap, Wellness programs"
+5,36,Female,Bachelor’s,Mid,Marketing,10.3,<75k,45,Hybrid,36,3,3,3,3,4,Lack of flexibility,"Competitive pay, Benefits, Other",17,Yes,Yes,"Salary review, Remote option, Childcare support"
+4,23,Male,Doctorate,Senior,Marketing,3.6,>250k,55,On-site,37,5,5,5,2,3,Workload stress,"Recognition, Growth path",10,No,No,"Mentorship, Childcare support, Wellness programs"
+5,27,Male,Master’s,Mid,Engineering,2.0,75–120k,47,Hybrid,21,4,4,1,5,5,"Commute, Low pay",Benefits,27,Yes,No,"Flexible hours, Mentorship, Wellness programs"
+3,50,Male,Doctorate,Entry,Sales,1.1,75–120k,51,Fully Remote,0,2,3,1,3,4,"Lack of flexibility, Limited growth",Manager support,21,Yes,No,Career roadmap
+3,27,Male,Bachelor’s,Lead,IT Support,7.1,180–250k,43,On-site,50,3,1,2,4,4,Culture misfit,Recognition,16,Yes,Yes,"Childcare support, Wellness programs"
+3,42,Female,Bachelor’s,Lead,Sales,0.9,75–120k,43,Hybrid,20,4,3,3,2,4,"Low pay, Commute, Limited growth",Competitive pay,9,Yes,Yes,"Wellness programs, Mentorship, Career roadmap"
+3,20,Female,Bachelor’s,Senior,Engineering,1.3,120–180k,37,On-site,55,3,4,3,3,4,"Other, Culture misfit, Manager conflict","Flexible work, Team culture",22,Yes,Yes,"Wellness programs, Remote option"
+4,27,Female,Master’s,Entry,Finance,6.2,<75k,56,On-site,65,4,3,5,5,5,Workload stress,"Other, Team culture, Growth path",27,No,No,"Remote option, Flexible hours, Childcare support"
+3,20,Female,Bachelor’s,Senior,Engineering,6.9,120–180k,37,On-site,45,3,4,2,5,3,"Workload stress, Manager conflict","Competitive pay, Benefits, Flexible work",10,Yes,Maybe,Career roadmap
+4,39,Female,Bachelor’s,Mid,Engineering,2.1,120–180k,36,Hybrid,50,3,3,4,5,3,"Lack of flexibility, Workload stress",Other,15,Yes,Maybe,"Career roadmap, Mentorship, Remote option"
+3,49,Female,Master’s,Entry,Other,5.7,75–120k,48,On-site,40,3,2,4,5,2,"Culture misfit, Lack of flexibility, Other",Manager support,16,Yes,No,"Flexible hours, Remote option, Salary review"
+4,49,Female,Bachelor’s,Entry,Engineering,5.6,<75k,39,On-site,36,5,2,3,4,3,Manager conflict,"Other, Recognition, Purposeful work",16,Yes,Yes,Flexible hours
+2,39,Male,Bachelor’s,Lead,IT Support,0.5,180–250k,50,Fully Remote,0,3,4,3,1,1,Other,"Recognition, Manager support",20,Yes,Maybe,Wellness programs
+3,33,Female,Bachelor’s,Mid,Engineering,2.8,75–120k,35,On-site,15,4,4,2,4,2,Commute,"Benefits, Team culture",20,No,Maybe,Mentorship
+3,20,Male,Doctorate,Mid,Sales,5.7,75–120k,44,Fully Remote,0,3,5,5,2,4,"Commute, Workload stress","Purposeful work, Other, Growth path",9,Yes,Yes,Mentorship
+4,26,Male,Master’s,Entry,Engineering,6.5,<75k,40,Fully Remote,0,4,3,3,3,4,"Limited growth, Benefits",Competitive pay,19,No,Yes,"Remote option, Career roadmap"
+4,31,Male,Bachelor’s,Lead,Marketing,9.1,180–250k,36,On-site,5,4,4,5,3,5,"Commute, Culture misfit",Team culture,21,Yes,No,"Other, Flexible hours, Salary review"
+3,31,Male,Bachelor’s,Senior,Finance,4.5,75–120k,51,On-site,30,1,3,2,4,4,"Culture misfit, Limited growth, Lack of flexibility","Team culture, Purposeful work, Growth path",0,Yes,Maybe,Salary review
+4,33,Male,Bachelor’s,Senior,Sales,3.1,75–120k,50,Hybrid,20,4,4,2,4,4,"Lack of flexibility, Culture misfit, Commute","Team culture, Manager support",15,No,Yes,"Salary review, Childcare support"
+4,32,Male,Bachelor’s,Mid,Marketing,4.2,75–120k,48,Fully Remote,0,2,5,5,2,5,"Workload stress, Lack of flexibility",Competitive pay,30,Yes,Maybe,"Salary review, Remote option"
+3,50,Female,Diploma,Mid,Engineering,1.6,75–120k,30,On-site,25,2,1,4,5,2,"Workload stress, Limited growth, Commute",Other,33,Yes,No,"Career roadmap, Remote option, Wellness programs"
+3,34,Female,Bachelor’s,Senior,Engineering,1.4,120–180k,32,Hybrid,16,5,4,5,3,2,Low pay,Other,4,No,Maybe,"Wellness programs, Flexible hours"
+2,28,Male,Bachelor’s,Entry,IT Support,1.6,<75k,31,Hybrid,16,4,2,4,3,3,"Other, Limited growth, Manager conflict","Growth path, Other",19,No,Yes,"Wellness programs, Remote option"
+4,29,Male,Master’s,Entry,Engineering,0.8,75–120k,44,On-site,46,4,4,3,5,2,"Lack of flexibility, Workload stress, Other","Competitive pay, Growth path",23,No,Maybe,Mentorship
+3,32,Male,Bachelor’s,Senior,Product,0.9,120–180k,36,Hybrid,25,2,4,3,2,5,Limited growth,Manager support,19,Yes,Yes,Salary review
+3,35,Male,Bachelor’s,Mid,Marketing,4.2,75–120k,56,On-site,24,3,2,4,5,2,"Low pay, Limited growth","Competitive pay, Growth path",13,No,Maybe,Mentorship
+3,44,Male,Bachelor’s,Entry,Engineering,6.3,<75k,37,Hybrid,16,3,4,5,2,4,"Lack of flexibility, Other",Other,16,Yes,Yes,"Flexible hours, Salary review, Career roadmap"
+3,34,Male,Master’s,Mid,Sales,1.4,120–180k,36,Fully Remote,0,3,3,5,3,4,"Workload stress, Low pay","Growth path, Recognition, Team culture",27,Yes,Maybe,"Remote option, Mentorship, Wellness programs"
+3,38,Male,Master’s,Senior,Engineering,5.9,<75k,30,Hybrid,21,2,5,3,3,4,Other,Purposeful work,5,No,Yes,Other
+4,38,Female,Bachelor’s,Senior,HR,1.7,>250k,41,On-site,36,2,2,4,4,4,"Low pay, Limited growth, Workload stress","Growth path, Purposeful work",26,Yes,Maybe,"Other, Flexible hours"
+3,24,Female,Master’s,Mid,Engineering,7.1,75–120k,44,Hybrid,18,3,3,3,5,2,Culture misfit,"Benefits, Flexible work, Competitive pay",27,Yes,Yes,Childcare support
+3,32,Female,Master’s,Management,Engineering,4.8,180–250k,42,Hybrid,15,4,4,5,3,4,"Limited growth, Workload stress",Benefits,7,Yes,Maybe,"Childcare support, Salary review, Flexible hours"
+4,34,Female,Diploma,Mid,Sales,6.3,75–120k,42,On-site,30,4,4,5,4,3,"Commute, Benefits, Workload stress","Purposeful work, Manager support",16,Yes,Maybe,"Flexible hours, Salary review"
+4,45,Female,Bachelor’s,Management,Sales,4.6,>250k,51,Fully Remote,0,4,4,4,3,3,Low pay,Competitive pay,12,Yes,Maybe,Remote option
+3,43,Male,Bachelor’s,Senior,Sales,10.6,120–180k,46,Fully Remote,0,2,5,2,1,5,"Limited growth, Other, Lack of flexibility","Manager support, Other, Growth path",28,Yes,No,"Career roadmap, Other, Remote option"
+3,42,Male,Bachelor’s,Senior,Product,1.4,120–180k,72,On-site,30,4,4,4,2,4,Benefits,"Benefits, Purposeful work",10,Yes,No,Career roadmap
+2,40,Female,Master’s,Entry,Product,3.8,120–180k,40,Hybrid,19,3,3,4,2,2,"Culture misfit, Limited growth","Manager support, Other, Recognition",34,Yes,Maybe,Childcare support
+4,47,Male,Doctorate,Entry,Marketing,2.3,75–120k,49,On-site,37,4,2,4,4,5,"Lack of flexibility, Low pay",Competitive pay,28,Yes,Yes,"Salary review, Childcare support, Wellness programs"
+4,32,Male,Bachelor’s,Lead,Product,6.0,180–250k,42,On-site,9,5,4,4,4,2,"Low pay, Manager conflict",Recognition,15,Yes,Maybe,"Flexible hours, Childcare support, Remote option"
+3,31,Male,Bachelor’s,Entry,Sales,6.6,120–180k,47,On-site,17,3,3,4,3,4,"Benefits, Other, Workload stress",Manager support,11,No,Maybe,"Childcare support, Remote option"
+3,28,Male,Bachelor’s,Senior,HR,1.2,120–180k,50,On-site,24,4,4,2,4,2,"Culture misfit, Lack of flexibility",Team culture,49,Yes,Yes,"Flexible hours, Childcare support"
+4,28,Male,Bachelor’s,Senior,Other,0.8,120–180k,55,Fully Remote,0,5,4,3,3,1,"Benefits, Manager conflict","Growth path, Other, Team culture",17,Yes,Yes,"Other, Mentorship, Flexible hours"
+4,44,Male,Master’s,Lead,IT Support,3.3,120–180k,33,On-site,16,4,4,5,1,4,"Benefits, Lack of flexibility",Purposeful work,27,Yes,No,"Remote option, Salary review"
+4,36,Male,Bachelor’s,Entry,Engineering,4.2,<75k,39,On-site,23,5,1,4,2,5,"Culture misfit, Commute, Lack of flexibility","Purposeful work, Competitive pay, Team culture",23,Yes,Maybe,Remote option
+4,23,Female,Bachelor’s,Mid,Engineering,9.1,<75k,47,Hybrid,12,4,3,1,4,5,Manager conflict,"Team culture, Other",18,Yes,No,"Mentorship, Other, Flexible hours"
+4,39,Male,Bachelor’s,Senior,Sales,0.1,120–180k,45,On-site,24,2,4,4,4,4,"Culture misfit, Benefits","Competitive pay, Recognition",25,Yes,Yes,"Career roadmap, Wellness programs"
+3,31,Male,Other,Mid,Sales,0.9,75–120k,45,Hybrid,25,3,4,3,3,2,Low pay,Benefits,30,No,No,"Wellness programs, Other"
+3,44,Female,Bachelor’s,Entry,Other,0.5,180–250k,55,On-site,17,3,4,3,2,3,Manager conflict,Other,10,Yes,Yes,"Career roadmap, Mentorship, Salary review"
+4,35,Male,Master’s,Entry,Engineering,1.7,75–120k,54,Hybrid,29,4,5,3,4,4,"Benefits, Manager conflict, Culture misfit",Flexible work,23,Yes,Maybe,"Other, Mentorship"
+3,30,Male,Doctorate,Mid,Marketing,3.8,120–180k,54,On-site,30,5,3,3,2,4,Lack of flexibility,"Purposeful work, Manager support, Benefits",5,Yes,Yes,Wellness programs
+3,50,Male,Bachelor’s,Lead,Engineering,7.5,120–180k,30,Hybrid,28,2,4,3,2,2,"Low pay, Other, Lack of flexibility","Recognition, Team culture, Manager support",15,Yes,Maybe,"Wellness programs, Childcare support, Other"
+3,41,Male,Bachelor’s,Mid,Marketing,8.4,120–180k,44,On-site,30,4,3,1,5,3,"Commute, Other",Recognition,21,No,No,Other
+4,28,Male,Bachelor’s,Mid,Engineering,1.9,75–120k,40,On-site,35,4,5,3,2,4,Commute,Manager support,21,Yes,Maybe,"Childcare support, Other"
+3,37,Male,Master’s,Senior,Other,0.4,<75k,59,Hybrid,34,2,2,4,3,5,"Other, Lack of flexibility","Competitive pay, Other",34,Yes,Maybe,"Remote option, Salary review"
+2,28,Female,Bachelor’s,Mid,Engineering,8.3,75–120k,48,Fully Remote,0,1,4,3,1,3,Limited growth,Recognition,14,No,No,"Remote option, Childcare support, Career roadmap"
+4,32,Male,Master’s,Entry,Marketing,8.4,75–120k,54,On-site,5,3,4,3,3,5,"Workload stress, Commute, Limited growth","Benefits, Team culture, Growth path",13,Yes,Yes,"Childcare support, Other"
+4,40,Female,Master’s,Mid,Product,1.0,<75k,43,On-site,18,4,2,4,1,3,"Manager conflict, Limited growth, Other",Team culture,18,Yes,No,"Childcare support, Career roadmap"
+4,31,Male,Master’s,Lead,Finance,7.1,>250k,52,Fully Remote,0,3,5,3,5,3,"Limited growth, Low pay, Lack of flexibility","Purposeful work, Manager support, Other",10,Yes,No,"Mentorship, Flexible hours, Remote option"
+4,32,Male,Bachelor’s,Mid,HR,4.4,180–250k,34,On-site,22,3,3,4,5,4,"Manager conflict, Commute, Lack of flexibility","Recognition, Purposeful work, Growth path",12,Yes,Maybe,"Career roadmap, Flexible hours"
+4,29,Male,Master’s,Mid,Product,7.2,75–120k,41,On-site,36,3,4,5,4,4,"Limited growth, Low pay","Flexible work, Benefits",22,Yes,Maybe,Childcare support
+3,36,Female,Bachelor’s,Entry,Finance,1.7,75–120k,43,Fully Remote,0,5,5,1,3,5,Other,Competitive pay,32,Yes,Maybe,"Salary review, Other"
+4,40,Male,Bachelor’s,Management,Sales,3.0,180–250k,49,Hybrid,37,4,3,5,5,2,"Workload stress, Low pay","Flexible work, Team culture, Growth path",21,No,Maybe,"Remote option, Salary review"
+3,28,Female,Bachelor’s,Senior,Sales,3.9,75–120k,38,On-site,24,5,2,3,4,4,Workload stress,"Team culture, Benefits",24,Yes,No,"Career roadmap, Other"
+5,27,Female,Master’s,Senior,Engineering,1.4,120–180k,43,Hybrid,14,3,4,5,3,5,Other,"Manager support, Competitive pay, Growth path",15,Yes,No,Other
+4,22,Male,Bachelor’s,Mid,Marketing,1.6,120–180k,38,Hybrid,48,4,5,4,5,5,"Low pay, Culture misfit","Other, Manager support",3,Yes,Maybe,"Remote option, Salary review, Other"
+5,34,Male,Bachelor’s,Management,IT Support,2.6,180–250k,30,Hybrid,17,4,4,5,5,2,"Commute, Manager conflict, Other",Other,14,Yes,Yes,Mentorship
+2,33,Male,Bachelor’s,Senior,HR,2.0,<75k,46,On-site,37,3,1,3,2,4,"Limited growth, Benefits, Workload stress","Growth path, Benefits, Other",21,Yes,Maybe,"Other, Mentorship, Wellness programs"
+4,27,Female,Bachelor’s,Mid,Sales,8.3,75–120k,72,On-site,17,3,3,4,4,4,"Lack of flexibility, Workload stress",Competitive pay,28,Yes,Maybe,Flexible hours
+3,40,Male,Bachelor’s,Senior,Sales,4.9,180–250k,46,On-site,22,3,2,4,4,2,Benefits,Competitive pay,34,Yes,No,"Career roadmap, Wellness programs"
+3,32,Non-binary,Master’s,Mid,Engineering,6.8,75–120k,59,Hybrid,49,4,1,5,3,5,"Commute, Workload stress","Growth path, Benefits",18,Yes,Yes,"Other, Remote option"
+5,40,Male,Doctorate,Mid,Marketing,5.2,75–120k,50,Fully Remote,0,5,5,2,5,3,"Workload stress, Benefits","Purposeful work, Growth path, Competitive pay",17,No,No,"Mentorship, Wellness programs, Childcare support"
+4,23,Male,Bachelor’s,Entry,IT Support,2.6,75–120k,47,On-site,37,4,4,4,2,4,Commute,"Purposeful work, Growth path",15,Yes,Yes,Remote option
+3,25,Female,Bachelor’s,Mid,Marketing,4.9,75–120k,49,Hybrid,25,3,4,5,5,2,"Low pay, Limited growth, Other","Growth path, Purposeful work, Recognition",10,Yes,Yes,"Career roadmap, Remote option, Childcare support"
+4,26,Female,Doctorate,Management,Marketing,4.0,180–250k,85,Hybrid,20,3,2,5,3,4,Benefits,Growth path,27,No,No,"Other, Childcare support"
+4,21,Female,Bachelor’s,Lead,Engineering,5.2,>250k,46,Hybrid,37,3,4,3,4,4,Manager conflict,Growth path,18,Yes,Yes,"Flexible hours, Mentorship, Career roadmap"
+3,42,Male,Bachelor’s,Entry,Engineering,2.2,<75k,86,On-site,35,4,1,3,4,5,"Culture misfit, Commute","Benefits, Purposeful work, Manager support",23,Yes,Yes,Mentorship
+4,47,Male,Bachelor’s,Entry,Finance,6.7,120–180k,37,On-site,31,5,4,4,3,2,Culture misfit,"Flexible work, Recognition, Manager support",21,No,Maybe,"Mentorship, Salary review, Remote option"
+4,27,Female,Bachelor’s,Senior,Engineering,5.2,>250k,51,On-site,16,4,5,4,3,3,Culture misfit,"Manager support, Competitive pay",7,Yes,Maybe,Career roadmap
+4,41,Female,Bachelor’s,Mid,Engineering,2.6,75–120k,39,On-site,131,4,3,4,4,4,"Benefits, Other, Culture misfit","Other, Team culture",16,Yes,Maybe,"Other, Flexible hours, Wellness programs"
+3,43,Female,Bachelor’s,Senior,Engineering,14.4,120–180k,44,On-site,30,4,3,4,4,4,"Benefits, Culture misfit",Manager support,17,Yes,Maybe,"Childcare support, Salary review"
+4,49,Male,Bachelor’s,Mid,Engineering,2.9,120–180k,40,Fully Remote,0,4,5,4,4,2,"Manager conflict, Other","Benefits, Manager support, Growth path",25,No,Yes,"Childcare support, Other"
+4,29,Male,Master’s,Entry,Engineering,1.4,75–120k,31,On-site,42,2,5,5,2,3,Manager conflict,"Growth path, Manager support",15,Yes,Maybe,"Other, Salary review, Mentorship"
+3,45,Female,Master’s,Entry,Finance,6.0,75–120k,58,On-site,27,2,5,2,4,4,Lack of flexibility,"Benefits, Flexible work",0,No,Yes,"Salary review, Childcare support, Other"
+3,35,Male,Bachelor’s,Mid,Sales,3.9,120–180k,48,On-site,28,5,3,2,5,4,"Commute, Lack of flexibility","Competitive pay, Team culture",31,No,No,"Flexible hours, Wellness programs, Salary review"
+3,34,Female,Master’s,Mid,Sales,1.9,120–180k,48,Fully Remote,0,3,2,4,2,5,Limited growth,"Growth path, Competitive pay, Team culture",0,Yes,Yes,Wellness programs
+3,44,Male,Doctorate,Mid,Product,12.3,<75k,43,On-site,37,3,4,4,4,2,"Limited growth, Workload stress, Lack of flexibility","Benefits, Flexible work",28,Yes,Yes,"Salary review, Flexible hours"
+4,30,Female,Bachelor’s,Entry,Engineering,7.8,<75k,65,Hybrid,35,4,3,3,4,3,"Lack of flexibility, Benefits","Recognition, Flexible work",15,Yes,Yes,Remote option
+2,24,Female,Master’s,Entry,Engineering,5.7,75–120k,52,Hybrid,18,3,1,4,3,5,"Lack of flexibility, Low pay, Manager conflict",Competitive pay,37,Yes,No,Flexible hours
+3,31,Male,Master’s,Mid,Engineering,7.4,<75k,57,On-site,43,3,2,4,2,5,"Low pay, Workload stress","Competitive pay, Team culture, Recognition",25,Yes,Yes,"Career roadmap, Wellness programs, Childcare support"
+3,31,Female,Bachelor’s,Lead,Engineering,7.9,180–250k,51,On-site,26,2,4,4,2,3,"Workload stress, Benefits, Manager conflict","Recognition, Manager support, Benefits",31,No,Maybe,"Childcare support, Other, Flexible hours"
+4,34,Male,Bachelor’s,Senior,Sales,4.1,120–180k,37,On-site,21,1,5,4,4,4,"Workload stress, Commute, Limited growth",Other,19,Yes,No,"Remote option, Salary review, Childcare support"
+4,38,Female,Bachelor’s,Mid,Sales,3.1,75–120k,42,Fully Remote,0,4,5,4,3,4,"Benefits, Limited growth","Competitive pay, Benefits, Flexible work",18,Yes,Maybe,Flexible hours
+2,35,Male,Other,Senior,Engineering,3.6,120–180k,81,On-site,45,1,2,1,3,4,"Other, Manager conflict, Workload stress","Team culture, Flexible work",18,Yes,No,Flexible hours
+3,38,Male,Doctorate,Senior,Sales,5.3,120–180k,46,Hybrid,28,3,2,1,2,4,Workload stress,"Purposeful work, Other, Competitive pay",15,Yes,No,Other
+2,35,Male,Master’s,Senior,Engineering,4.6,75–120k,47,On-site,31,4,3,5,3,1,"Other, Benefits, Culture misfit","Manager support, Purposeful work",0,Yes,Yes,"Childcare support, Other"
+3,40,Male,Bachelor’s,Senior,Other,1.3,180–250k,32,On-site,31,4,4,5,4,1,"Other, Limited growth, Lack of flexibility",Manager support,28,No,Yes,"Wellness programs, Salary review, Career roadmap"
+5,31,Female,Master’s,Senior,Other,5.9,120–180k,41,Hybrid,31,4,3,4,4,3,"Workload stress, Limited growth, Other","Benefits, Team culture",17,Yes,Yes,Remote option
+3,20,Female,Doctorate,Mid,HR,11.0,75–120k,41,Hybrid,25,3,5,4,3,3,"Manager conflict, Workload stress","Manager support, Competitive pay, Other",31,Yes,Maybe,Childcare support
+3,35,Male,Master’s,Senior,Other,6.1,180–250k,39,On-site,40,5,1,4,3,3,"Culture misfit, Workload stress",Other,16,No,No,"Other, Flexible hours, Wellness programs"
+5,32,Male,Master’s,Senior,Engineering,7.3,120–180k,41,Hybrid,19,5,4,5,4,5,Benefits,"Other, Competitive pay",19,No,Maybe,"Career roadmap, Wellness programs, Salary review"
+4,34,Female,Diploma,Senior,IT Support,4.9,>250k,55,On-site,15,4,4,2,3,4,"Commute, Limited growth, Lack of flexibility","Growth path, Recognition, Team culture",29,No,Yes,"Mentorship, Childcare support, Other"
+3,29,Male,Bachelor’s,Lead,Engineering,10.4,>250k,32,Fully Remote,0,4,3,1,3,2,"Workload stress, Low pay, Other",Recognition,29,No,Yes,"Other, Salary review, Career roadmap"
+4,30,Male,Master’s,Mid,Product,6.1,75–120k,46,On-site,31,3,4,5,3,3,Lack of flexibility,"Flexible work, Purposeful work",24,Yes,Yes,"Career roadmap, Salary review"
+4,24,Male,Bachelor’s,Lead,Sales,5.3,120–180k,44,On-site,31,2,4,4,3,3,"Limited growth, Workload stress","Purposeful work, Flexible work",21,No,Maybe,Salary review
+4,36,Male,Bachelor’s,Lead,Engineering,3.3,120–180k,36,Hybrid,54,5,4,3,5,3,"Commute, Benefits",Competitive pay,10,No,Yes,"Mentorship, Other, Career roadmap"
+3,25,Female,Master’s,Senior,Engineering,1.4,>250k,39,Hybrid,6,4,3,4,4,1,"Other, Benefits",Manager support,19,Yes,Yes,Career roadmap
+5,25,Male,Bachelor’s,Mid,Engineering,6.0,<75k,42,On-site,32,4,4,5,5,4,"Workload stress, Commute, Culture misfit","Manager support, Growth path",10,Yes,Maybe,Wellness programs
+3,35,Male,Bachelor’s,Entry,IT Support,5.7,<75k,38,Hybrid,36,3,2,5,3,3,"Culture misfit, Low pay, Other","Team culture, Flexible work",223,Yes,No,"Childcare support, Remote option"
+4,37,Female,Bachelor’s,Entry,IT Support,3.3,<75k,50,Hybrid,11,2,2,5,4,4,Other,"Growth path, Team culture, Competitive pay",16,Yes,No,Career roadmap
+3,23,Female,Bachelor’s,Management,Engineering,2.0,>250k,50,On-site,22,5,4,4,4,3,"Lack of flexibility, Commute, Benefits","Manager support, Team culture, Growth path",16,Yes,No,Other
+3,46,Male,Bachelor’s,Entry,Finance,7.1,<75k,54,Hybrid,49,3,4,4,3,4,Culture misfit,Competitive pay,18,Yes,No,"Other, Childcare support, Mentorship"
+4,43,Male,Bachelor’s,Mid,Sales,2.9,<75k,39,On-site,28,3,3,5,3,4,Culture misfit,"Growth path, Benefits, Purposeful work",38,Yes,Yes,"Remote option, Childcare support"
+4,34,Female,Bachelor’s,Entry,Marketing,6.2,<75k,85,Fully Remote,0,4,4,4,4,5,"Manager conflict, Culture misfit",Recognition,8,No,No,"Wellness programs, Flexible hours, Salary review"
+4,41,Male,Bachelor’s,Mid,Sales,2.9,<75k,44,Hybrid,29,5,2,3,3,5,"Lack of flexibility, Low pay","Manager support, Recognition",263,Yes,No,"Other, Flexible hours"
+4,33,Female,Bachelor’s,Senior,Engineering,5.0,180–250k,38,On-site,51,2,4,4,3,5,"Workload stress, Limited growth, Commute",Growth path,14,No,Maybe,Career roadmap
+4,20,Male,Bachelor’s,Mid,Engineering,9.9,180–250k,40,On-site,46,4,4,2,3,3,"Commute, Culture misfit, Low pay","Competitive pay, Benefits",15,No,No,"Flexible hours, Wellness programs"
+3,31,Female,Bachelor’s,Mid,Finance,1.0,75–120k,35,Fully Remote,0,3,4,4,3,2,Manager conflict,Team culture,27,Yes,Maybe,"Salary review, Mentorship"
+4,34,Female,Bachelor’s,Senior,Sales,1.9,>250k,42,Fully Remote,0,5,4,4,4,5,Manager conflict,"Purposeful work, Growth path, Manager support",10,Yes,Yes,Flexible hours
+4,45,Male,Bachelor’s,Mid,IT Support,5.8,120–180k,45,Fully Remote,0,4,4,4,5,5,"Lack of flexibility, Commute, Limited growth",Manager support,4,Yes,No,Wellness programs
+4,44,Male,Diploma,Mid,Engineering,2.9,75–120k,38,On-site,28,4,2,4,5,4,"Limited growth, Culture misfit","Growth path, Other, Competitive pay",19,Yes,Yes,"Flexible hours, Childcare support, Other"
+3,36,Female,Master’s,Mid,Engineering,5.7,120–180k,52,On-site,29,3,5,4,4,2,"Limited growth, Other","Competitive pay, Other, Flexible work",26,Yes,Maybe,"Childcare support, Flexible hours, Career roadmap"
+2,30,Female,Bachelor’s,Entry,Engineering,8.6,120–180k,39,Fully Remote,0,1,4,3,1,5,"Benefits, Limited growth","Competitive pay, Manager support",13,Yes,Yes,Flexible hours
+5,37,Male,Diploma,Entry,Engineering,3.4,<75k,57,Fully Remote,0,5,3,5,3,3,Workload stress,"Other, Team culture, Flexible work",35,No,Maybe,"Remote option, Flexible hours"
+2,35,Female,Bachelor’s,Senior,Engineering,3.6,120–180k,43,Fully Remote,0,3,4,2,2,5,"Benefits, Lack of flexibility, Workload stress","Other, Flexible work, Growth path",19,Yes,Maybe,"Wellness programs, Salary review"
+3,26,Female,Other,Senior,Finance,2.1,180–250k,54,Hybrid,25,5,1,3,3,4,"Low pay, Benefits, Workload stress",Recognition,14,Yes,Maybe,Wellness programs
+4,30,Male,Bachelor’s,Mid,IT Support,1.9,75–120k,44,Hybrid,36,4,5,3,3,4,"Lack of flexibility, Other, Commute","Purposeful work, Benefits",3,Yes,No,Other
+4,25,Male,Bachelor’s,Entry,Marketing,16.2,75–120k,31,On-site,24,2,4,3,3,2,"Manager conflict, Other, Culture misfit","Benefits, Purposeful work, Growth path",6,No,No,Wellness programs
+3,66,Male,Bachelor’s,Entry,HR,1.5,<75k,50,On-site,40,4,4,3,3,3,Lack of flexibility,Competitive pay,34,Yes,Yes,Career roadmap
+3,25,Female,Master’s,Mid,Product,9.6,180–250k,45,Hybrid,21,4,3,3,4,3,Workload stress,"Growth path, Competitive pay",23,Yes,Yes,"Flexible hours, Remote option, Other"
+4,28,Prefer not to say,Bachelor’s,Entry,Sales,5.1,<75k,51,Hybrid,40,5,5,4,3,4,"Benefits, Limited growth, Low pay",Flexible work,32,Yes,No,"Wellness programs, Remote option"
+2,23,Female,Bachelor’s,Mid,Engineering,1.1,75–120k,41,Fully Remote,0,5,2,4,2,1,Manager conflict,"Team culture, Flexible work, Manager support",15,Yes,Maybe,"Remote option, Childcare support"
+3,22,Female,Bachelor’s,Lead,Marketing,4.9,180–250k,40,On-site,40,5,2,1,4,5,"Limited growth, Workload stress","Purposeful work, Benefits, Recognition",20,Yes,Maybe,"Wellness programs, Career roadmap, Other"
+3,35,Female,Diploma,Entry,Engineering,1.6,75–120k,40,Fully Remote,0,3,5,5,4,4,"Benefits, Low pay, Limited growth",Recognition,29,Yes,Yes,Career roadmap
+4,37,Female,Master’s,Lead,Engineering,2.6,75–120k,47,Hybrid,10,4,5,5,5,3,"Other, Limited growth",Growth path,9,Yes,Maybe,Salary review
+2,43,Male,Bachelor’s,Entry,HR,2.8,<75k,41,On-site,25,2,4,3,3,2,"Lack of flexibility, Culture misfit","Team culture, Purposeful work",21,Yes,No,"Flexible hours, Remote option"
+5,36,Male,Other,Senior,Product,7.7,120–180k,51,On-site,14,5,5,5,5,5,Commute,Growth path,24,Yes,Yes,"Mentorship, Remote option, Flexible hours"
+3,36,Male,Diploma,Management,Engineering,3.6,>250k,41,Hybrid,15,4,3,2,4,2,"Manager conflict, Workload stress","Other, Team culture, Competitive pay",15,Yes,Yes,"Childcare support, Mentorship"
+4,30,Female,Master’s,Mid,Engineering,5.0,<75k,87,Fully Remote,0,4,5,4,5,5,Benefits,Recognition,25,Yes,No,Other
+4,29,Male,Bachelor’s,Lead,Engineering,6.9,120–180k,38,On-site,17,5,3,5,4,3,Benefits,"Purposeful work, Recognition, Manager support",23,Yes,Yes,"Remote option, Career roadmap"
+4,32,Male,Bachelor’s,Mid,Engineering,5.5,<75k,40,On-site,25,5,3,4,2,3,"Lack of flexibility, Other, Limited growth","Purposeful work, Other",27,Yes,No,"Wellness programs, Career roadmap"
+3,34,Male,Master’s,Mid,Other,3.4,120–180k,47,On-site,22,5,2,2,3,4,"Benefits, Other",Purposeful work,21,Yes,No,"Flexible hours, Remote option"
+4,37,Male,Master’s,Mid,Product,3.7,120–180k,30,Hybrid,31,3,5,4,3,4,Other,Competitive pay,30,Yes,Maybe,Remote option
+4,43,Female,Diploma,Mid,Other,2.5,75–120k,48,Hybrid,39,4,5,3,2,4,"Other, Limited growth","Competitive pay, Benefits",28,Yes,No,"Childcare support, Flexible hours"
+4,44,Female,Doctorate,Mid,Engineering,2.6,<75k,30,Fully Remote,0,3,5,2,4,1,"Limited growth, Benefits, Culture misfit",Flexible work,24,Yes,Maybe,"Other, Flexible hours, Career roadmap"
+4,32,Female,Bachelor’s,Senior,Sales,2.6,75–120k,35,On-site,35,5,4,4,3,3,"Commute, Manager conflict",Flexible work,28,No,No,"Mentorship, Career roadmap, Remote option"
+4,29,Male,Bachelor’s,Senior,Engineering,0.5,>250k,44,Fully Remote,0,4,4,3,4,4,"Low pay, Limited growth, Workload stress","Manager support, Benefits, Other",11,No,No,"Remote option, Mentorship"
+4,32,Male,Other,Senior,Sales,0.8,75–120k,50,On-site,44,4,2,5,4,5,"Workload stress, Limited growth, Manager conflict","Competitive pay, Recognition, Purposeful work",12,No,Maybe,"Career roadmap, Wellness programs, Salary review"
+1,23,Female,Diploma,Entry,Engineering,2.5,<75k,32,Hybrid,10,1,2,3,2,3,"Limited growth, Lack of flexibility, Low pay",Other,27,Yes,Maybe,"Remote option, Other"
+3,36,Male,Bachelor’s,Lead,HR,0.3,>250k,51,On-site,28,4,4,2,3,5,"Culture misfit, Benefits, Workload stress","Purposeful work, Recognition, Manager support",20,Yes,Maybe,"Remote option, Other, Wellness programs"
+4,32,Female,Master’s,Senior,Sales,13.5,>250k,33,Hybrid,24,5,2,3,4,3,Culture misfit,Manager support,1,No,No,Salary review
+4,29,Male,Diploma,Lead,Sales,1.1,180–250k,39,Fully Remote,0,5,4,3,4,4,"Benefits, Workload stress, Low pay","Competitive pay, Team culture, Growth path",17,Yes,Yes,"Salary review, Wellness programs, Career roadmap"
+4,45,Male,Bachelor’s,Entry,Sales,3.4,75–120k,43,Fully Remote,0,4,5,3,5,2,"Limited growth, Benefits, Lack of flexibility","Manager support, Competitive pay",5,Yes,Yes,"Mentorship, Flexible hours"
+3,39,Female,Bachelor’s,Senior,Sales,5.8,180–250k,30,Fully Remote,0,3,4,2,4,3,"Low pay, Other","Recognition, Growth path",18,No,Maybe,"Remote option, Wellness programs, Flexible hours"
+3,25,Male,Master’s,Senior,Marketing,8.7,120–180k,31,Hybrid,22,4,3,2,1,3,"Manager conflict, Other, Commute","Purposeful work, Growth path",21,Yes,Maybe,"Remote option, Salary review"
+3,37,Male,Bachelor’s,Entry,Product,2.8,<75k,54,Fully Remote,0,3,4,5,2,4,"Manager conflict, Limited growth","Team culture, Benefits, Competitive pay",5,Yes,Maybe,"Other, Salary review"
+3,44,Male,Master’s,Mid,Product,3.5,<75k,48,Hybrid,37,4,2,5,2,4,"Limited growth, Lack of flexibility","Purposeful work, Flexible work, Manager support",13,No,No,"Wellness programs, Childcare support, Other"
+4,31,Male,Bachelor’s,Senior,Engineering,1.0,180–250k,54,On-site,25,4,2,2,4,5,"Other, Manager conflict","Competitive pay, Recognition, Other",23,No,Yes,"Mentorship, Wellness programs"
+3,20,Male,Master’s,Senior,Engineering,10.5,120–180k,43,On-site,17,5,3,3,5,2,"Commute, Manager conflict",Purposeful work,23,Yes,Maybe,"Other, Wellness programs, Remote option"
+4,27,Female,Master’s,Entry,HR,7.3,<75k,45,Hybrid,5,3,4,4,5,3,"Commute, Low pay",Benefits,12,Yes,Maybe,Mentorship
+4,37,Female,Master’s,Mid,Marketing,4.1,120–180k,35,Hybrid,11,5,2,1,3,5,"Lack of flexibility, Workload stress, Manager conflict","Competitive pay, Growth path, Purposeful work",13,No,No,Remote option
+3,36,Male,Other,Entry,Engineering,4.2,<75k,37,Fully Remote,0,3,2,4,4,5,"Manager conflict, Other, Commute",Purposeful work,43,Yes,Yes,"Mentorship, Flexible hours, Other"
+3,21,Non-binary,Bachelor’s,Mid,Engineering,5.0,120–180k,51,On-site,32,2,1,4,5,4,"Manager conflict, Commute, Benefits","Growth path, Benefits",27,Yes,No,"Childcare support, Career roadmap"
+3,27,Male,Bachelor’s,Mid,Engineering,2.4,120–180k,36,On-site,20,2,4,4,4,4,"Low pay, Benefits","Growth path, Team culture",10,Yes,Maybe,"Remote option, Other, Mentorship"
+3,24,Male,Bachelor’s,Entry,Finance,2.1,<75k,45,On-site,28,3,2,3,4,5,Lack of flexibility,Manager support,13,No,Yes,Salary review
+4,38,Female,Master’s,Senior,Engineering,14.1,180–250k,45,Hybrid,29,5,3,5,3,5,"Benefits, Lack of flexibility","Manager support, Team culture",20,Yes,No,"Salary review, Other"
+2,24,Prefer not to say,Bachelor’s,Senior,Engineering,1.2,120–180k,58,On-site,23,4,1,3,2,4,"Lack of flexibility, Culture misfit","Benefits, Competitive pay, Other",14,Yes,Maybe,Mentorship
+4,40,Male,Diploma,Mid,IT Support,1.9,120–180k,38,Hybrid,41,4,2,3,4,4,Workload stress,"Manager support, Flexible work",23,Yes,Maybe,"Remote option, Salary review, Childcare support"
+3,45,Female,Bachelor’s,Senior,Engineering,6.0,180–250k,47,Hybrid,31,2,5,5,2,2,"Limited growth, Manager conflict, Culture misfit",Purposeful work,13,Yes,Maybe,"Childcare support, Career roadmap, Remote option"
+4,33,Male,Bachelor’s,Entry,Finance,4.2,<75k,47,On-site,37,5,4,5,4,3,Lack of flexibility,Team culture,12,No,Maybe,"Career roadmap, Salary review"
+4,48,Male,Bachelor’s,Mid,Sales,2.1,120–180k,73,On-site,36,3,2,5,4,2,"Other, Benefits","Team culture, Purposeful work, Growth path",33,Yes,No,Mentorship
+3,25,Male,Doctorate,Mid,HR,1.8,<75k,45,Hybrid,21,3,4,5,3,4,Workload stress,Competitive pay,36,No,No,Career roadmap
+4,24,Male,Master’s,Lead,Product,2.8,120–180k,30,On-site,25,4,1,4,4,3,Workload stress,Team culture,36,Yes,Maybe,Wellness programs
+4,20,Female,Master’s,Mid,Engineering,1.9,<75k,40,On-site,31,4,3,4,4,3,Low pay,"Competitive pay, Other",29,Yes,Maybe,Childcare support
+3,34,Female,Bachelor’s,Entry,Marketing,0.8,<75k,45,Fully Remote,0,4,4,2,5,5,"Culture misfit, Lack of flexibility","Purposeful work, Benefits, Flexible work",37,Yes,Yes,"Mentorship, Remote option"
+3,33,Female,Master’s,Entry,IT Support,5.4,<75k,40,On-site,35,4,2,2,2,4,"Limited growth, Low pay","Purposeful work, Flexible work",10,Yes,Maybe,"Career roadmap, Wellness programs, Flexible hours"
+4,28,Male,Doctorate,Lead,Marketing,4.5,120–180k,54,On-site,16,3,4,3,4,5,"Manager conflict, Low pay","Benefits, Competitive pay, Other",24,Yes,Maybe,"Wellness programs, Other, Mentorship"
+3,48,Male,Bachelor’s,Lead,Engineering,4.4,120–180k,42,On-site,27,2,4,5,3,5,"Benefits, Culture misfit","Growth path, Purposeful work, Flexible work",17,No,Yes,"Salary review, Flexible hours, Mentorship"
+4,30,Female,Bachelor’s,Senior,HR,6.5,120–180k,51,On-site,48,3,4,3,2,5,"Workload stress, Culture misfit",Manager support,18,Yes,Maybe,Remote option
+4,36,Female,Diploma,Management,Sales,0.6,180–250k,48,Fully Remote,0,3,5,5,4,4,"Low pay, Workload stress","Purposeful work, Team culture",14,Yes,Maybe,"Flexible hours, Wellness programs"
+2,34,Female,Diploma,Senior,Finance,1.8,120–180k,36,On-site,10,2,1,2,4,5,"Lack of flexibility, Manager conflict, Commute","Growth path, Benefits, Recognition",27,No,Maybe,"Childcare support, Wellness programs, Other"
+3,34,Male,Bachelor’s,Senior,IT Support,5.8,120–180k,39,On-site,17,3,3,3,4,5,"Limited growth, Commute",Growth path,15,No,Maybe,Flexible hours
+5,27,Female,Bachelor’s,Mid,Engineering,2.6,<75k,32,On-site,31,5,4,3,3,5,"Low pay, Commute, Other","Other, Recognition, Purposeful work",14,Yes,Yes,"Remote option, Career roadmap"
+4,36,Male,Bachelor’s,Mid,HR,3.4,<75k,59,Hybrid,145,5,2,2,5,3,"Lack of flexibility, Workload stress","Recognition, Manager support",35,Yes,Maybe,"Remote option, Wellness programs"
+3,39,Female,Bachelor’s,Mid,Engineering,1.8,75–120k,46,Hybrid,28,4,4,2,5,3,"Other, Limited growth","Manager support, Recognition",19,No,No,"Salary review, Childcare support"
+3,31,Male,Master’s,Lead,Sales,5.7,>250k,47,Hybrid,32,5,5,2,5,4,Low pay,Manager support,35,Yes,Yes,"Remote option, Salary review, Career roadmap"
+3,42,Male,Bachelor’s,Lead,Product,3.7,180–250k,63,Fully Remote,0,4,4,4,3,4,"Benefits, Other",Other,23,Yes,Maybe,Childcare support
+3,34,Male,Bachelor’s,Mid,Marketing,1.6,75–120k,36,Fully Remote,0,2,3,5,4,3,Commute,"Flexible work, Other",36,Yes,No,Mentorship
+4,31,Prefer not to say,Diploma,Entry,Finance,6.5,<75k,41,Hybrid,137,4,3,4,5,5,"Limited growth, Workload stress, Manager conflict","Flexible work, Competitive pay",16,No,Yes,Salary review
+3,38,Male,Bachelor’s,Entry,IT Support,1.8,120–180k,41,Fully Remote,0,4,2,2,3,5,"Workload stress, Benefits",Competitive pay,19,Yes,Maybe,"Remote option, Wellness programs"
+4,41,Male,Other,Entry,IT Support,4.5,75–120k,34,On-site,31,5,4,3,5,4,Culture misfit,"Purposeful work, Team culture, Benefits",23,Yes,No,Flexible hours
+4,36,Male,Diploma,Entry,Engineering,2.2,<75k,38,On-site,35,3,4,5,3,4,Culture misfit,"Growth path, Flexible work",39,No,No,"Childcare support, Remote option, Career roadmap"
+4,43,Female,Bachelor’s,Mid,Other,6.6,>250k,45,Hybrid,31,3,1,5,3,4,"Workload stress, Benefits, Culture misfit","Competitive pay, Purposeful work, Team culture",14,No,Yes,"Other, Salary review, Career roadmap"
+4,20,Female,Bachelor’s,Lead,Marketing,7.8,180–250k,42,Fully Remote,0,4,5,4,5,5,"Limited growth, Manager conflict, Lack of flexibility",Flexible work,12,Yes,Maybe,Other
+3,25,Male,Bachelor’s,Management,Marketing,6.4,120–180k,36,On-site,24,5,5,2,2,3,Limited growth,"Team culture, Competitive pay, Manager support",5,Yes,Yes,"Remote option, Mentorship"
+4,38,Female,Bachelor’s,Mid,IT Support,2.0,<75k,46,On-site,11,3,4,4,3,4,"Commute, Culture misfit, Limited growth","Manager support, Benefits, Team culture",16,No,Yes,"Mentorship, Wellness programs, Salary review"
+3,26,Male,Bachelor’s,Mid,HR,4.1,120–180k,48,On-site,15,4,5,5,1,5,Workload stress,"Other, Recognition, Team culture",12,Yes,Yes,"Childcare support, Salary review, Career roadmap"
+3,36,Female,Bachelor’s,Senior,HR,2.2,<75k,43,Fully Remote,0,2,4,4,4,2,"Culture misfit, Limited growth","Purposeful work, Flexible work",18,Yes,Yes,"Career roadmap, Wellness programs, Childcare support"
+2,29,Male,Bachelor’s,Senior,Sales,1.1,180–250k,41,On-site,47,4,2,1,2,2,"Workload stress, Benefits, Culture misfit",Benefits,31,Yes,Yes,Mentorship
+3,28,Male,Bachelor’s,Senior,Other,3.1,120–180k,68,Fully Remote,0,4,4,4,5,2,"Benefits, Limited growth, Workload stress","Growth path, Benefits, Flexible work",24,Yes,No,Career roadmap
+4,67,Male,Doctorate,Entry,Sales,8.1,<75k,34,On-site,28,3,3,4,2,3,Workload stress,"Team culture, Manager support, Competitive pay",29,No,Yes,"Career roadmap, Other"
+3,31,Male,Master’s,Lead,Engineering,7.9,120–180k,52,On-site,23,4,3,3,3,3,Lack of flexibility,"Other, Purposeful work, Recognition",46,Yes,Yes,"Remote option, Wellness programs, Flexible hours"
+3,28,Male,Bachelor’s,Senior,Engineering,8.8,>250k,52,On-site,27,3,2,4,4,3,"Lack of flexibility, Manager conflict, Other","Purposeful work, Manager support, Growth path",21,Yes,Maybe,"Career roadmap, Remote option"
+2,47,Female,Master’s,Entry,Marketing,4.8,75–120k,32,On-site,18,4,2,4,1,3,Commute,"Growth path, Team culture, Recognition",12,No,Yes,"Flexible hours, Salary review, Wellness programs"
+3,31,Male,Bachelor’s,Mid,Finance,10.6,180–250k,55,Fully Remote,0,4,3,4,2,4,Commute,"Manager support, Competitive pay, Recognition",10,No,Yes,Other
+4,42,Male,Master’s,Mid,Sales,3.5,120–180k,44,On-site,22,3,5,2,3,4,Benefits,Recognition,17,No,Maybe,"Childcare support, Wellness programs, Career roadmap"
+4,30,Male,Bachelor’s,Senior,Engineering,6.7,180–250k,30,Hybrid,52,2,3,4,5,3,"Low pay, Culture misfit, Limited growth","Other, Recognition, Growth path",23,No,Yes,"Wellness programs, Salary review, Mentorship"
+3,25,Male,Bachelor’s,Mid,Engineering,1.6,<75k,47,On-site,34,5,3,1,4,4,"Manager conflict, Limited growth, Workload stress","Manager support, Team culture",29,Yes,No,"Childcare support, Flexible hours, Remote option"
+4,44,Male,Bachelor’s,Senior,Product,6.0,120–180k,35,Hybrid,34,2,2,3,3,5,"Culture misfit, Low pay","Competitive pay, Manager support",9,Yes,Yes,Wellness programs
+5,24,Male,Bachelor’s,Mid,Marketing,9.9,<75k,38,Fully Remote,0,5,4,5,3,5,Benefits,"Recognition, Growth path",19,No,Maybe,"Flexible hours, Mentorship"
+4,65,Male,Master’s,Mid,Engineering,4.2,180–250k,30,On-site,36,3,3,4,5,4,"Workload stress, Commute",Manager support,23,Yes,Yes,Wellness programs
+4,41,Male,Master’s,Entry,Finance,19.2,75–120k,46,On-site,24,4,4,4,4,5,Manager conflict,"Competitive pay, Flexible work",8,No,Yes,Remote option
+4,32,Male,Bachelor’s,Mid,Sales,2.0,120–180k,59,On-site,20,4,5,4,4,3,Benefits,"Other, Manager support",22,No,Maybe,"Childcare support, Career roadmap"
+3,35,Male,Bachelor’s,Senior,Product,9.9,180–250k,37,On-site,31,4,3,4,4,5,Low pay,Flexible work,27,Yes,Maybe,"Mentorship, Salary review, Wellness programs"
+3,53,Female,Bachelor’s,Mid,Product,2.3,75–120k,42,Fully Remote,0,5,3,4,2,5,Benefits,"Team culture, Other",3,No,Yes,Remote option
+4,20,Male,Master’s,Senior,Engineering,2.9,180–250k,50,Hybrid,17,4,5,2,3,4,"Manager conflict, Benefits",Manager support,14,No,No,"Remote option, Flexible hours, Career roadmap"
+5,24,Female,Diploma,Mid,Engineering,2.6,120–180k,30,On-site,44,3,4,5,5,2,"Manager conflict, Workload stress","Competitive pay, Recognition",45,Yes,No,"Career roadmap, Wellness programs"
+4,32,Non-binary,Master’s,Entry,Engineering,0.3,75–120k,41,Fully Remote,0,5,4,3,4,3,"Low pay, Benefits","Competitive pay, Team culture, Other",5,Yes,Yes,"Childcare support, Flexible hours"
+3,22,Male,Diploma,Entry,Product,1.3,<75k,50,Fully Remote,0,3,2,4,4,2,Lack of flexibility,Team culture,16,No,Yes,Childcare support
+4,20,Female,Bachelor’s,Mid,Product,3.2,<75k,43,On-site,28,4,4,5,4,3,Low pay,"Other, Flexible work, Manager support",35,No,Maybe,"Wellness programs, Flexible hours, Other"
+3,51,Male,Bachelor’s,Senior,HR,2.7,120–180k,40,On-site,52,1,4,4,5,3,"Limited growth, Low pay, Commute","Recognition, Other, Benefits",7,Yes,Yes,"Wellness programs, Remote option, Other"
+4,28,Female,Master’s,Mid,IT Support,6.7,75–120k,42,Fully Remote,0,4,3,5,4,3,Low pay,Recognition,15,No,No,"Wellness programs, Remote option, Mentorship"
+3,35,Male,Master’s,Entry,Sales,3.5,75–120k,56,On-site,21,5,2,3,2,5,"Other, Low pay, Limited growth","Team culture, Flexible work, Manager support",22,Yes,Maybe,"Mentorship, Wellness programs, Other"
+3,47,Male,Bachelor’s,Mid,Engineering,1.2,<75k,42,On-site,33,4,3,2,4,4,"Other, Benefits","Purposeful work, Other, Team culture",5,Yes,Yes,Mentorship
+4,38,Male,Bachelor’s,Mid,Other,24.1,120–180k,52,On-site,25,2,4,4,2,3,"Other, Commute, Workload stress",Team culture,26,Yes,No,Mentorship
+3,41,Male,Diploma,Mid,Engineering,1.9,75–120k,40,Fully Remote,0,2,4,1,4,2,Commute,Team culture,11,Yes,Maybe,Mentorship
+3,28,Male,Master’s,Senior,Finance,24.4,120–180k,56,Hybrid,33,5,1,3,3,3,"Lack of flexibility, Limited growth","Other, Team culture, Benefits",27,No,Yes,"Wellness programs, Salary review"
+4,40,Male,Bachelor’s,Senior,HR,8.0,180–250k,45,Fully Remote,0,5,5,1,5,4,"Commute, Workload stress, Culture misfit",Other,24,No,No,"Flexible hours, Wellness programs, Childcare support"
+3,26,Male,Bachelor’s,Entry,Finance,4.8,<75k,35,On-site,19,2,3,5,3,4,"Other, Manager conflict, Benefits","Recognition, Benefits",23,Yes,Yes,"Remote option, Mentorship"
+4,33,Male,Bachelor’s,Mid,Engineering,11.1,120–180k,34,On-site,22,4,3,2,3,2,Culture misfit,Manager support,23,No,Maybe,Other
+3,20,Male,Bachelor’s,Mid,Other,2.9,<75k,40,Fully Remote,0,4,3,3,3,3,"Workload stress, Other","Recognition, Growth path",23,Yes,Maybe,"Childcare support, Salary review"
+4,28,Female,Bachelor’s,Senior,Engineering,6.6,180–250k,39,Hybrid,97,3,4,5,4,4,"Benefits, Low pay",Competitive pay,12,Yes,Yes,Remote option
+4,35,Male,Bachelor’s,Senior,HR,5.8,120–180k,45,Hybrid,38,4,2,5,2,3,Low pay,Other,24,Yes,No,"Flexible hours, Other, Childcare support"
+4,20,Female,Diploma,Lead,Engineering,4.7,120–180k,52,On-site,32,4,5,4,5,3,"Culture misfit, Workload stress",Competitive pay,14,Yes,Maybe,"Flexible hours, Salary review, Childcare support"
+3,20,Female,Diploma,Management,Marketing,8.3,>250k,41,Fully Remote,0,2,3,2,3,3,"Workload stress, Low pay",Competitive pay,35,Yes,No,"Career roadmap, Flexible hours"
+3,27,Male,Master’s,Management,HR,3.2,180–250k,39,On-site,38,1,4,4,5,5,Culture misfit,Growth path,21,No,No,"Wellness programs, Salary review"
+3,34,Male,Master’s,Lead,Finance,5.1,<75k,34,On-site,19,5,3,1,3,2,Workload stress,Purposeful work,10,Yes,Yes,"Childcare support, Flexible hours, Wellness programs"
+4,28,Male,Bachelor’s,Lead,Product,3.7,180–250k,51,On-site,33,4,4,5,3,4,"Culture misfit, Lack of flexibility","Growth path, Competitive pay",13,No,Maybe,"Remote option, Other, Flexible hours"
+2,36,Female,Bachelor’s,Mid,IT Support,4.7,75–120k,42,On-site,8,4,1,2,2,3,Limited growth,"Purposeful work, Team culture, Growth path",30,No,No,Childcare support
+2,37,Male,Master’s,Mid,Product,1.2,<75k,45,Hybrid,22,2,5,1,4,3,"Lack of flexibility, Workload stress, Benefits","Recognition, Purposeful work, Other",17,Yes,Maybe,"Mentorship, Other"
+3,37,Female,Bachelor’s,Senior,Product,3.7,180–250k,49,Fully Remote,0,5,3,4,3,4,"Manager conflict, Limited growth, Culture misfit","Competitive pay, Recognition",14,Yes,No,"Other, Flexible hours, Salary review"
+3,36,Male,Bachelor’s,Mid,Sales,1.4,120–180k,43,Hybrid,13,3,1,4,5,3,Commute,"Flexible work, Purposeful work",24,No,Maybe,Remote option
+4,37,Non-binary,Master’s,Lead,Marketing,11.6,120–180k,53,On-site,21,4,3,5,2,5,"Benefits, Lack of flexibility, Low pay","Growth path, Other, Recognition",7,No,Maybe,Remote option
+3,26,Male,Diploma,Management,Engineering,1.1,180–250k,34,Hybrid,46,4,4,2,4,3,"Workload stress, Other","Flexible work, Team culture",19,No,Maybe,"Salary review, Remote option"
+3,48,Male,Bachelor’s,Entry,Marketing,2.8,<75k,47,On-site,52,4,4,4,3,2,Other,Competitive pay,24,Yes,No,"Career roadmap, Other"
+4,24,Female,Master’s,Lead,Marketing,2.8,<75k,42,On-site,32,4,3,5,2,3,Other,"Flexible work, Recognition",30,Yes,No,"Remote option, Childcare support"
+3,31,Male,Diploma,Mid,Engineering,6.5,120–180k,51,On-site,6,4,5,3,4,3,"Culture misfit, Lack of flexibility","Purposeful work, Other, Growth path",19,Yes,No,"Mentorship, Remote option"
+3,37,Female,Bachelor’s,Mid,IT Support,2.2,120–180k,49,On-site,43,5,5,1,2,5,Manager conflict,"Flexible work, Growth path",26,Yes,Maybe,"Mentorship, Career roadmap"
+2,30,Male,Master’s,Management,Product,2.0,180–250k,55,On-site,64,1,2,2,4,3,"Low pay, Culture misfit, Other",Benefits,20,Yes,Yes,"Career roadmap, Mentorship"
+3,35,Female,Bachelor’s,Senior,Engineering,4.1,180–250k,55,Fully Remote,0,5,3,5,2,2,"Workload stress, Limited growth","Purposeful work, Growth path",19,No,Maybe,Childcare support
+4,44,Female,Master’s,Mid,IT Support,3.7,<75k,30,On-site,23,2,4,4,4,5,"Culture misfit, Limited growth, Lack of flexibility",Recognition,14,No,Maybe,"Remote option, Childcare support, Wellness programs"
+3,43,Male,Master’s,Entry,IT Support,1.9,<75k,51,On-site,38,1,4,4,2,4,"Other, Lack of flexibility, Manager conflict",Benefits,25,Yes,Yes,"Salary review, Wellness programs"
+3,23,Female,Bachelor’s,Entry,Engineering,1.8,75–120k,39,On-site,38,2,1,5,2,2,Workload stress,"Manager support, Growth path, Purposeful work",29,No,Yes,"Flexible hours, Mentorship"
+4,48,Prefer not to say,Master’s,Mid,Product,1.7,<75k,41,On-site,20,5,4,5,3,4,"Lack of flexibility, Other",Growth path,9,No,Yes,"Other, Remote option"
+4,31,Female,Other,Entry,Engineering,1.0,<75k,42,On-site,19,2,3,5,3,5,"Culture misfit, Low pay, Workload stress","Purposeful work, Other",6,No,No,Other
+4,37,Male,Bachelor’s,Management,HR,4.9,180–250k,50,Fully Remote,0,5,5,4,3,1,"Limited growth, Benefits","Manager support, Team culture, Benefits",21,No,Yes,Mentorship
+3,36,Female,Master’s,Senior,Product,2.9,<75k,45,Hybrid,57,5,1,4,2,1,"Workload stress, Benefits",Recognition,13,Yes,No,Wellness programs
+4,30,Male,Bachelor’s,Senior,Product,3.8,180–250k,34,Hybrid,36,4,4,4,5,2,Workload stress,"Growth path, Purposeful work, Manager support",20,Yes,Maybe,Wellness programs
+4,32,Female,Master’s,Entry,Sales,1.7,180–250k,55,On-site,19,4,3,3,3,2,Commute,"Competitive pay, Flexible work",15,Yes,Maybe,Wellness programs
+4,33,Male,Other,Lead,Engineering,7.5,>250k,33,On-site,12,2,4,4,5,4,"Benefits, Culture misfit",Competitive pay,26,Yes,Maybe,"Childcare support, Remote option, Other"
+3,36,Prefer not to say,Diploma,Lead,Product,3.0,>250k,42,On-site,30,2,3,1,5,3,"Culture misfit, Benefits","Recognition, Team culture, Growth path",28,Yes,Maybe,"Wellness programs, Childcare support"
+4,27,Female,Bachelor’s,Mid,Sales,10.5,180–250k,45,On-site,22,4,5,3,5,4,"Workload stress, Benefits, Other","Purposeful work, Competitive pay, Team culture",17,Yes,Maybe,Remote option
+4,33,Male,Other,Mid,Finance,1.0,120–180k,44,On-site,12,3,3,5,4,4,"Lack of flexibility, Low pay, Limited growth","Flexible work, Manager support",35,Yes,Yes,"Childcare support, Remote option, Career roadmap"
+4,22,Female,Bachelor’s,Mid,Sales,5.8,75–120k,30,Hybrid,17,4,4,4,3,2,"Culture misfit, Limited growth, Low pay",Recognition,25,Yes,Yes,Childcare support
+4,33,Male,Master’s,Entry,HR,0.1,<75k,43,On-site,45,5,5,4,3,2,Lack of flexibility,"Competitive pay, Team culture",20,Yes,No,Other
+4,23,Prefer not to say,Bachelor’s,Entry,Engineering,1.1,<75k,30,Hybrid,16,3,5,2,4,2,"Benefits, Lack of flexibility, Low pay",Manager support,22,Yes,Maybe,"Remote option, Career roadmap, Mentorship"
+4,31,Male,Master’s,Lead,HR,3.1,180–250k,38,Fully Remote,0,4,4,4,5,3,"Commute, Limited growth",Growth path,35,Yes,Maybe,"Flexible hours, Mentorship"
+3,46,Female,Bachelor’s,Mid,IT Support,9.3,75–120k,30,Hybrid,22,4,4,2,3,3,"Low pay, Commute, Benefits","Recognition, Other",25,Yes,Maybe,Mentorship
+4,51,Female,Master’s,Senior,Finance,6.6,180–250k,42,Hybrid,32,3,4,4,5,4,"Benefits, Other",Benefits,5,Yes,Maybe,"Career roadmap, Remote option"
+3,38,Male,Bachelor’s,Entry,Sales,4.2,<75k,35,On-site,23,1,2,4,3,5,"Low pay, Other",Flexible work,24,No,Maybe,"Wellness programs, Remote option, Flexible hours"
+5,31,Male,Bachelor’s,Senior,Other,8.1,180–250k,41,Hybrid,22,2,3,3,4,5,Benefits,Purposeful work,10,Yes,Yes,"Remote option, Mentorship, Other"
+4,44,Female,Bachelor’s,Mid,Sales,2.2,75–120k,44,Hybrid,43,2,3,3,5,5,"Limited growth, Benefits, Culture misfit","Team culture, Flexible work, Manager support",4,Yes,Maybe,"Salary review, Wellness programs"
+4,34,Female,Other,Entry,Engineering,5.2,<75k,60,Fully Remote,0,5,2,5,4,5,"Limited growth, Benefits, Low pay","Flexible work, Manager support, Benefits",10,Yes,Maybe,Mentorship
+3,51,Male,Other,Mid,Engineering,0.5,75–120k,56,Hybrid,26,4,3,1,4,5,"Commute, Low pay","Growth path, Flexible work",19,Yes,No,"Flexible hours, Salary review, Mentorship"
+5,29,Prefer not to say,Bachelor’s,Entry,IT Support,10.4,75–120k,30,On-site,29,5,5,5,5,4,Limited growth,Manager support,16,No,Maybe,Childcare support
+4,40,Male,Diploma,Lead,Sales,9.5,120–180k,33,Fully Remote,0,3,2,3,4,5,"Limited growth, Manager conflict","Purposeful work, Other, Flexible work",2,Yes,No,Remote option
+2,33,Male,Bachelor’s,Mid,Product,0.6,75–120k,45,On-site,25,1,3,3,3,2,Limited growth,"Benefits, Manager support",39,Yes,Maybe,Remote option
+4,32,Male,Master’s,Mid,HR,9.6,75–120k,39,On-site,36,3,3,3,4,4,"Low pay, Workload stress, Limited growth","Growth path, Recognition",14,Yes,No,Remote option
+4,20,Female,Master’s,Senior,Engineering,10.6,180–250k,61,Hybrid,30,5,2,4,2,4,"Commute, Culture misfit, Lack of flexibility","Purposeful work, Other",11,Yes,Yes,Career roadmap
+4,23,Male,Bachelor’s,Senior,HR,2.7,<75k,46,On-site,35,5,3,4,4,3,Manager conflict,"Manager support, Purposeful work, Recognition",18,No,Yes,"Flexible hours, Career roadmap"
+2,31,Male,Master’s,Entry,Engineering,13.3,<75k,44,On-site,28,2,2,3,4,5,Culture misfit,Competitive pay,24,Yes,Yes,"Career roadmap, Other"
+4,33,Male,Master’s,Senior,Product,3.1,180–250k,55,Hybrid,20,4,5,5,4,4,Limited growth,Benefits,21,Yes,Maybe,Flexible hours
+3,32,Male,Bachelor’s,Mid,Engineering,1.3,180–250k,49,On-site,35,4,4,3,2,3,Lack of flexibility,"Competitive pay, Benefits, Growth path",19,No,Maybe,Flexible hours
+4,38,Male,Master’s,Mid,Sales,0.5,120–180k,47,On-site,43,4,4,5,2,3,"Limited growth, Benefits","Purposeful work, Benefits, Other",16,Yes,Yes,"Other, Salary review"
+4,47,Prefer not to say,Bachelor’s,Mid,Engineering,0.8,75–120k,33,Hybrid,32,4,3,3,5,3,"Benefits, Manager conflict","Competitive pay, Team culture, Other",17,No,No,Other
+3,39,Female,Doctorate,Mid,Engineering,8.3,120–180k,36,On-site,35,4,3,4,4,4,"Low pay, Lack of flexibility, Culture misfit",Growth path,12,No,Maybe,"Career roadmap, Remote option"
+3,22,Male,Bachelor’s,Management,Sales,3.7,>250k,60,On-site,31,4,2,5,2,4,"Low pay, Benefits","Manager support, Other",30,No,Maybe,Wellness programs
+3,45,Female,Diploma,Lead,Marketing,1.0,120–180k,53,On-site,28,4,1,2,4,4,Limited growth,"Purposeful work, Recognition",9,Yes,Maybe,"Salary review, Wellness programs"
+2,33,Female,Master’s,Entry,IT Support,0.2,75–120k,48,On-site,19,3,1,2,2,3,"Limited growth, Commute","Purposeful work, Team culture",22,No,Yes,"Other, Salary review, Flexible hours"
+3,25,Female,Doctorate,Mid,Marketing,4.8,180–250k,40,On-site,30,2,3,4,4,3,"Culture misfit, Limited growth","Other, Recognition, Team culture",16,Yes,Yes,"Wellness programs, Childcare support"
+2,31,Male,Bachelor’s,Mid,Marketing,4.6,75–120k,43,On-site,60,4,4,1,4,2,Lack of flexibility,"Recognition, Other, Benefits",22,No,No,Mentorship
+3,47,Male,Master’s,Senior,IT Support,0.6,75–120k,49,Fully Remote,0,2,4,4,1,4,Culture misfit,Benefits,29,Yes,Maybe,"Wellness programs, Childcare support, Remote option"
+4,27,Female,Bachelor’s,Lead,Engineering,2.6,120–180k,47,On-site,36,5,4,3,4,5,Manager conflict,"Purposeful work, Manager support",28,Yes,Maybe,"Mentorship, Salary review"
+3,28,Female,Other,Mid,Sales,1.2,75–120k,51,On-site,45,3,4,3,2,1,"Limited growth, Workload stress, Manager conflict",Growth path,0,No,Yes,Career roadmap
+3,37,Male,Bachelor’s,Senior,Engineering,3.7,120–180k,45,Hybrid,36,4,1,4,3,4,"Limited growth, Lack of flexibility, Manager conflict",Flexible work,13,Yes,Yes,"Salary review, Mentorship"
+3,34,Male,Bachelor’s,Mid,Engineering,8.4,75–120k,41,Hybrid,34,3,2,4,3,4,"Manager conflict, Commute",Purposeful work,42,Yes,No,"Other, Career roadmap, Mentorship"
+2,41,Female,Diploma,Mid,Sales,2.3,180–250k,33,Fully Remote,0,5,1,1,2,3,Manager conflict,Competitive pay,24,Yes,No,Flexible hours
+3,26,Male,Bachelor’s,Mid,Product,3.4,>250k,32,Fully Remote,0,2,2,5,3,4,"Benefits, Other, Manager conflict",Recognition,45,No,Yes,"Other, Flexible hours"
+3,29,Male,Master’s,Senior,IT Support,2.1,120–180k,49,Hybrid,33,4,4,3,2,4,"Low pay, Limited growth",Other,32,Yes,Yes,"Career roadmap, Childcare support, Wellness programs"
+4,44,Female,Bachelor’s,Mid,Product,1.0,180–250k,55,Fully Remote,0,5,3,4,4,4,Lack of flexibility,"Flexible work, Competitive pay",23,Yes,No,Remote option
+3,42,Female,Master’s,Mid,Finance,2.4,75–120k,34,Fully Remote,0,4,3,3,4,2,Lack of flexibility,"Competitive pay, Manager support",35,Yes,Maybe,Salary review
+4,38,Male,Bachelor’s,Senior,Engineering,6.5,180–250k,38,Hybrid,33,4,2,5,4,2,Workload stress,Growth path,4,No,No,"Other, Wellness programs"
+3,39,Male,Master’s,Entry,Engineering,1.7,<75k,44,On-site,25,4,3,4,1,4,"Low pay, Lack of flexibility","Benefits, Manager support",31,Yes,Maybe,"Salary review, Flexible hours, Mentorship"
+3,39,Female,Bachelor’s,Lead,Product,6.3,120–180k,42,On-site,28,1,3,2,4,4,Benefits,"Recognition, Growth path",31,No,Maybe,"Flexible hours, Remote option, Wellness programs"
+4,31,Female,Master’s,Senior,Engineering,2.8,180–250k,50,Fully Remote,0,4,3,3,4,5,"Workload stress, Commute, Lack of flexibility","Benefits, Purposeful work",22,No,Yes,"Career roadmap, Flexible hours"
+3,20,Female,Bachelor’s,Senior,Marketing,1.3,180–250k,51,On-site,19,3,3,4,4,5,"Culture misfit, Lack of flexibility","Growth path, Competitive pay",31,Yes,No,"Remote option, Career roadmap"
+4,31,Male,Bachelor’s,Mid,Marketing,1.3,120–180k,45,Hybrid,38,2,5,3,4,5,"Limited growth, Commute",Manager support,35,Yes,Maybe,"Flexible hours, Salary review, Mentorship"
+4,34,Male,Bachelor’s,Mid,Sales,1.1,75–120k,52,On-site,107,5,4,2,4,5,Lack of flexibility,"Other, Flexible work",7,No,No,Mentorship
+4,22,Female,Bachelor’s,Lead,Marketing,1.5,>250k,39,Hybrid,32,2,4,4,5,2,"Manager conflict, Benefits","Purposeful work, Growth path",6,No,Maybe,"Career roadmap, Flexible hours, Other"
+4,41,Female,Master’s,Entry,Engineering,7.4,<75k,46,On-site,13,3,5,3,1,2,Commute,Purposeful work,9,Yes,No,Career roadmap
+3,41,Female,Bachelor’s,Mid,Engineering,5.2,120–180k,47,On-site,36,2,2,3,4,4,"Limited growth, Workload stress","Manager support, Benefits, Team culture",30,No,Maybe,"Wellness programs, Mentorship"
+4,36,Female,Bachelor’s,Mid,Engineering,2.7,180–250k,43,Fully Remote,0,3,4,4,4,3,"Low pay, Benefits, Other",Team culture,15,Yes,Yes,"Remote option, Career roadmap"
+3,43,Female,Bachelor’s,Entry,Finance,0.4,<75k,44,On-site,30,3,4,3,3,3,"Workload stress, Benefits","Competitive pay, Manager support, Purposeful work",28,Yes,Maybe,Flexible hours
+3,30,Male,Master’s,Mid,IT Support,2.4,75–120k,41,Hybrid,37,5,3,3,4,2,Commute,"Manager support, Benefits, Purposeful work",27,No,Yes,"Salary review, Wellness programs, Flexible hours"
+4,23,Male,Diploma,Senior,Marketing,7.5,120–180k,55,On-site,35,3,3,5,4,5,"Workload stress, Commute, Lack of flexibility","Competitive pay, Manager support",26,Yes,Yes,Salary review
+3,28,Female,Master’s,Mid,Sales,1.6,120–180k,52,On-site,51,5,3,3,5,5,Culture misfit,Other,24,Yes,Maybe,Career roadmap
+3,30,Female,Master’s,Lead,Engineering,1.1,180–250k,30,On-site,30,2,5,4,4,3,"Commute, Culture misfit, Benefits","Growth path, Purposeful work, Other",15,Yes,No,"Mentorship, Flexible hours, Career roadmap"
+3,27,Female,Master’s,Senior,Engineering,6.5,180–250k,39,On-site,32,3,3,3,2,4,"Limited growth, Culture misfit, Workload stress","Team culture, Purposeful work, Recognition",19,Yes,Maybe,"Childcare support, Flexible hours"
+4,38,Male,Diploma,Senior,Engineering,10.6,180–250k,52,Fully Remote,0,5,3,4,5,3,Commute,Manager support,27,No,No,Other
+2,31,Female,Bachelor’s,Senior,Sales,2.5,120–180k,76,Hybrid,30,4,2,3,2,3,"Manager conflict, Lack of flexibility, Culture misfit","Purposeful work, Growth path, Manager support",0,Yes,Yes,"Wellness programs, Mentorship, Other"
+3,43,Male,Doctorate,Entry,IT Support,15.2,75–120k,55,On-site,20,2,4,2,5,2,"Limited growth, Culture misfit","Manager support, Flexible work",37,No,Maybe,"Career roadmap, Flexible hours, Wellness programs"
+5,39,Female,Doctorate,Mid,Sales,1.8,75–120k,38,On-site,44,3,4,5,4,4,"Limited growth, Low pay",Flexible work,26,Yes,Yes,"Other, Remote option"
+3,44,Male,Bachelor’s,Lead,Finance,3.2,120–180k,42,Hybrid,22,2,2,2,4,4,Limited growth,Purposeful work,3,Yes,Maybe,Salary review
+3,32,Female,Other,Senior,IT Support,2.9,<75k,36,On-site,39,4,3,3,3,3,"Low pay, Workload stress","Growth path, Manager support",5,No,No,"Mentorship, Flexible hours, Remote option"
+4,30,Male,Master’s,Entry,Engineering,2.3,<75k,32,On-site,56,2,2,5,5,3,"Other, Manager conflict",Competitive pay,35,Yes,Maybe,Salary review
+2,43,Female,Diploma,Entry,Engineering,7.5,75–120k,38,On-site,31,3,4,3,2,4,"Limited growth, Lack of flexibility, Other","Other, Manager support, Growth path",15,Yes,Yes,"Wellness programs, Remote option"
+3,36,Female,Bachelor’s,Lead,IT Support,9.5,>250k,36,On-site,12,4,4,4,2,3,"Benefits, Limited growth","Growth path, Flexible work, Purposeful work",25,Yes,Yes,"Mentorship, Salary review"
+3,32,Male,Master’s,Mid,Engineering,4.6,<75k,45,On-site,32,4,2,4,5,5,"Benefits, Lack of flexibility",Flexible work,7,Yes,Yes,"Mentorship, Childcare support, Career roadmap"
+3,37,Male,Doctorate,Entry,Engineering,14.5,<75k,45,On-site,23,2,4,3,4,3,"Limited growth, Culture misfit, Workload stress","Competitive pay, Other, Flexible work",27,Yes,Yes,Remote option
+3,43,Male,Bachelor’s,Mid,Marketing,3.7,<75k,43,On-site,23,3,3,2,2,5,Manager conflict,"Growth path, Competitive pay",16,Yes,Yes,"Flexible hours, Career roadmap"
+3,32,Female,Bachelor’s,Mid,Sales,4.2,120–180k,41,On-site,12,5,2,5,3,3,"Other, Manager conflict","Benefits, Purposeful work, Recognition",19,No,No,Salary review
+3,33,Male,Bachelor’s,Entry,Engineering,2.7,<75k,49,On-site,11,3,4,3,4,4,"Benefits, Low pay, Commute","Competitive pay, Purposeful work",16,Yes,Yes,"Childcare support, Career roadmap"
+4,36,Female,Bachelor’s,Mid,Engineering,2.6,120–180k,32,Hybrid,36,3,4,4,3,4,"Lack of flexibility, Manager conflict","Purposeful work, Competitive pay",20,Yes,Maybe,Mentorship
+4,33,Female,Bachelor’s,Entry,Marketing,8.4,75–120k,48,On-site,56,5,3,4,4,4,Low pay,"Recognition, Competitive pay, Manager support",24,Yes,Maybe,"Salary review, Remote option"
+2,47,Female,Doctorate,Entry,Engineering,5.6,<75k,39,Hybrid,29,3,1,3,3,5,"Benefits, Culture misfit, Lack of flexibility",Growth path,22,No,No,Other
+4,33,Female,Bachelor’s,Mid,Finance,5.4,120–180k,38,Fully Remote,0,4,3,5,3,4,Culture misfit,"Team culture, Benefits, Purposeful work",28,No,Maybe,Career roadmap
+4,30,Male,Bachelor’s,Entry,IT Support,9.5,<75k,34,Hybrid,39,4,4,4,5,4,"Culture misfit, Commute",Recognition,27,No,Maybe,"Mentorship, Remote option, Wellness programs"
+3,32,Male,Bachelor’s,Mid,Engineering,2.4,<75k,46,On-site,36,5,5,5,2,3,Manager conflict,"Manager support, Other, Competitive pay",3,No,Yes,"Career roadmap, Other"
+4,36,Male,Other,Senior,Finance,7.8,>250k,46,On-site,49,3,5,5,4,3,"Benefits, Culture misfit, Low pay","Purposeful work, Manager support",28,Yes,Maybe,Childcare support
+4,41,Male,Bachelor’s,Entry,HR,2.8,<75k,30,On-site,13,3,5,5,5,5,Lack of flexibility,"Recognition, Competitive pay",14,No,Yes,"Childcare support, Other"
+3,27,Female,Master’s,Mid,Product,6.6,180–250k,57,Fully Remote,0,5,1,3,4,3,Other,"Team culture, Manager support",16,No,Maybe,"Career roadmap, Flexible hours, Mentorship"
+4,32,Female,Other,Mid,Engineering,6.2,120–180k,52,Fully Remote,0,4,4,3,4,3,Commute,"Team culture, Growth path, Manager support",15,Yes,Yes,"Childcare support, Salary review, Career roadmap"
+3,35,Female,Bachelor’s,Mid,Product,0.9,75–120k,44,Hybrid,33,2,4,5,5,5,"Low pay, Limited growth, Workload stress","Benefits, Team culture, Purposeful work",25,Yes,Maybe,"Salary review, Mentorship"
+4,24,Female,Doctorate,Mid,Engineering,4.4,120–180k,49,Hybrid,26,4,4,1,5,4,"Low pay, Limited growth","Other, Benefits",20,Yes,Maybe,"Career roadmap, Remote option"
+4,35,Female,Master’s,Senior,Engineering,2.3,>250k,53,On-site,16,5,2,4,3,3,"Low pay, Manager conflict, Other","Competitive pay, Flexible work, Benefits",11,Yes,Maybe,"Salary review, Career roadmap"
+4,31,Male,Bachelor’s,Entry,IT Support,7.3,120–180k,37,Hybrid,41,4,2,5,4,4,"Low pay, Lack of flexibility","Competitive pay, Recognition, Flexible work",45,Yes,Yes,Flexible hours
+4,35,Male,Bachelor’s,Senior,Marketing,0.8,120–180k,38,On-site,27,2,5,4,2,1,"Limited growth, Benefits","Flexible work, Competitive pay",15,No,No,"Childcare support, Wellness programs"
+2,35,Male,Master’s,Management,Sales,6.3,180–250k,56,Fully Remote,0,4,3,2,3,4,Workload stress,"Competitive pay, Team culture",12,No,Yes,Flexible hours
+5,41,Female,Master’s,Mid,Engineering,2.6,75–120k,45,On-site,34,3,3,3,5,4,"Lack of flexibility, Manager conflict, Culture misfit","Competitive pay, Flexible work, Recognition",23,Yes,Maybe,Mentorship
+4,24,Male,Bachelor’s,Senior,Sales,1.8,120–180k,41,Hybrid,21,4,3,4,3,4,"Limited growth, Low pay, Commute","Other, Manager support",13,Yes,No,"Career roadmap, Flexible hours, Remote option"
+3,35,Male,Bachelor’s,Entry,HR,9.3,75–120k,50,Fully Remote,0,3,3,4,3,1,"Lack of flexibility, Limited growth","Recognition, Manager support, Benefits",29,Yes,Maybe,Wellness programs
+4,36,Male,Diploma,Mid,Engineering,0.3,120–180k,47,On-site,30,4,3,5,3,3,Culture misfit,"Recognition, Flexible work",16,Yes,Yes,"Remote option, Career roadmap"
+5,46,Male,Bachelor’s,Entry,Sales,1.2,<75k,38,On-site,28,2,4,4,5,2,"Other, Workload stress","Manager support, Recognition, Growth path",26,Yes,Maybe,Childcare support
+4,31,Male,Master’s,Mid,Engineering,4.8,75–120k,35,On-site,34,4,4,5,1,5,Low pay,"Competitive pay, Flexible work",33,Yes,Maybe,"Childcare support, Mentorship, Remote option"
+3,42,Female,Bachelor’s,Entry,Sales,3.3,<75k,55,Hybrid,41,4,3,5,4,4,"Lack of flexibility, Limited growth","Competitive pay, Growth path, Benefits",33,No,Yes,"Other, Wellness programs"
+3,40,Male,Master’s,Mid,Sales,1.4,75–120k,53,Fully Remote,0,3,3,4,4,4,Workload stress,"Other, Growth path, Manager support",10,Yes,Maybe,"Other, Mentorship"
+2,21,Male,Bachelor’s,Senior,Engineering,8.2,<75k,42,Hybrid,43,3,4,1,5,2,Manager conflict,"Manager support, Benefits",27,Yes,Maybe,"Childcare support, Remote option, Other"
+3,33,Female,Bachelor’s,Mid,Sales,1.7,<75k,33,On-site,20,4,3,4,1,3,"Manager conflict, Benefits, Commute","Benefits, Growth path",1,Yes,Maybe,"Career roadmap, Mentorship"
+3,34,Male,Other,Mid,Engineering,2.7,<75k,35,On-site,20,3,5,3,4,4,"Limited growth, Manager conflict, Lack of flexibility","Flexible work, Growth path",16,No,Maybe,Salary review
+4,23,Male,Bachelor’s,Mid,Engineering,3.2,75–120k,53,Fully Remote,0,4,4,5,4,2,"Manager conflict, Low pay, Other",Benefits,25,No,No,"Childcare support, Wellness programs, Mentorship"
+4,51,Female,Bachelor’s,Senior,Engineering,6.2,75–120k,55,On-site,44,3,4,5,1,4,"Limited growth, Culture misfit, Manager conflict","Team culture, Growth path",34,No,No,"Flexible hours, Remote option, Salary review"
+5,38,Male,Other,Entry,Sales,1.3,120–180k,42,On-site,36,5,4,1,4,4,"Commute, Culture misfit","Other, Growth path, Benefits",41,No,Maybe,Childcare support
+4,38,Prefer not to say,Bachelor’s,Mid,Engineering,4.6,>250k,48,Hybrid,53,4,4,5,3,5,"Low pay, Other, Limited growth",Purposeful work,20,Yes,Yes,Career roadmap
+4,21,Female,Master’s,Mid,Marketing,10.1,75–120k,55,Hybrid,31,3,4,4,5,3,Manager conflict,"Growth path, Recognition, Competitive pay",20,Yes,Maybe,"Mentorship, Wellness programs, Flexible hours"
+4,20,Male,Diploma,Mid,Engineering,2.2,180–250k,37,Hybrid,26,5,4,4,4,4,Lack of flexibility,"Other, Flexible work",32,No,Maybe,"Other, Mentorship"
+4,30,Female,Bachelor’s,Entry,Product,9.2,<75k,45,Fully Remote,0,4,3,5,4,4,"Commute, Limited growth",Growth path,10,No,Yes,"Childcare support, Mentorship"
+4,38,Female,Bachelor’s,Mid,Engineering,3.2,<75k,40,Fully Remote,0,4,3,2,4,5,"Lack of flexibility, Limited growth","Purposeful work, Flexible work",24,Yes,Maybe,"Childcare support, Wellness programs"
+3,20,Male,Other,Senior,Marketing,12.9,<75k,35,On-site,32,2,5,3,3,3,"Low pay, Lack of flexibility","Benefits, Purposeful work",26,Yes,Maybe,"Career roadmap, Salary review"
+4,58,Female,Bachelor’s,Senior,Engineering,6.0,120–180k,54,Hybrid,48,2,5,5,4,4,"Culture misfit, Benefits",Flexible work,25,No,Maybe,Wellness programs
+3,20,Female,Other,Lead,Engineering,1.8,120–180k,36,On-site,46,4,5,1,1,4,"Limited growth, Lack of flexibility","Other, Growth path",26,Yes,Maybe,"Mentorship, Flexible hours"
+4,34,Male,Bachelor’s,Lead,IT Support,3.8,180–250k,45,Fully Remote,0,3,4,5,2,4,"Workload stress, Lack of flexibility","Purposeful work, Recognition",20,Yes,Yes,Salary review
+4,43,Male,Bachelor’s,Senior,Marketing,7.1,120–180k,43,On-site,46,3,4,3,4,4,"Low pay, Workload stress","Team culture, Competitive pay",21,No,No,Salary review
+4,40,Female,Bachelor’s,Mid,Marketing,3.2,75–120k,51,On-site,29,4,4,3,4,5,Commute,Growth path,12,No,No,"Childcare support, Salary review, Other"
+5,34,Non-binary,Master’s,Mid,Engineering,3.0,180–250k,43,Hybrid,40,4,5,5,3,5,"Benefits, Manager conflict, Other","Team culture, Benefits, Recognition",25,Yes,Maybe,"Other, Flexible hours"
+2,30,Female,Doctorate,Mid,Sales,3.8,75–120k,39,Hybrid,26,4,2,4,1,2,"Limited growth, Manager conflict","Other, Team culture",17,No,Maybe,"Mentorship, Other, Salary review"
+5,34,Male,Master’s,Senior,Engineering,11.6,180–250k,52,Fully Remote,0,5,5,4,4,4,"Limited growth, Culture misfit, Other","Competitive pay, Purposeful work, Manager support",25,Yes,Yes,"Flexible hours, Wellness programs, Remote option"
+3,40,Male,Master’s,Management,HR,2.9,>250k,41,On-site,9,3,3,3,4,5,Manager conflict,"Recognition, Growth path",10,Yes,Maybe,"Mentorship, Salary review"
+4,39,Male,Master’s,Mid,Marketing,4.6,75–120k,39,Hybrid,20,5,4,4,4,3,Low pay,"Purposeful work, Competitive pay",20,Yes,Yes,"Other, Career roadmap, Mentorship"
+3,38,Male,Diploma,Senior,HR,0.9,75–120k,49,Fully Remote,0,3,2,3,3,4,"Culture misfit, Limited growth, Low pay","Growth path, Purposeful work",18,Yes,No,"Flexible hours, Other, Childcare support"
+4,32,Female,Diploma,Management,Marketing,3.6,180–250k,40,Fully Remote,0,5,4,2,4,4,"Culture misfit, Workload stress","Other, Manager support, Growth path",27,Yes,Yes,"Salary review, Remote option"
+3,32,Female,Bachelor’s,Mid,Engineering,3.4,<75k,32,On-site,26,5,4,4,1,3,"Other, Lack of flexibility","Benefits, Flexible work, Growth path",6,Yes,Yes,"Wellness programs, Career roadmap, Childcare support"
+4,32,Non-binary,Diploma,Senior,Other,2.1,120–180k,41,Fully Remote,0,5,4,4,4,4,"Workload stress, Other, Commute","Manager support, Competitive pay, Flexible work",15,Yes,No,Salary review
+3,49,Male,Master’s,Mid,Engineering,5.9,<75k,52,Hybrid,34,2,4,4,3,5,"Limited growth, Low pay","Manager support, Flexible work, Competitive pay",17,Yes,No,Wellness programs
+4,26,Female,Other,Entry,Sales,1.6,<75k,45,Hybrid,45,2,5,4,5,3,"Commute, Lack of flexibility","Purposeful work, Team culture, Manager support",30,Yes,No,Remote option
+2,42,Male,Doctorate,Senior,IT Support,5.3,120–180k,55,Fully Remote,0,3,2,4,4,3,"Limited growth, Workload stress, Benefits","Purposeful work, Benefits, Team culture",17,Yes,Yes,"Other, Flexible hours"
+4,28,Female,Master’s,Senior,Engineering,7.8,120–180k,52,On-site,24,5,2,2,5,4,"Workload stress, Other, Limited growth","Competitive pay, Benefits",51,No,Yes,Other
+4,30,Male,Bachelor’s,Lead,Sales,4.4,180–250k,45,On-site,23,4,5,4,2,3,Other,"Purposeful work, Other",27,Yes,Yes,"Wellness programs, Career roadmap, Salary review"
+3,36,Male,Other,Senior,IT Support,9.3,120–180k,32,Hybrid,42,3,2,3,4,5,"Workload stress, Benefits","Manager support, Other, Benefits",41,Yes,Yes,"Childcare support, Wellness programs, Remote option"
+5,35,Female,Master’s,Mid,Sales,7.0,<75k,46,On-site,30,5,5,4,3,3,"Benefits, Manager conflict","Other, Recognition, Manager support",23,No,Maybe,Mentorship
+2,34,Female,Doctorate,Senior,Finance,3.1,120–180k,80,Hybrid,28,3,1,3,4,3,"Commute, Low pay","Team culture, Competitive pay, Benefits",21,Yes,Yes,Career roadmap
+5,33,Male,Bachelor’s,Mid,Product,9.9,120–180k,49,On-site,14,5,5,4,4,5,"Culture misfit, Other, Manager conflict",Manager support,29,Yes,No,"Flexible hours, Salary review, Remote option"
+4,47,Female,Master’s,Senior,Engineering,8.7,75–120k,30,Fully Remote,0,4,4,3,5,4,"Workload stress, Other, Low pay","Growth path, Competitive pay",24,No,Maybe,"Flexible hours, Childcare support"
+3,20,Female,Bachelor’s,Lead,IT Support,3.7,>250k,45,On-site,11,1,2,1,4,3,Lack of flexibility,"Benefits, Flexible work, Team culture",15,Yes,Yes,Childcare support
+3,38,Non-binary,Bachelor’s,Mid,Engineering,2.0,>250k,39,On-site,23,4,3,4,2,3,"Workload stress, Commute, Low pay",Manager support,14,Yes,Yes,"Childcare support, Flexible hours, Wellness programs"
+2,34,Female,Bachelor’s,Senior,Product,1.7,120–180k,79,On-site,38,4,1,4,2,4,Lack of flexibility,"Growth path, Manager support",25,No,Maybe,Flexible hours
+3,43,Male,Bachelor’s,Lead,Sales,9.6,75–120k,47,Hybrid,47,4,4,4,3,3,Manager conflict,"Benefits, Manager support, Competitive pay",27,No,No,"Mentorship, Wellness programs"
+4,36,Male,Bachelor’s,Senior,Engineering,5.8,75–120k,49,Hybrid,7,4,4,1,5,5,Commute,Benefits,11,No,No,"Mentorship, Flexible hours"
+3,45,Female,Bachelor’s,Lead,Engineering,5.2,180–250k,30,On-site,30,3,3,3,4,4,"Lack of flexibility, Other","Other, Manager support, Purposeful work",31,No,Yes,Childcare support
+5,23,Male,Bachelor’s,Senior,Engineering,16.5,180–250k,45,Hybrid,46,3,5,4,4,5,"Commute, Manager conflict, Workload stress","Other, Team culture, Competitive pay",17,Yes,No,Other
+3,38,Male,Bachelor’s,Entry,Engineering,5.2,<75k,40,Hybrid,46,4,4,4,4,4,"Workload stress, Culture misfit","Benefits, Other, Team culture",24,Yes,No,Wellness programs
+4,22,Male,Bachelor’s,Entry,Sales,4.4,75–120k,55,On-site,117,2,5,3,5,1,"Lack of flexibility, Other","Growth path, Flexible work, Manager support",34,Yes,Yes,Salary review
+3,42,Female,Bachelor’s,Mid,Marketing,12.3,<75k,40,Hybrid,40,2,3,3,3,3,"Benefits, Culture misfit, Other",Team culture,32,Yes,No,"Childcare support, Remote option"
+4,49,Male,Doctorate,Entry,Finance,2.0,<75k,40,Hybrid,39,3,4,5,3,4,"Limited growth, Benefits, Manager conflict","Purposeful work, Competitive pay",14,Yes,No,"Mentorship, Career roadmap"
+4,21,Male,Master’s,Senior,Sales,1.9,180–250k,50,Fully Remote,0,4,3,5,3,4,Limited growth,"Flexible work, Benefits",30,Yes,Yes,Remote option
+4,40,Female,Bachelor’s,Mid,Engineering,6.3,75–120k,36,On-site,24,2,5,4,3,4,Benefits,Recognition,26,Yes,Yes,"Salary review, Mentorship"
+4,32,Male,Diploma,Management,Engineering,3.5,>250k,41,On-site,31,4,3,4,3,5,Culture misfit,"Purposeful work, Manager support, Benefits",39,No,No,"Remote option, Other"
+3,30,Male,Bachelor’s,Mid,Engineering,2.3,>250k,46,On-site,15,3,4,5,3,2,"Benefits, Other, Commute",Benefits,9,No,Yes,"Salary review, Flexible hours, Career roadmap"
+3,28,Male,Bachelor’s,Mid,Engineering,4.2,75–120k,39,On-site,43,3,3,1,3,5,Benefits,Recognition,11,Yes,Maybe,Career roadmap
+4,36,Male,Master’s,Mid,Sales,5.9,120–180k,30,Hybrid,54,4,5,3,3,5,"Commute, Benefits","Manager support, Competitive pay, Flexible work",21,Yes,Maybe,Childcare support
+4,49,Male,Master’s,Entry,Product,3.8,<75k,48,Hybrid,32,4,5,4,4,4,"Limited growth, Benefits, Culture misfit",Flexible work,31,Yes,Yes,"Other, Salary review"
+4,47,Female,Master’s,Mid,Marketing,5.1,75–120k,47,Hybrid,5,4,5,4,4,4,"Benefits, Commute","Growth path, Manager support, Team culture",31,Yes,Maybe,"Wellness programs, Salary review"
+4,26,Male,Master’s,Lead,Engineering,3.1,120–180k,45,Hybrid,30,4,4,2,4,4,"Limited growth, Workload stress, Low pay","Team culture, Recognition",27,Yes,No,"Childcare support, Salary review"
+4,34,Male,Bachelor’s,Senior,Engineering,4.2,75–120k,45,On-site,51,2,4,3,3,4,Lack of flexibility,"Purposeful work, Benefits",0,No,Maybe,Career roadmap
+2,40,Male,Bachelor’s,Senior,HR,2.0,75–120k,81,On-site,36,4,1,4,1,3,Limited growth,"Competitive pay, Purposeful work",19,Yes,Maybe,Remote option
+4,29,Male,Master’s,Mid,HR,3.5,75–120k,49,On-site,31,1,4,5,5,4,"Manager conflict, Culture misfit",Growth path,41,Yes,Maybe,"Flexible hours, Mentorship, Career roadmap"
+4,41,Female,Bachelor’s,Mid,Marketing,4.7,75–120k,55,On-site,29,4,3,2,5,5,"Benefits, Low pay",Team culture,22,No,Yes,Childcare support
+5,37,Female,Bachelor’s,Senior,Engineering,0.7,75–120k,44,On-site,40,5,5,4,2,4,"Other, Manager conflict, Lack of flexibility",Benefits,34,Yes,Maybe,"Career roadmap, Wellness programs"
+4,28,Male,Bachelor’s,Senior,Engineering,4.8,120–180k,57,Hybrid,30,2,3,5,2,5,"Workload stress, Commute","Competitive pay, Purposeful work",29,No,Yes,"Remote option, Other, Childcare support"
+4,38,Male,Diploma,Senior,Engineering,2.9,120–180k,47,On-site,34,3,4,3,5,4,Low pay,"Benefits, Recognition, Competitive pay",26,No,Maybe,"Other, Career roadmap, Mentorship"
+3,26,Male,Bachelor’s,Mid,Marketing,0.9,75–120k,48,Hybrid,25,5,2,2,4,4,Lack of flexibility,"Benefits, Other",44,Yes,Yes,"Other, Flexible hours, Career roadmap"
+3,50,Male,Master’s,Mid,Engineering,2.9,75–120k,41,On-site,41,5,3,2,3,4,"Limited growth, Culture misfit, Commute","Growth path, Recognition",26,Yes,Maybe,"Career roadmap, Childcare support"
+3,31,Female,Bachelor’s,Entry,Engineering,1.8,75–120k,53,On-site,9,3,1,4,3,5,Lack of flexibility,"Purposeful work, Other, Manager support",28,No,Yes,"Other, Flexible hours, Mentorship"
+4,40,Male,Bachelor’s,Senior,Engineering,5.5,120–180k,40,Hybrid,25,3,3,5,4,3,Benefits,Recognition,24,Yes,Yes,Remote option
+3,51,Male,Master’s,Management,IT Support,1.4,180–250k,44,On-site,36,4,3,3,5,2,"Manager conflict, Benefits","Team culture, Benefits, Purposeful work",18,Yes,Maybe,"Wellness programs, Career roadmap, Childcare support"
+2,33,Female,Master’s,Mid,Finance,1.3,120–180k,37,Hybrid,27,3,2,3,4,3,"Culture misfit, Workload stress",Purposeful work,0,Yes,Yes,"Other, Wellness programs"
+5,33,Female,Master’s,Lead,Engineering,2.1,120–180k,30,On-site,24,5,4,5,4,4,"Benefits, Manager conflict","Competitive pay, Recognition, Growth path",38,Yes,Maybe,Childcare support
+4,39,Male,Bachelor’s,Entry,Finance,3.9,<75k,46,On-site,7,1,5,5,3,4,"Limited growth, Lack of flexibility",Purposeful work,5,No,Yes,Other
+4,20,Male,Master’s,Mid,Marketing,2.8,75–120k,47,Hybrid,6,4,3,4,5,4,Lack of flexibility,Team culture,24,Yes,Yes,"Other, Mentorship, Flexible hours"
+2,34,Male,Diploma,Mid,IT Support,8.0,75–120k,43,On-site,38,4,4,2,1,4,"Other, Limited growth","Benefits, Flexible work, Growth path",14,No,No,Salary review
+5,38,Male,Doctorate,Mid,Marketing,2.7,120–180k,53,Hybrid,26,4,4,2,5,4,"Limited growth, Benefits","Other, Growth path",15,Yes,No,"Salary review, Mentorship, Childcare support"
+4,36,Male,Bachelor’s,Mid,Product,6.9,75–120k,30,On-site,51,4,4,2,3,5,"Low pay, Lack of flexibility, Manager conflict","Other, Manager support, Recognition",12,Yes,No,"Flexible hours, Wellness programs"
+3,20,Male,Master’s,Senior,Product,1.5,75–120k,46,On-site,24,4,4,2,4,2,"Manager conflict, Commute",Benefits,33,Yes,Maybe,"Other, Childcare support, Flexible hours"
+3,37,Male,Master’s,Mid,Sales,1.9,120–180k,58,Hybrid,34,4,3,4,5,4,"Commute, Other","Competitive pay, Flexible work, Growth path",13,Yes,Maybe,"Wellness programs, Other"
+4,31,Male,Doctorate,Mid,Engineering,5.9,>250k,49,On-site,38,5,4,5,3,2,"Culture misfit, Commute",Flexible work,2,Yes,Maybe,"Career roadmap, Wellness programs"
+5,34,Female,Bachelor’s,Senior,Finance,4.2,120–180k,56,On-site,41,5,5,4,4,4,Commute,"Other, Purposeful work",25,No,No,"Remote option, Career roadmap"
+3,28,Female,Master’s,Senior,Engineering,3.4,>250k,47,Fully Remote,0,4,2,4,5,3,"Workload stress, Culture misfit",Manager support,16,Yes,Maybe,Wellness programs
+5,33,Female,Master’s,Management,Sales,1.8,>250k,50,Fully Remote,0,5,5,5,5,2,"Limited growth, Manager conflict, Workload stress","Manager support, Competitive pay",23,No,Maybe,"Mentorship, Wellness programs, Flexible hours"
+4,35,Male,Bachelor’s,Senior,IT Support,2.6,120–180k,33,On-site,22,2,5,4,2,3,"Limited growth, Commute, Culture misfit","Other, Growth path, Purposeful work",36,Yes,Yes,Mentorship
+3,25,Male,Bachelor’s,Senior,Engineering,4.4,120–180k,45,On-site,15,1,4,3,2,3,Manager conflict,"Manager support, Flexible work, Competitive pay",22,Yes,No,"Flexible hours, Wellness programs"
+4,38,Male,Bachelor’s,Senior,Other,9.7,180–250k,30,On-site,27,4,3,4,5,5,"Commute, Low pay, Limited growth",Recognition,23,Yes,Yes,"Flexible hours, Career roadmap"
+4,42,Male,Diploma,Mid,HR,1.5,120–180k,54,Fully Remote,0,3,2,3,3,4,Manager conflict,"Growth path, Manager support",28,Yes,Yes,"Mentorship, Career roadmap, Other"
+3,28,Female,Master’s,Senior,Finance,20.7,75–120k,59,On-site,35,2,1,5,5,3,"Culture misfit, Manager conflict, Commute","Manager support, Competitive pay, Flexible work",22,Yes,Maybe,"Remote option, Other"
+4,43,Female,Bachelor’s,Entry,Engineering,2.1,75–120k,42,On-site,27,4,3,3,4,4,"Manager conflict, Lack of flexibility, Workload stress","Other, Team culture, Benefits",27,No,No,Other
+4,69,Male,Master’s,Senior,Other,6.3,120–180k,30,Hybrid,19,2,4,4,3,4,"Commute, Limited growth","Benefits, Flexible work",14,Yes,Yes,Mentorship
+3,29,Male,Master’s,Senior,IT Support,3.5,180–250k,34,Hybrid,22,4,4,3,2,4,"Commute, Manager conflict, Other","Flexible work, Benefits, Growth path",14,Yes,Yes,Remote option
+3,32,Male,Bachelor’s,Mid,Engineering,2.9,<75k,40,Hybrid,26,2,2,4,4,5,"Benefits, Commute, Limited growth","Manager support, Team culture",16,Yes,Yes,"Wellness programs, Childcare support, Other"
+4,27,Female,Bachelor’s,Mid,Engineering,10.0,75–120k,46,On-site,17,3,4,4,4,4,Benefits,Purposeful work,24,No,Yes,"Career roadmap, Salary review"
+4,33,Female,Other,Mid,Engineering,8.4,<75k,44,Fully Remote,0,5,2,5,4,3,"Commute, Lack of flexibility",Benefits,32,Yes,Maybe,"Mentorship, Childcare support, Flexible hours"
+4,37,Female,Bachelor’s,Entry,IT Support,2.0,75–120k,59,On-site,30,3,2,5,4,3,Lack of flexibility,"Manager support, Other, Competitive pay",11,Yes,Yes,"Other, Flexible hours, Remote option"
+3,42,Male,Bachelor’s,Mid,Sales,6.2,<75k,53,Hybrid,38,3,3,3,5,4,"Commute, Lack of flexibility","Team culture, Growth path",14,No,Maybe,Wellness programs
+3,28,Female,Master’s,Mid,IT Support,16.1,120–180k,49,Hybrid,26,5,2,4,2,4,"Commute, Manager conflict, Other",Manager support,12,Yes,Yes,"Career roadmap, Other, Childcare support"
+4,24,Female,Bachelor’s,Senior,Marketing,1.0,75–120k,58,Hybrid,41,2,2,5,4,3,"Lack of flexibility, Other, Benefits","Recognition, Flexible work",21,Yes,Yes,"Wellness programs, Flexible hours"
+3,41,Male,Other,Mid,Sales,7.2,120–180k,33,Fully Remote,0,1,4,4,5,4,"Low pay, Workload stress, Other","Purposeful work, Other, Recognition",7,No,Yes,"Salary review, Career roadmap, Remote option"
+3,41,Female,Bachelor’s,Management,IT Support,3.4,>250k,45,Fully Remote,0,4,2,4,4,3,"Lack of flexibility, Culture misfit, Workload stress","Benefits, Growth path, Other",35,Yes,Maybe,"Flexible hours, Career roadmap, Other"
+4,26,Female,Master’s,Entry,HR,2.8,<75k,55,On-site,10,4,3,2,5,3,"Manager conflict, Limited growth, Benefits","Purposeful work, Team culture, Recognition",12,No,Yes,"Remote option, Wellness programs, Other"
+3,23,Male,Bachelor’s,Mid,Marketing,3.0,120–180k,40,Hybrid,22,4,4,2,5,4,"Benefits, Low pay, Manager conflict","Team culture, Competitive pay, Other",16,Yes,No,Wellness programs
+4,26,Male,Bachelor’s,Mid,Finance,4.2,75–120k,46,Hybrid,40,3,4,4,3,5,"Other, Culture misfit","Recognition, Benefits, Manager support",23,Yes,Maybe,Mentorship
+3,23,Male,Master’s,Mid,IT Support,3.2,75–120k,47,Fully Remote,0,5,2,2,2,4,Workload stress,"Benefits, Growth path, Flexible work",41,No,Maybe,"Mentorship, Flexible hours, Remote option"
+3,46,Female,Master’s,Mid,Sales,3.2,75–120k,38,Fully Remote,0,5,5,3,4,3,Lack of flexibility,Flexible work,12,No,Yes,Childcare support
+4,30,Non-binary,Bachelor’s,Lead,Engineering,0.3,180–250k,42,On-site,31,4,3,4,4,2,Culture misfit,"Purposeful work, Recognition",16,Yes,Maybe,Flexible hours
+5,53,Male,Master’s,Mid,Product,3.6,<75k,30,On-site,55,5,2,4,4,5,Manager conflict,Manager support,26,Yes,Yes,"Childcare support, Flexible hours"
+3,26,Female,Master’s,Senior,Marketing,2.7,75–120k,38,Hybrid,25,2,4,4,4,2,"Limited growth, Culture misfit, Low pay",Purposeful work,8,Yes,Maybe,Wellness programs
+2,28,Female,Master’s,Senior,Engineering,5.7,75–120k,54,Hybrid,23,5,2,1,4,3,"Commute, Manager conflict, Lack of flexibility",Purposeful work,25,Yes,Yes,"Wellness programs, Salary review"
+3,22,Female,Master’s,Entry,IT Support,8.3,120–180k,48,On-site,14,4,4,4,5,3,Workload stress,"Manager support, Competitive pay, Other",25,Yes,Maybe,"Career roadmap, Remote option, Other"
+3,29,Non-binary,Master’s,Entry,Engineering,5.1,75–120k,46,Hybrid,35,4,4,5,5,5,Workload stress,"Growth path, Flexible work",1,Yes,No,"Wellness programs, Childcare support"
+4,32,Female,Bachelor’s,Mid,Sales,5.1,75–120k,38,Fully Remote,0,4,4,4,5,4,"Low pay, Culture misfit",Flexible work,24,Yes,Yes,"Remote option, Flexible hours"
+5,32,Male,Bachelor’s,Mid,Marketing,5.8,180–250k,44,Fully Remote,0,4,5,3,4,5,"Limited growth, Other","Manager support, Purposeful work",22,Yes,No,Salary review
+3,39,Male,Master’s,Senior,Engineering,1.9,120–180k,48,Hybrid,42,4,4,3,5,3,"Other, Lack of flexibility, Commute","Growth path, Manager support, Recognition",31,No,Yes,Remote option
+4,44,Female,Bachelor’s,Senior,Engineering,0.7,>250k,35,On-site,36,5,5,2,4,4,Limited growth,"Purposeful work, Team culture, Manager support",28,Yes,Yes,Career roadmap
+5,32,Female,Master’s,Management,Finance,3.7,>250k,32,Hybrid,30,5,4,3,5,3,"Commute, Workload stress, Culture misfit","Benefits, Flexible work",27,No,Maybe,Childcare support
+2,23,Prefer not to say,Diploma,Lead,Engineering,1.3,75–120k,41,Hybrid,131,4,3,3,3,4,Manager conflict,Purposeful work,15,Yes,Maybe,"Wellness programs, Flexible hours"
+4,27,Female,Master’s,Senior,Engineering,6.8,180–250k,48,Hybrid,8,4,3,4,5,5,Culture misfit,"Team culture, Manager support, Competitive pay",26,Yes,Maybe,"Wellness programs, Remote option, Flexible hours"
+4,36,Female,Bachelor’s,Lead,Other,13.5,180–250k,33,Fully Remote,0,2,4,4,5,5,"Culture misfit, Limited growth, Lack of flexibility","Other, Team culture",20,Yes,No,"Salary review, Career roadmap, Flexible hours"
+2,20,Male,Master’s,Management,Engineering,0.6,>250k,48,On-site,31,2,4,2,3,2,"Commute, Workload stress, Benefits","Team culture, Manager support",16,No,No,Remote option
+4,30,Female,Master’s,Senior,HR,0.5,180–250k,51,Hybrid,33,3,5,4,5,1,"Manager conflict, Low pay, Limited growth","Benefits, Flexible work, Team culture",25,Yes,Yes,"Wellness programs, Career roadmap, Flexible hours"
+3,35,Female,Master’s,Senior,Marketing,7.6,180–250k,43,On-site,16,4,2,5,3,3,"Workload stress, Manager conflict, Benefits","Flexible work, Purposeful work, Manager support",25,Yes,Yes,"Career roadmap, Mentorship"
+3,37,Male,Bachelor’s,Senior,Engineering,2.0,<75k,55,On-site,17,5,5,2,5,3,Commute,Growth path,37,Yes,Yes,"Mentorship, Wellness programs"
+2,38,Male,Master’s,Lead,Engineering,6.6,180–250k,70,On-site,28,4,3,4,2,4,Culture misfit,Recognition,18,Yes,No,"Childcare support, Career roadmap"
+4,31,Male,Master’s,Senior,Sales,3.6,120–180k,55,On-site,42,3,5,4,5,4,"Workload stress, Benefits",Flexible work,21,Yes,Yes,"Wellness programs, Salary review"
+3,28,Female,Bachelor’s,Entry,Marketing,1.0,120–180k,59,On-site,29,4,3,5,1,3,"Culture misfit, Manager conflict, Lack of flexibility","Team culture, Growth path",13,Yes,Maybe,Flexible hours
+3,33,Prefer not to say,Diploma,Senior,Sales,6.1,>250k,36,Fully Remote,0,3,5,3,5,4,"Low pay, Benefits","Growth path, Manager support",28,Yes,Yes,"Other, Childcare support, Remote option"
+3,38,Male,Bachelor’s,Entry,Engineering,0.8,<75k,67,Hybrid,18,5,3,4,3,1,"Lack of flexibility, Manager conflict, Benefits","Manager support, Purposeful work, Recognition",33,Yes,No,"Career roadmap, Remote option"
+3,34,Male,Master’s,Senior,IT Support,3.1,120–180k,36,On-site,30,5,2,3,3,3,"Limited growth, Low pay",Manager support,29,Yes,No,"Childcare support, Wellness programs, Remote option"
+2,30,Male,Diploma,Senior,Product,7.2,75–120k,54,Hybrid,20,2,1,3,1,3,"Benefits, Other, Low pay","Growth path, Other, Team culture",34,No,Maybe,Wellness programs
+3,41,Female,Bachelor’s,Senior,Engineering,1.5,>250k,47,Hybrid,27,3,3,4,4,5,"Low pay, Lack of flexibility, Culture misfit","Manager support, Competitive pay",25,No,Yes,"Childcare support, Wellness programs, Salary review"
+3,43,Male,Bachelor’s,Mid,Engineering,2.6,75–120k,34,On-site,29,5,4,2,2,5,"Benefits, Low pay","Manager support, Team culture, Flexible work",26,Yes,Maybe,Career roadmap
+4,33,Male,Diploma,Entry,Product,0.3,<75k,39,Hybrid,49,3,5,5,4,2,"Workload stress, Manager conflict","Other, Benefits, Manager support",20,Yes,No,Other
+3,40,Male,Master’s,Entry,Engineering,0.6,75–120k,49,On-site,37,2,4,3,4,3,Lack of flexibility,"Growth path, Other",22,Yes,Maybe,"Remote option, Childcare support"
+3,52,Male,Bachelor’s,Mid,Product,0.5,75–120k,42,Fully Remote,0,2,1,3,5,5,"Lack of flexibility, Culture misfit","Flexible work, Other",26,Yes,Maybe,"Career roadmap, Other, Wellness programs"
+3,39,Male,Bachelor’s,Mid,Marketing,1.0,<75k,49,On-site,52,2,3,5,2,5,"Limited growth, Manager conflict, Low pay",Purposeful work,38,Yes,Yes,"Wellness programs, Mentorship"
+3,26,Male,Bachelor’s,Mid,Marketing,1.3,75–120k,46,Hybrid,26,1,3,2,4,4,"Limited growth, Lack of flexibility",Manager support,17,Yes,Maybe,Career roadmap
+4,30,Male,Diploma,Senior,Sales,1.2,120–180k,47,On-site,45,4,4,5,4,3,Culture misfit,"Recognition, Flexible work, Competitive pay",14,No,Maybe,"Other, Childcare support, Mentorship"
+3,40,Male,Bachelor’s,Senior,Other,2.6,120–180k,51,On-site,45,4,2,5,3,4,"Benefits, Other, Lack of flexibility","Benefits, Team culture",15,Yes,No,Wellness programs
+4,27,Male,Bachelor’s,Entry,HR,2.3,<75k,50,Hybrid,7,4,4,2,5,5,"Manager conflict, Workload stress, Low pay","Manager support, Benefits, Competitive pay",42,Yes,No,"Wellness programs, Other, Childcare support"
+4,43,Male,Bachelor’s,Mid,Engineering,5.3,120–180k,42,Fully Remote,0,2,2,5,5,1,"Commute, Low pay","Manager support, Other",10,Yes,No,Salary review
+4,39,Male,Other,Entry,Engineering,1.3,<75k,30,On-site,10,5,4,4,4,4,"Workload stress, Limited growth, Lack of flexibility","Growth path, Team culture",2,No,Maybe,"Salary review, Wellness programs, Career roadmap"
+4,31,Female,Master’s,Management,Finance,3.6,180–250k,35,Fully Remote,0,4,4,5,3,4,"Manager conflict, Culture misfit","Other, Team culture",1,Yes,Yes,"Childcare support, Flexible hours, Career roadmap"
+3,35,Female,Bachelor’s,Mid,Engineering,7.0,180–250k,49,On-site,29,1,3,5,1,4,Lack of flexibility,"Growth path, Other, Team culture",17,Yes,Yes,Mentorship
+4,36,Female,Master’s,Management,Sales,7.9,180–250k,54,Hybrid,29,5,4,2,4,2,Low pay,"Manager support, Growth path, Flexible work",37,No,No,"Childcare support, Other, Mentorship"
+3,32,Female,Master’s,Senior,IT Support,1.9,75–120k,52,On-site,42,3,5,2,4,3,"Lack of flexibility, Workload stress","Purposeful work, Team culture, Recognition",32,Yes,Maybe,Mentorship
+4,46,Male,Bachelor’s,Senior,Sales,4.3,>250k,53,Fully Remote,0,3,4,3,3,5,"Limited growth, Commute",Competitive pay,21,Yes,No,"Flexible hours, Other"
+3,69,Prefer not to say,Bachelor’s,Senior,HR,1.0,120–180k,33,Hybrid,41,3,2,3,4,3,"Lack of flexibility, Limited growth, Culture misfit",Manager support,27,Yes,Maybe,"Flexible hours, Childcare support"
+3,28,Male,Bachelor’s,Mid,Engineering,5.5,120–180k,46,On-site,5,1,3,3,4,5,"Workload stress, Other","Competitive pay, Other",15,No,Yes,Career roadmap
+3,20,Male,Master’s,Mid,Engineering,5.9,75–120k,47,On-site,21,3,5,4,2,3,Limited growth,"Recognition, Flexible work",12,No,Maybe,"Childcare support, Other"
+3,50,Male,Bachelor’s,Mid,Engineering,2.9,120–180k,39,Hybrid,24,5,3,3,3,2,"Workload stress, Manager conflict","Recognition, Purposeful work",27,Yes,No,"Flexible hours, Childcare support"
+4,26,Male,Diploma,Entry,Engineering,6.3,<75k,41,Hybrid,30,3,5,5,5,3,"Other, Benefits, Culture misfit","Recognition, Team culture, Flexible work",6,No,Maybe,"Childcare support, Mentorship"
+5,31,Female,Bachelor’s,Senior,Engineering,13.6,120–180k,37,On-site,32,5,4,4,3,5,"Culture misfit, Benefits, Workload stress","Team culture, Competitive pay",21,Yes,Maybe,Career roadmap
+2,43,Female,Diploma,Mid,Marketing,4.7,75–120k,50,Hybrid,37,3,5,4,4,3,"Low pay, Other",Team culture,34,Yes,Yes,"Salary review, Childcare support, Wellness programs"
+4,49,Female,Bachelor’s,Mid,IT Support,1.5,>250k,46,On-site,13,5,4,4,1,5,"Low pay, Manager conflict",Manager support,38,No,Maybe,"Wellness programs, Salary review, Other"
+5,40,Female,Diploma,Senior,Engineering,1.7,75–120k,42,On-site,150,4,2,4,4,5,"Manager conflict, Limited growth","Competitive pay, Recognition",28,No,No,"Remote option, Mentorship"
+4,32,Male,Bachelor’s,Entry,Engineering,6.4,75–120k,37,Hybrid,32,5,5,4,4,4,Manager conflict,"Team culture, Purposeful work, Benefits",16,No,Yes,"Career roadmap, Flexible hours, Wellness programs"
+2,20,Prefer not to say,Bachelor’s,Senior,Marketing,5.1,180–250k,57,Hybrid,18,2,1,1,3,4,"Benefits, Commute",Manager support,23,Yes,Yes,"Childcare support, Salary review, Wellness programs"
+3,38,Female,Bachelor’s,Mid,Finance,5.7,75–120k,49,Hybrid,17,4,3,2,5,4,Limited growth,Manager support,36,Yes,Yes,Career roadmap
+5,31,Male,Bachelor’s,Lead,Sales,1.4,180–250k,47,On-site,44,3,4,4,3,4,"Commute, Other",Growth path,14,No,No,Flexible hours
+4,33,Non-binary,Diploma,Entry,Product,8.1,75–120k,36,On-site,29,5,5,4,4,4,"Culture misfit, Limited growth",Recognition,16,Yes,Maybe,Flexible hours
+2,31,Non-binary,Master’s,Mid,Marketing,3.8,<75k,30,On-site,32,5,3,2,2,1,"Low pay, Manager conflict, Benefits",Benefits,35,Yes,Yes,Wellness programs
+3,44,Male,Bachelor’s,Senior,Sales,7.9,120–180k,44,On-site,34,4,2,4,3,2,"Low pay, Benefits, Manager conflict",Team culture,18,Yes,Maybe,"Mentorship, Remote option, Wellness programs"
+4,35,Male,Bachelor’s,Mid,Engineering,0.8,<75k,44,On-site,55,4,3,3,4,4,"Other, Commute, Culture misfit",Flexible work,31,Yes,Maybe,Flexible hours
+4,20,Male,Bachelor’s,Lead,Marketing,1.1,180–250k,45,Fully Remote,0,2,2,4,5,3,Lack of flexibility,"Competitive pay, Flexible work",22,Yes,Yes,Childcare support
+4,61,Male,Master’s,Management,IT Support,1.4,180–250k,35,On-site,22,5,5,1,5,4,Low pay,"Other, Growth path, Competitive pay",32,No,Maybe,"Childcare support, Remote option, Wellness programs"
+3,20,Male,Bachelor’s,Entry,Marketing,14.7,<75k,56,Fully Remote,0,4,1,4,4,2,"Culture misfit, Commute, Workload stress","Manager support, Other, Growth path",32,No,Maybe,Remote option
+3,37,Male,Doctorate,Entry,Sales,2.8,<75k,49,On-site,45,4,4,2,5,5,"Workload stress, Lack of flexibility","Competitive pay, Purposeful work, Manager support",23,Yes,Yes,"Mentorship, Other"
+4,43,Male,Bachelor’s,Lead,Sales,2.3,180–250k,38,Fully Remote,0,4,5,3,4,5,"Benefits, Other","Manager support, Other",8,Yes,Yes,"Wellness programs, Other"
+3,24,Male,Bachelor’s,Lead,Other,10.1,180–250k,47,On-site,13,2,4,3,4,1,Manager conflict,"Benefits, Manager support, Team culture",14,No,No,"Career roadmap, Flexible hours"
+3,34,Male,Other,Senior,HR,6.2,120–180k,30,Hybrid,27,3,3,2,2,3,"Benefits, Low pay, Limited growth",Benefits,13,Yes,Maybe,"Childcare support, Flexible hours"
+3,41,Male,Bachelor’s,Mid,Other,5.3,<75k,57,On-site,22,2,3,3,4,5,Commute,"Flexible work, Purposeful work, Team culture",22,Yes,Yes,"Wellness programs, Mentorship"
+3,32,Male,Diploma,Entry,Product,8.5,75–120k,36,Hybrid,33,3,2,5,3,3,"Other, Low pay, Lack of flexibility",Growth path,14,Yes,No,Wellness programs
+3,39,Male,Bachelor’s,Senior,Engineering,5.6,>250k,45,Fully Remote,0,3,4,3,4,4,Workload stress,Team culture,28,Yes,No,"Other, Mentorship"
+4,25,Male,Bachelor’s,Management,Finance,2.5,180–250k,38,On-site,23,4,4,5,4,4,Workload stress,Purposeful work,24,No,Maybe,"Remote option, Career roadmap"
+4,60,Male,Master’s,Lead,Engineering,4.8,180–250k,51,Hybrid,12,3,5,4,5,4,Limited growth,"Flexible work, Manager support, Competitive pay",16,Yes,Maybe,"Other, Mentorship"
+3,33,Female,Bachelor’s,Mid,IT Support,7.5,120–180k,57,On-site,35,4,4,5,1,3,"Culture misfit, Workload stress","Competitive pay, Manager support",7,Yes,Maybe,"Flexible hours, Remote option"
+4,29,Female,Bachelor’s,Senior,Other,1.3,180–250k,41,On-site,12,2,3,3,5,4,Limited growth,"Recognition, Benefits, Flexible work",20,No,Yes,Wellness programs
+3,24,Male,Master’s,Mid,Product,1.2,<75k,89,Hybrid,27,2,3,3,2,5,Lack of flexibility,"Recognition, Team culture",5,No,No,Other
+5,40,Male,Diploma,Lead,Engineering,7.6,180–250k,48,On-site,47,4,5,3,2,5,"Culture misfit, Benefits","Competitive pay, Team culture",13,No,Maybe,"Flexible hours, Remote option"
+4,40,Female,Bachelor’s,Mid,Marketing,6.4,75–120k,35,On-site,26,4,4,4,2,3,"Low pay, Commute, Manager conflict",Manager support,15,Yes,Maybe,"Career roadmap, Wellness programs, Mentorship"
+3,21,Female,Diploma,Mid,Engineering,3.8,75–120k,60,Hybrid,29,4,2,4,4,3,"Lack of flexibility, Workload stress","Team culture, Recognition",25,Yes,Yes,"Flexible hours, Childcare support"
+3,25,Female,Bachelor’s,Lead,Finance,1.4,180–250k,60,Hybrid,29,4,2,4,2,3,Limited growth,Growth path,22,Yes,No,"Mentorship, Childcare support, Salary review"
+3,50,Male,Master’s,Entry,Engineering,18.1,<75k,81,On-site,40,2,2,2,4,3,"Limited growth, Workload stress, Commute","Manager support, Benefits, Purposeful work",15,Yes,Maybe,Remote option
+4,42,Female,Doctorate,Mid,Sales,9.3,<75k,34,On-site,39,4,4,3,3,4,Low pay,"Recognition, Other",21,Yes,No,"Mentorship, Other"
+3,22,Male,Master’s,Mid,Finance,1.7,<75k,37,Fully Remote,0,1,3,2,5,4,"Workload stress, Culture misfit, Other","Competitive pay, Manager support, Growth path",16,Yes,No,Career roadmap
+2,37,Male,Bachelor’s,Mid,HR,11.1,75–120k,54,Fully Remote,0,4,2,4,5,2,"Limited growth, Other, Culture misfit",Benefits,17,Yes,Yes,"Career roadmap, Other"
+4,30,Female,Master’s,Mid,Engineering,6.2,<75k,39,Fully Remote,0,3,4,3,4,5,"Lack of flexibility, Manager conflict","Competitive pay, Team culture, Flexible work",7,Yes,Yes,Other
+4,41,Female,Master’s,Mid,Engineering,3.9,120–180k,38,On-site,36,3,1,2,5,5,Culture misfit,Growth path,26,No,Yes,"Flexible hours, Career roadmap"
+5,28,Female,Master’s,Senior,Engineering,0.7,120–180k,46,Fully Remote,0,3,5,3,3,4,"Culture misfit, Lack of flexibility, Manager conflict","Manager support, Benefits",22,No,No,Remote option
+4,34,Female,Diploma,Entry,Sales,8.2,<75k,37,Fully Remote,0,4,5,4,3,3,"Lack of flexibility, Benefits","Manager support, Other",3,No,Yes,"Childcare support, Salary review"
+4,32,Female,Bachelor’s,Mid,IT Support,2.9,120–180k,48,Hybrid,30,5,3,2,4,4,Benefits,"Competitive pay, Purposeful work",33,Yes,No,Remote option
+3,23,Male,Bachelor’s,Senior,Product,4.3,120–180k,33,On-site,38,2,5,4,4,3,Commute,"Recognition, Competitive pay",29,Yes,No,"Career roadmap, Flexible hours, Childcare support"
+3,26,Male,Master’s,Mid,Marketing,5.9,75–120k,35,Fully Remote,0,3,4,1,4,5,Culture misfit,"Competitive pay, Benefits, Other",12,Yes,No,"Career roadmap, Flexible hours"
+4,20,Male,Doctorate,Mid,Engineering,8.5,75–120k,50,Fully Remote,0,4,5,3,3,5,"Culture misfit, Low pay","Flexible work, Benefits",21,Yes,Yes,"Flexible hours, Career roadmap"
+5,29,Female,Bachelor’s,Entry,Product,3.1,<75k,37,On-site,55,5,3,5,4,3,Lack of flexibility,"Manager support, Growth path, Competitive pay",34,Yes,Yes,Wellness programs
+3,22,Male,Doctorate,Mid,IT Support,3.3,75–120k,41,Fully Remote,0,1,3,2,3,5,"Culture misfit, Commute, Other","Benefits, Recognition",34,No,Yes,"Mentorship, Wellness programs, Career roadmap"
+4,34,Male,Bachelor’s,Lead,Sales,4.4,180–250k,50,Hybrid,19,4,4,3,4,5,Lack of flexibility,"Growth path, Purposeful work, Manager support",16,Yes,Maybe,"Other, Mentorship, Career roadmap"
+3,37,Male,Doctorate,Mid,Sales,9.0,<75k,38,Fully Remote,0,4,4,3,5,2,Culture misfit,"Recognition, Team culture",0,Yes,Yes,Other
+3,27,Male,Master’s,Mid,Marketing,6.8,180–250k,45,Hybrid,42,4,2,4,3,3,"Other, Workload stress","Benefits, Manager support",34,Yes,Maybe,"Mentorship, Childcare support, Wellness programs"
